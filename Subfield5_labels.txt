@@ -1,0 +1,857 @@
+SOMA	Label	Weight
+1	cross section	0.000865052
+1	experimental data	0.020408163
+1	heavy ion collision	0.25
+1	central collision	0.25
+1	angular distribution	0.25
+1	coulomb barrier	1
+1	nuclear matter	0.111111111
+1	transverse momentum	0.00591716
+1	elastic scattering	1
+1	hadron collider	0.111111111
+1	channel calculation	1
+1	excited state	0.001890359
+1	mass energy	0.111111111
+1	optical potential	0.25
+1	quark matter	0.25
+1	theoretical calculation	0.111111111
+1	azimuthal correlation	1
+1	differential cross section	0.25
+1	quark gluon plasma	0.25
+1	centrality dependence	1
+1	particle correlation	1
+1	pp collision	0.111111111
+1	barrier energ	1
+1	coupling model	1
+1	low energy	0.00390625
+1	collision energy	1
+1	excitation energy	0.111111111
+1	energy dependence	0.25
+1	binding energy	0.111111111
+1	model calculation	0.111111111
+1	wide range	0.25
+1	ground state	0.00127551
+1	experimental result	0.020408163
+1	quark meson	1
+1	theoretical model	0.027777778
+1	neutron star	1
+1	angular correlation	0.25
+1	peripheral collision	1
+1	bombarding energ	1
+1	energy loss	0.0625
+1	nonlinear walecka model	1
+1	nucleus collision	0.25
+1	beam energy	0.111111111
+1	incident energy	1
+1	hadronic matter	0.25
+1	hydrodynamic model	0.25
+1	particle multiplicity	0.25
+1	particle production	0.25
+1	phase transition	0.0016
+1	symmetry energy	1
+1	shell model calculation	1
+1	nuclear densit	1
+1	heavy ion	0.111111111
+1	bag model	0.25
+1	coupling constant	0.25
+1	low density	0.015625
+1	incomplete fusion	1
+1	sub barrier energ	1
+1	mean field model	0.0625
+1	breakup channel	1
+1	experimental value	0.04
+1	complete fusion	1
+1	vector meson	1
+1	different model	0.020408163
+1	phenomenological model	0.04
+1	transverse momenta	0.111111111
+1	reaction channel calculation	1
+1	transverse momentum range	0.25
+1	angular momentum	0.25
+1	correlation function	0.00591716
+1	nuclear effect	0.25
+1	intermediate energ	1
+1	nuclear potential	1
+1	initial state	0.027777778
+1	isomeric state	1
+1	total cross section	0.25
+1	statistical multifragmentation model	1
+1	total reaction cross section	1
+1	liquid gas phase transition	1
+1	reaction channel	1
+1	coupling effect	0.25
+1	hadronic phase	0.25
+1	nuclear interaction	1
+1	reaction mechanism	0.25
+1	complete fusion suppression	1
+1	neutron transfer reaction	1
+1	dense medium	1
+1	density dependence	0.25
+1	effective interaction	0.25
+1	transverse energy	0.0625
+1	hadron production	0.25
+1	heavy quark	0.0625
+1	stellar matter	1
+1	free parameter	0.04
+1	bare potential	1
+1	proton proton	0.027777778
+1	present result	0.04
+1	central event	1
+1	binary collision	1
+1	azimuthal distribution	1
+1	rapidity distribution	1
+1	effective mass	0.027777778
+1	energy range	0.0625
+1	experimental observable	1
+1	wave function	0.04
+1	nucleon pair	1
+1	participating nucleon	1
+1	particle pair	1
+1	particle yield	1
+1	pasta phase	1
+1	folding potential	1
+1	nuclear reaction	1
+1	inelastic scattering	1
+1	spin state	0.111111111
+1	meson exchange model	1
+1	linear sigma model	0.0625
+1	total fusion cross section	1
+1	nuclear collision	1
+1	dense matter	0.25
+1	heavy nuclei	1
+1	model prediction	0.111111111
+1	alpha particle	0.0625
+1	particle ratio	1
+1	final state	0.020408163
+1	experimental cross section	0.25
+1	fusion cross section	1
+1	transverse momentum dependence	0.25
+1	final state interaction	0.25
+1	average transverse momentum	0.25
+1	weak decay	0.25
+1	temperature dependence	0.027777778
+1	energy region	0.0625
+1	strong interaction	0.111111111
+1	maximum mass	1
+1	relativistic model	0.25
+1	momentum transfer	0.0625
+1	neutron transfer	1
+1	polarization potential	1
+1	pseudorapidity range	1
+1	direct reaction	1
+1	total reaction	1
+1	continuum state	1
+1	quasielastic barrier distribution	1
+1	heavy flavor decay	1
+1	system size dependence	1
+1	nucleon nucleon center	1
+1	random phase approximation	0.25
+1	fixed proton fraction	1
+1	hydrodynamic calculation	1
+1	pairing correlation	1
+1	recent data	0.25
+1	using data	0.0625
+1	energy density	0.020408163
+1	particle density	0.0625
+1	rapidity dependence	1
+1	distribution function	0.005102041
+1	free energy	0.005102041
+1	fusion process	0.25
+1	fusion reaction	1
+1	heavy target	1
+1	ion collider	1
+1	homogeneous matter	1
+1	model parameter	0.027777778
+1	optical model	0.25
+1	shell model	1
+1	walecka model	1
+1	impact parameter	1
+1	phase diagram	0.004444444
+1	constituent quark	0.25
+1	quark degrees	1
+1	broad range	0.25
+1	system size	0.0625
+1	reaction cross section	1
+1	nuclear matter density	1
+1	transverse momentum distribution	0.25
+1	nuclear matter effect	0.25
+1	nucleon nucleon interaction	1
+1	phi meson production	1
+1	low transverse momentum	0.25
+1	transverse momentum spectra	0.25
+1	order phase transition	0.027777778
+1	binary nucleon nucleon collision	1
+1	angular range	1
+1	barrier distribution	1
+1	decay channel	0.027777778
+1	inelastic channel	1
+1	collision system	1
+1	beta decay	0.25
+1	baryon density	1
+1	charge distribution	0.111111111
+1	energy distribution	0.0625
+1	experimental uncertaint	0.111111111
+1	total fusion	1
+1	hadron state	1
+1	residual interaction	1
+1	delta meson	1
+1	rho meson	1
+1	neutron configuration	1
+1	neutron halo	1
+1	neutron number	1
+1	adjustable parameter	0.111111111
+1	mixed phase	0.0625
+1	kinematic range	1
+1	large range	0.25
+1	short range	0.027777778
+1	reaction plane	1
+1	numerical result	0.04
+1	colliding system	1
+1	fusion barrier distribution	1
+1	hadronic decay channel	1
+1	proton proton collision	0.04
+1	point correlation function	0.25
+1	quark meson coupling	1
+1	nuclear gluon distribution	1
+1	mean transverse momentum	1
+1	elastic scattering analysis	1
+1	sub barrier	1
+1	centrality bin	1
+1	linear correlation	0.25
+1	continuum coupling	1
+1	inelastic coupling	1
+1	data set	0.0625
+1	existing data	1
+1	present data	0.111111111
+1	hadron decay	0.111111111
+1	semileptonic decay	0.25
+1	saturation density	1
+1	strong dependence	0.25
+1	effective lagrangian	0.25
+1	magnetic effect	0.0625
+1	nonflow effect	1
+1	static effect	1
+1	energy spectra	0.111111111
+1	low mass	0.25
+1	mass frame	1
+1	pion mass	1
+1	neutron matter	1
+1	nuclear model	1
+1	potential model	0.111111111
+1	statistical model	0.111111111
+1	thermal model	1
+1	momentum space	0.25
+1	relative momentum	1
+1	neutron pressure	1
+1	neutron proton	1
+1	participant nucleon	1
+1	asymmetry parameter	1
+1	particle spec	0.25
+1	trigger particle	1
+1	chemical potential	0.111111111
+1	imaginary potential	1
+1	vector potential	0.25
+1	psi production	0.111111111
+1	charm quark	0.25
+1	finite range	0.25
+1	consistent result	0.25
+1	corresponding result	0.25
+1	previous result	0.04
+1	theoretical result	0.04
+1	multiple scattering	1
+1	different system	0.0625
+1	binary collision scaling	1
+1	elastic cross section	1
+1	production cross section	0.015625
+1	nuclear saturation density	1
+1	hadron collider energ	1
+1	low excitation energy	1
+1	nuclear symmetry energy	1
+1	symmetry energy curvature	1
+1	transverse kinetic energy	1
+1	fusion evaporation reaction	1
+1	dependent hadronic model	1
+1	heavy flavor meson	1
+1	heavy flavor muons	1
+1	heavy ion reaction	1
+1	heavy ion system	1
+1	short range interaction	0.111111111
+1	radioactive ion beam	1
+1	intranuclear cascade model	1
+1	optical model potential	1
+1	large transverse momentum	1
+1	transverse momentum spectrum	1
+1	neutron proton asymmetry	1
+1	nucleon nucleon bremsstrahlung	1
+1	baryon chemical potential	1
+1	pion exchange potential	1
+1	scalar product method	1
+1	weakly bound system	1
+1	complete fusion cross section	1
+1	large scale shell model calculation	1
+1	near barrier	1
+1	approximation calculation	1
+1	numerical calculation	0.111111111
+1	previous calculation	0.111111111
+1	central potential	0.25
+1	centrality classe	1
+1	centrality interval	1
+1	different centralit	1
+1	increasing centrality	1
+2	nuclei	0.062588
+2	centrality	0.049461
+2	nucleus	0.046882
+2	breakup	0.046414
+2	azimuthal	0.027895
+2	rhic	0.024848
+2	midrapidity	0.019222
+2	fission	0.018987
+2	projectile	0.017815
+2	radii	0.015706
+2	isotopes	0.014768
+2	peripheral	0.014534
+2	inelastic	0.014299
+2	pions	0.014065
+2	phenix	0.013361
+2	protons	0.011955
+2	targets	0.011721
+2	freeze	0.011486
+2	deuteron	0.011252
+2	isospin	0.011017
+2	strange	0.010783
+2	pbpb	0.010549
+2	nucleons	0.010314
+2	bnl	0.009845
+2	pseudospin	0.009611
+2	neutrons	0.009376
+2	photoproduction	0.009376
+2	hydrodynamics	0.009142
+2	 kaon	0.009142
+2	alice	0.008908
+2	crust	0.008908
+2	walecka	0.008908
+2	folding	0.008673
+2	scaled	0.008439
+2	cumulants	0.008204
+2	strangeness	0.008204
+2	trigger	0.008204
+2	widths	0.008204
+2	deduced	0.00797
+2	multifragmentation	0.00797
+2	parametrization	0.00797
+2	parametrizations	0.00797
+2	skyrme	0.00797
+2	discretized	0.007736
+2	evaporation	0.007736
+2	hyperon	0.007736
+2	slope	0.007736
+2	systematics	0.007501
+2	projectiles	0.007267
+2	capture	0.007032
+2	ppb	0.007032
+2	reproduced	0.006798
+2	stellar	0.006798
+2	bombarding	0.006564
+2	jona	0.006564
+2	lasinio	0.006564
+2	nambu	0.006564
+2	 pasta 	0.006564
+2	angles	0.006329
+2	 back 	0.006329
+2	conclusions	0.006329
+2	earlier	0.006329
+2	incomplete	0.006329
+2	multiplicities	0.006329
+2	residual	0.006329
+2	yrast	0.006329
+2	backward	0.00586
+2	comparisons	0.00586
+2	facility	0.00586
+2	help	0.00586
+2	hydrodynamical	0.00586
+2	quasielastic	0.00586
+2	comparable	0.005626
+2	kaons	0.005626
+2	qgp	0.005626
+2	radioactive	0.005626
+2	sym	0.005626
+2	bag	0.005391
+2	cascade	0.005391
+2	colliding	0.005391
+2	diffuseness	0.005391
+2	saxon	0.005391
+2	woods	0.005391
+2	cdcc	0.005157
+2	 eos 	0.005157
+2	hyperons	0.005157
+2	quadrupole	0.005157
+2	qualitative	0.005157
+2	quasiparticle	0.005157
+2	strengths	0.005157
+2	constituent	0.004923
+2	factorization	0.004923
+2	isotopic	0.004923
+2	modifications	0.004923
+2	onset	0.004923
+2	participants	0.004923
+2	picture	0.004923
+2	affect	0.004688
+2	agree	0.004688
+2	bins	0.004688
+3	heavy ion	0.25
+3	ion collision	0.25
+3	heavy ion collision	0.25
+3	elastic scattering	1
+3	nuclear matter	1
+3	cross section	0.01
+3	electron ion	0.25
+3	coupling model	1
+3	quark meson	1
+3	large hadron collider	1
+3	barrier energ	1
+3	centrality dependence	1
+3	pp collision	0.111111111
+3	azimuthal correlation	1
+3	quark matter	1
+3	neutron star	1
+3	coulomb barrier	1
+3	magnetic field	0.00390625
+3	systematic stud	1
+3	meson production	0.111111111
+3	nucleus collision	1
+3	stellar matter	1
+3	compact star	1
+3	intermediate energ	1
+3	relativistic model	1
+3	reaction mechanism	0.25
+3	heavy ion	0.25
+3	angular correlation	1
+3	spin state	1
+3	elliptic flow	1
+3	transverse momentum dependence	1
+3	symmetry energ	1
+3	nuclear collision	1
+3	hadronic matter	1
+3	coupling effect	1
+3	hadron production	1
+3	inelastic scattering	1
+3	particle correlation	1
+3	neutron transfer	1
+3	optical potential	1
+3	flow harmonics	1
+3	transverse momentum	1
+3	direct photon production	1
+3	heavy ion reaction	1
+3	energy dependence	0.25
+3	particle production	0.25
+3	fusion reaction	1
+3	total reaction	1
+3	nuclear potential	1
+3	hybrid star	1
+3	spin structure	1
+3	angular distribution	1
+3	lead lead collision	1
+3	mean field model	0.25
+3	statistical multifragmentation model	1
+3	magnetized quark matter	1
+3	nuclear matter constraint	1
+3	effective field theor	0.111111111
+3	quark gluon plasma	1
+3	breakup threshold anomal	1
+4	nuclei	0.101666667
+4	nucleus	0.078333333
+4	breakup	0.075
+4	bnl	0.028333333
+4	isotopes	0.023333333
+4	kaon	0.023333333
+4	deuteron	0.018333333
+4	fission	0.018333333
+4	multifragmentation	0.018333333
+4	identified	0.016666667
+4	pseudospin	0.016666667
+4	rhic	0.016666667
+4	femtoscopy	0.015
+4	fragments	0.015
+4	freeze	0.013333333
+4	harmonics	0.013333333
+4	hypernuclear	0.011666667
+4	crust 	0.01
+4	diffuseness	0.01
+4	dihadron	0.01
+4	multiparticle	0.01
+4	nonmesonic	0.01
+4	peripheral	0.01
+4	targets	0.01
+4	cumulants	0.008333333
+4	hyperon	0.008333333
+4	hypernuclei	0.006666667
+4	isoscaling	0.006666667
+4	octupole	0.006666667
+4	nucleon	0.081666667
+4	available	0.03
+4	systematic	0.021666667
+4	 pasta 	0.016666667
+4	 rho 	0.015
+4	snn	0.015
+4	back	0.011666667
+4	fragment	0.011666667
+4	 net 	0.011666667
+4	projectile	0.011666667
+4	capture	0.01
+4	incomplete	0.01
+4	reexamined	0.01
+4	respect	0.01
+4	kev	0.008333333
+4	projectiles	0.008333333
+4	shadowing	0.008333333
+4	strangeness	0.008333333
+4	ultrarelativistic	0.008333333
+4	walecka	0.008333333
+4	attenuation	0.006666667
+4	detailed	0.006666667
+4	gevau	0.006666667
+4	incoherent	0.006666667
+4	pauli	0.006666667
+4	primary	0.006666667
+4	quasielastic	0.006666667
+4	slope	0.006666667
+4	stripping	0.006666667
+4	radii	0.006666667
+4	borromean	0.006666667
+5	quark gluon plasma	0.25
+5	heavy ion collision	1
+5	jet quenching	1
+5	nuclear matter	1
+5	heavy ion	0.111111111
+5	relativistic hydrodynamic	1
+5	small system	1
+5	mit bag model	1
+5	quark meson coupling model	1
+5	relativistic heavy ion collision	1
+5	burgers equation	1
+5	statistical reaction	1
+5	strange star	1
+5	lead lead collision	1
+5	nuclear modification factor	1
+5	strange quark matter	1
+5	two particle correlation	1
+5	xenon xenon collision	1
+5	nonperturbative equation of state	1
+5	ads/cft correspondence	1
+5	alice detector	1
+5	anti nuclei	1
+5	atlas experiment	1
+5	dijet asymmetry	1
+5	eikonal model	1
+5	elliptic flow	1
+5	fermi breakup	1
+5	flow fluctuation	1
+5	forward rapidity	1
+5	fragmentation function	1
+5	friedmann equation	1
+5	hadron production	1
+5	hagedorn state	1
+5	heavy flavor	1
+5	heavy flavour	1
+5	heavy ion	0.111111111
+5	jet fragmentation	1
+5	jet reconstruction	1
+5	jet shape	1
+5	lattice qcd	1
+5	limiting fragmentation	1
+5	mass defect	1
+5	nonlinear wave	1
+5	particle correlation	1
+5	particle production	1
+5	pp collision	1
+5	quark matter	1
+5	quarkonia production	1
+5	quasi particle	1
+5	relativistic model	1
+5	small system	1
+5	subevent cumulant	1
+5	symmetric cumulant	1
+5	system size	1
+5	thermal fit	1
+5	ultraperipheral collision	1
+5	pb pb collision	1
+5	pb plus pb	1
+5	charged hadron production	1
+5	dynamical hadronic interaction	1
+6	quark gluon plasma	0.25
+6	heavy ion collision	1
+6	jet quenching	1
+6	nuclear matter	1
+6	heavy ion	0.111111111
+6	relativistic hydrodynamic	1
+6	small system	1
+6	mit bag model	1
+6	quark meson coupling model	1
+6	relativistic heavy ion collision	1
+6	burgers equation	1
+6	statistical reaction	1
+6	strange star	1
+6	lead lead collision	1
+6	nuclear modification factor	1
+6	strange quark matter	1
+6	two particle correlation	1
+6	xenon xenon collision	1
+6	nonperturbative equation of state	1
+6	ads/cft correspondence	1
+6	alice detector	1
+6	anti nuclei	1
+6	atlas experiment	1
+6	dijet asymmetry	1
+6	eikonal model	1
+6	elliptic flow	1
+6	fermi breakup	1
+6	flow fluctuation	1
+6	forward rapidity	1
+6	fragmentation function	1
+6	friedmann equation	1
+6	hadron production	1
+6	hagedorn state	1
+6	heavy flavor	1
+6	heavy flavour	1
+6	heavy ion	0.111111111
+6	jet fragmentation	1
+6	jet reconstruction	1
+6	jet shape	1
+6	lattice qcd	1
+6	limiting fragmentation	1
+6	mass defect	1
+6	nonlinear wave	1
+6	particle correlation	1
+6	particle production	1
+6	pp collision	1
+6	quark matter	1
+6	quarkonia production	1
+6	quasi particle	1
+6	relativistic model	1
+6	small system	1
+6	subevent cumulant	1
+6	symmetric cumulant	1
+6	system size	1
+6	thermal fit	1
+6	ultraperipheral collision	1
+6	pb pb collision	1
+6	pb plus pb	1
+6	charged hadron production	1
+6	dynamical hadronic interaction	1
+7	meson	0.112195122
+7	mev	0.107317073
+7	deduced	0.102439024
+7	measured	0.097560976
+7	theta	0.058536585
+7	soil	0.053658537
+7	coin	0.034146341
+7	fragmentation	0.034146341
+7	comparison	0.029268293
+7	hydrodynamics	0.029268293
+7	breakup	0.024390244
+7	collectivity	0.024390244
+7	epsilon	0.024390244
+7	factors	0.024390244
+7	nucleon	0.024390244
+7	attenuation	0.019512195
+7	cumulants	0.019512195
+7	hypernuclei	0.019512195
+7	strange	0.019512195
+7	xenon	0.019512195
+7	brachytherapy	0.014634146
+7	eikonal	0.014634146
+7	gammasphere	0.014634146
+7	parton	0.014634146
+7	radioactivity	0.014634146
+7	alice	0.009756098
+7	anomaly	0.009756098
+7	charmonia	0.009756098
+7	charmonium	0.009756098
+7	deuteron	0.009756098
+8	quark gluon plasma	0.25
+8	elastic scattering	0.25
+8	heavy ion collision	0.25
+8	cross section	0.0625
+8	equation of state	0.25
+8	nuclear matter	1
+8	subbarrier fusion	1
+8	elliptic flow	1
+8	au+au collision	1
+8	transverse momentum	0.25
+8	nucleus nucleus collision	1
+8	c 12	1
+8	large transverse momentum	1
+8	centrality dependence	1
+8	coulomb barrier	1
+8	neutron star	1
+8	color glass condensate	0.25
+8	mean field theory	0.25
+8	cross section	0.0625
+8	he 6	1
+8	pb collision	1
+8	pb pb collision	1
+8	statistical multifragmentation	1
+8	anisotropic flow	1
+8	dynamical model	1
+8	pb 208	1
+8	phase transition	0.012345679
+8	time projection chamber	1
+8	hadron production	1
+8	inelastic scattering	0.25
+8	bose einstein correlation	1
+8	coulomb correction	1
+8	d+au collision	1
+8	finite temperature	0.111111111
+8	li 11	1
+8	long range	0.25
+8	neutron star	1
+8	plus au collision	1
+8	weakly bound nuclei	1
+8	reaction channel	1
+8	shell model	1
+8	small x	0.25
+8	au collision	1
+8	channels calculation	1
+8	freeze out	1
+8	gas phase transition	1
+8	angular correlation	1
+8	barrier distribution	1
+8	folding model	1
+8	deep inelastic scattering	0.25
+8	heavy ion fusion	1
+8	proton proton collision	0.25
+8	dense matter	1
+8	energy level	1
+8	energy loss	1
+8	field theory	0.015625
+8	halo nuclei	1
+8	nuclear collision	1
+8	particle production	1
+8	chiral perturbation theory	1
+9	nuclei	0.17961165
+9	nucleus	0.106796117
+9	barrier	0.087378641
+9	breakup	0.076456311
+9	fission	0.049757282
+9	subbarrier	0.047330097
+9	isotopes	0.037621359
+9	multifragmentation	0.037621359
+9	channels	0.035194175
+9	hydrodynamics	0.025485437
+9	phenix	0.023058252
+9	projection	0.02184466
+9	rich	0.02184466
+9	chamber	0.019417476
+9	freeze	0.018203883
+9	radii	0.016990291
+9	signature	0.016990291
+9	collective	0.015776699
+9	hypernuclei	0.015776699
+9	parametrization	0.015776699
+9	weakly	0.015776699
+9	deuteron	0.014563107
+9	isospin	0.014563107
+9	folding	0.013349515
+9	protons	0.013349515
+9	analogy	0.012135922
+9	pauli	0.012135922
+9	pions	0.012135922
+9	radius	0.012135922
+9	evaporation	0.01092233
+10	 au 	0.212040894
+10	+au	0.212040894
+10	au+	0.212040894
+10	auau	0.212040894
+10	 pb 	0.135933359
+10	+pb	0.135933359
+10	pb+	0.135933359
+10	pbpb	0.135933359
+10	s(nn)	0.114350625
+10	 pi 	0.109806891
+10	pi(	0.109806891
+10	 pi,	0.109806891
+10	/pi	0.109806891
+10	 li 	0.071563802
+10	 li,	0.071563802
+10	 cu 	0.049602423
+10	 cu,	0.049602423
+10	+cu	0.049602423
+10	cu+	0.049602423
+10	 nu 	0.047330557
+10	nu(	0.047330557
+10	 pp 	0.045815979
+10	 pp,	0.045815979
+10	)pp	0.045815979
+10	(pp	0.045815979
+10	pp)	0.045815979
+10	pp(	0.045815979
+10	 ni 	0.023475956
+10	 ni,	0.023475956
+10	)ni	0.023475956
+10	(ni	0.023475956
+10	ni)	0.023475956
+10	ni(	0.023475956
+10	r aa	0.022340023
+10	 pt 	0.022340023
+10	(pt)	0.022340023
+10	p(t)	0.022340023
+10	 mu 	0.021961378
+10	 mu,	0.021961378
+10	)mu	0.021961378
+10	(mu	0.021961378
+10	mu)	0.021961378
+10	mu(	0.021961378
+10	 sn 	0.021961378
+10	 sn,	0.021961378
+10	 fm 	0.017039
+10	 fm,	0.017039
+10	)fm	0.017039
+10	(fm	0.017039
+10	fm)	0.017039
+10	fm(	0.017039
+10	fm/c	0.017039
+10	 mg 	0.016281711
+10	 mg,	0.016281711
+10	)mg	0.016281711
+10	(mg	0.016281711
+10	mg)	0.016281711
+10	mg(	0.016281711
+10	+mg	0.016281711
+10	si 28	0.016281711
+10	de excitation	0.014388489
+10	de(t)	0.014388489
+10	(sm)	0.014009845
+10	sm 144	0.014009845
+10	sm 157	0.014009845
+10	sm 150	0.014009845
+10	sm 154	0.014009845
+10	 cf 	0.012116622
+10	 nb 	0.011359334
+10	 nb,	0.011359334
+10	 nb.	0.011359334
+10	nb(	0.011359334
+11	 au 	0.317280453
+11	au+	0.317280453
+11	+au	0.317280453
+11	auau	0.317280453
+11	s(nn)	0.247875354
+11	pbpb	0.140226629
+11	 pb 	0.140226629
+11	+pb	0.140226629
+11	pb+	0.140226629
+11	 li 	0.076487252
+11	 li,	0.076487252
+11	 cu 	0.050991501
+11	 cu,	0.050991501
+11	 pi 	0.045325779
+11	pi(	0.045325779
+11	 pi,	0.045325779
+11	/pi	0.045325779
+11	 pp 	0.039660057
+11	 pp,	0.039660057
+11	 ni 	0.036827195
+11	+ni	0.036827195
+11	 sn 	0.028328612
+11	+sn	0.028328612
+11	 si 	0.016997167
+11	+si	0.016997167

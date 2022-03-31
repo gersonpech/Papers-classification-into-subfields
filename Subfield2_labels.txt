@@ -1,0 +1,787 @@
+SOMA	Label	Weight
+1	dynamical system	0.111111111
+1	critical exponent	0.25
+1	numerical simulation	0.25
+1	square lattice	0.25
+1	phase space	0.012345679
+1	phase diagram	0.00591716
+1	magnetic field	0.000625
+1	initial condition	0.111111111
+1	random walk	0.111111111
+1	complex network	1
+1	critical behavior	0.25
+1	phase transition	0.001890359
+1	power law	0.027777778
+1	time evolution	0.111111111
+1	free energy	0.00591716
+1	experimental data	0.015625
+1	time serie	0.25
+1	statistical mechanic	0.25
+1	critical point	0.111111111
+1	numerical result	0.04
+1	stationary state	0.0625
+1	parameter space	0.020408163
+1	lyapunov exponent	1
+1	complex system	0.0625
+1	critical temperature	0.111111111
+1	ising model	0.04
+1	differential equation	0.015625
+1	low temperature	0.012345679
+1	fractal dimension	0.111111111
+1	order phase transition	0.027777778
+1	order parameter	0.027777778
+1	critical value	0.0625
+1	fixed point	0.25
+1	dynamical behavior	0.111111111
+1	control parameter	0.111111111
+1	dimensional lattice	0.111111111
+1	probability distribution	0.0625
+1	statistical propert	0.111111111
+1	neural network	1
+1	external field	0.111111111
+1	tricritical point	1
+1	dynamical propert	0.111111111
+1	mean field	0.005102041
+1	experimental result	0.020408163
+1	simulation result	0.111111111
+1	numerical solution	0.111111111
+1	detrended fluctuation analysis	1
+1	simple model	0.027777778
+1	stochastic model	1
+1	discrete time	0.25
+1	analytical result	0.111111111
+1	empirical result	1
+1	different value	0.0625
+1	hurst exponent	1
+1	mathematical model	0.25
+1	steady state	0.01
+1	stochastic process	0.25
+1	critical propert	0.25
+1	previous result	0.04
+1	random variable	1
+1	parameter value	1
+1	different state	1
+1	possible state	1
+1	ordinary differential equation	0.25
+1	chaotic system	0.25
+1	ground state	0.00127551
+1	numerical method	0.25
+1	vertex model	0.25
+1	free network	1
+1	absorbing state	0.111111111
+1	numerical experiment	0.111111111
+1	simple exclusion process	0.25
+1	dimensional system	0.04
+1	solution method	1
+1	main result	0.04
+1	thermodynamic propert	0.0625
+1	quantum mechanic	0.00591716
+1	tsallis entropy	1
+1	boltzmann equation	0.111111111
+1	partition function	0.0625
+1	range interaction	0.0625
+1	power law behavior	0.25
+1	theoretical model	0.020408163
+1	quantum system	0.04
+1	chaotic dynamic	0.25
+1	nonlinear dynamic	1
+1	network topology	1
+1	coupling parameter	0.0625
+1	dimensional case	0.0625
+1	exponential function	0.111111111
+1	chaotic behavior	1
+1	order transition	0.111111111
+1	numerical analysis	1
+1	random walk model	0.111111111
+1	small world network	1
+1	finite size scaling analysis	1
+1	running time	1
+1	random network	1
+1	equilibrium state	0.04
+1	dimensional map	1
+1	small value	0.111111111
+1	random graphs	1
+1	finite temperature	0.0625
+1	interacting particle	0.111111111
+1	continuous time	0.25
+1	finite time	0.111111111
+1	time interval	1
+1	time scale	0.111111111
+1	langevin equation	0.25
+1	spatial dimension	0.0625
+1	finite number	1
+1	gaussian distribution	0.25
+1	theoretical result	0.04
+1	large value	0.25
+1	power law distribution	1
+1	finite size effect	0.0625
+1	dimensional model	0.027777778
+1	network model	1
+1	system parameter	0.111111111
+1	tailed distribution	1
+1	master equation	0.25
+1	scaling exponent	1
+1	numerical calculation	0.111111111
+1	numerical example	1
+1	magnetic propert	0.111111111
+1	statistical analysis	1
+1	tsallis statistic	1
+1	computer simulation	0.111111111
+1	regular lattice	1
+1	information theor	1
+1	memory effect	1
+1	different time scale	1
+1	effective field theor	0.0625
+1	partial differential equation	0.25
+1	molecular dynamic	0.012345679
+1	disordered phase	0.111111111
+1	degree distribution	1
+1	social network	1
+1	random field	0.111111111
+1	multifractal behavior	1
+1	exact result	0.0625
+1	numerical study	1
+1	range correlation	0.111111111
+1	power spectrum	0.25
+1	exponent beta	1
+1	data set	0.04
+1	neighbor interaction	0.25
+1	sufficient condition	0.25
+1	periodic structure	0.25
+1	cellular automata model	1
+1	continuous phase transition	0.25
+1	fokker planck equation	1
+1	monte carlo simulation	0.027777778
+1	periodic boundary condition	0.25
+1	detrended cross correlation analysis	1
+1	computational model	0.25
+1	global model	0.25
+1	time step	0.25
+1	dynamical exponent	0.25
+1	dynamical feature	0.25
+1	dynamical process	1
+1	statistical distribution	1
+1	neuronal network	1
+1	electric field	0.012345679
+1	gp equation	1
+1	free parameter	0.0625
+1	initial state	0.020408163
+1	contact process	1
+1	correlation function	0.00308642
+1	asymptotic behavior	0.25
+1	collective behavior	1
+1	transition probabilit	0.111111111
+1	several value	0.25
+1	term correlation	1
+1	activation energy	0.0625
+1	different approache	1
+1	local interaction	1
+1	classical particle	0.25
+1	interacting particle system	1
+1	order transition line	0.25
+1	positive lyapunov exponent	1
+1	using monte carlo simulation	0.25
+1	kinetic model	0.111111111
+1	model parameter	0.027777778
+1	previous model	0.25
+1	characteristic time	1
+1	relaxation time	1
+1	body system	0.0625
+1	nonlinear system	0.25
+1	real system	1
+1	normal distribution	1
+1	critical parameter	0.25
+1	diffusion process	1
+1	anomalous behavior	0.25
+1	present result	0.04
+1	strong correlation	0.25
+1	exponent gamma	1
+1	statistical complexity	1
+1	empirical data	1
+1	boundary condition	0.027777778
+1	discontinuous phase transition	1
+1	quantum field theor	0.111111111
+1	fractional diffusion equation	0.25
+1	absorbing state phase transition	1
+1	classical model	0.04
+1	heisenberg model	0.111111111
+1	lattice model	0.04
+1	large time	1
+1	economic system	1
+1	hamiltonian system	0.111111111
+1	linear system	0.25
+1	local dynamic	1
+1	underlying dynamic	1
+1	exponential distribution	0.25
+1	tsallis distribution	1
+1	connected network	1
+1	real network	1
+1	electromagnetic field	0.020408163
+1	field approximation	0.027777778
+1	synchronized state	1
+1	diffusive process	1
+1	interesting result	0.111111111
+1	scaling analysis	1
+1	scaling propert	0.111111111
+1	continuous transition	0.25
+1	numerical data	1
+1	correlation length	0.111111111
+1	quantum spin	0.0625
+1	lattice size	1
+1	map lattice	1
+1	permutation entropy	1
+1	different temperature	0.0625
+1	topological structure	1
+1	blume capel model	1
+1	scaling power law	1
+1	using scaling argument	1
+1	finite difference scheme	1
+1	microscopic model	0.0625
+1	present model	0.04
+1	spherical model	1
+1	statistical model	0.04
+1	time dependence	0.0625
+1	biological system	0.111111111
+1	mechanical system	0.25
+1	physical system	0.111111111
+1	dynamical evolution	1
+1	dynamical response	1
+1	population dynamic	1
+1	stochastic dynamic	0.25
+1	ferromagnetic phase	0.111111111
+1	phase synchronization	1
+1	equilibrium distribution	1
+1	gamma distribution	1
+1	joint distribution	1
+1	network structure	1
+1	analytical method	1
+1	statistical method	1
+1	dimensional space	0.015625
+1	thermodynamic function	0.25
+1	universal behavior	0.25
+1	scaling law	1
+1	numerical integration	1
+1	numerical investigation	1
+1	numerical technique	1
+1	geometrical propert	1
+1	exponent alpha	1
+1	statistical test	1
+1	simulated data	1
+1	finite set	1
+1	entanglement entropy	1
+1	entropy production	0.25
+1	nonadditive entropy	1
+1	compensation temperature	1
+1	fractal structure	0.25
+1	financial time serie	1
+1	finite difference method	1
+1	probability density function	0.25
+1	linear stability analysis	1
+1	short range interaction	0.111111111
+1	original model	1
+1	potts model	1
+1	cpu time	1
+1	short time	0.25
+1	time delay	0.111111111
+1	different system	0.0625
+1	immune system	1
+1	dynamical analysis	1
+1	dynamical equation	0.111111111
+1	dynamical variable	0.25
+1	microscopic dynamic	1
+1	opinion dynamic	1
+1	different phase	0.0625
+1	phase separation	0.25
+1	limit distribution	1
+1	field theor	0.00390625
+1	constitutive equation	0.25
+1	diffusion equation	0.111111111
+1	governing equation	1
+1	integral equation	0.111111111
+1	parameter value	1
+2	networks	0.0481055
+2	market	0.0248248
+2	program	0.0238746
+2	percolation	0.0194797
+2	fractal	0.019361
+2	financial	0.0181732
+2	complexity	0.0172229
+2	 nodes	0.0171042
+2	 stock 	0.0166291
+2	synchronization	0.0165103
+2	agents	0.0146098
+2	 chaos	0.0143723
+2	individuals	0.0143723
+2	markets	0.0141347
+2	 world 	0.0141347
+2	tsallis	0.0136596
+2	boltzmann	0.0129469
+2	brazilian	0.0111652
+2	computer	0.0111652
+2	connectivity	0.0103338
+2	 node 	0.010215
+2	 price 	0.0099774
+2	crisis	0.0098587
+2	 neurons	0.0098587
+2	indices	0.0096211
+2	nonextensive	0.0096211
+2	multifractal	0.0095023
+2	bifurcation	0.0093835
+2	stochastic	0.0301699
+2	chaotic	0.0452548
+2	 social 	0.0095023
+2	directed	0.0093835
+2	 inc 	0.0092648
+2	sequences	0.0092648
+2	programs	0.0090272
+2	spreading	0.0090272
+2	returns	0.0087896
+2	volatility	0.0087896
+2	diffusive	0.0085521
+2	economic	0.0085521
+2	cpc	0.0083145
+2	deterministic	0.0083145
+2	attractors	0.008077
+2	package	0.008077
+2	optimal	0.0079582
+2	integration	0.0078394
+2	strategy	0.0078394
+2	traffic	0.0078394
+2	cellular	0.0077206
+2	relationship	0.0077206
+2	agent	0.0076019
+2	attractor	0.0076019
+2	years	0.0076019
+2	countries	0.0074831
+2	represented	0.0073643
+2	maple	0.0072455
+2	absorbing	0.0071267
+2	language	0.0071267
+2	whole	0.0071267
+2	follows	0.007008
+2	neighbors	0.007008
+2	traditional	0.007008
+2	recurrence	0.0068892
+2	detrended	0.0067704
+2	prices	0.0067704
+2	thermodynamics	0.0067704
+2	discontinuous	0.0066516
+2	emergence	0.0066516
+2	ensemble	0.0066516
+2	infected	0.0065328
+2	learning	0.0065328
+2	shannon	0.0065328
+2	clustering	0.0064141
+2	daily	0.0064141
+2	nonequilibrium	0.0064141
+2	randomly	0.0064141
+2	entropic	0.0062953
+2	roughness	0.0062953
+2	variance	0.0062953
+2	 wind 	0.0062953
+2	brain	0.0061765
+2	brownian	0.0061765
+2	dcca	0.0061765
+2	 rule 	0.0061765
+2	verify	0.0061765
+2	applying	0.0060577
+2	populations	0.0060577
+2	represent	0.0060577
+2	return	0.0060577
+2	chosen	0.0059389
+2	risk	0.0059389
+2	summary	0.0059389
+2	survival	0.0059389
+2	versions	0.0059389
+2	game	0.0058202
+2	markov	0.0058202
+2	markovian	0.0058202
+2	neural	0.0058202
+2	susceptible	0.0058202
+2	concepts	0.0057014
+3	complex network	1
+3	phase transition	0.008264463
+3	random walk	1
+3	neural network	1
+3	phase diagram	0.0625
+3	chaotic system	0.25
+3	ising model	0.111111111
+3	magnetic field	0.005102041
+3	simple model	0.25
+3	dynamical propert	0.111111111
+3	majority vote model	1
+3	dynamical system	0.25
+3	time serie	1
+3	gross pitaevskii equation	1
+3	random field	0.25
+3	vertex model	0.111111111
+3	free network	1
+3	potts model	0.25
+3	external field	0.0625
+3	random graph	1
+3	continuous time	0.25
+3	blume capel model	1
+3	small world network	1
+3	fractional diffusion equation	1
+3	quantum phase transition	0.25
+3	kinetic model	0.111111111
+3	neuronal network	1
+3	multifractal analysis	1
+3	detrended fluctuation analysis	1
+3	dimensional model	1
+3	glass model	0.25
+3	heisenberg model	0.25
+3	spherical model	1
+3	stochastic model	1
+3	nonlinear dynamic	1
+3	fractal analysis	1
+3	electric field	0.027777778
+3	transverse field	0.25
+3	differential equation	0.25
+3	random lattice	1
+3	time evolution	1
+3	ashkin teller model	1
+3	emery griffiths model	1
+3	fokker planck equation	1
+3	order phase transition	0.25
+3	computational model	1
+3	network model	1
+3	financial network	1
+3	dynamic behavior	1
+3	magnetic system	0.25
+3	discrete time	0.25
+3	integral approach	0.25
+3	cellular automata model	0.25
+3	mean field model	0.25
+3	ferromagnetic spin system	1
+3	effective field theory	0.25
+3	nonlinear diffusion equation	0.25
+3	continuous time markov chain	1
+3	kuramoto model	1
+3	trading model	1
+3	network topology	1
+3	random network	1
+3	semantic network	1
+3	dynamical analysis	1
+3	body system	1
+3	complex system	1
+3	infinite system	1
+3	exergy analysis	1
+3	boltzmann equation	1
+3	lagrangian model	1
+4	market	0.060637205
+4	stock	0.041109969
+4	chaos	0.039054471
+4	financial	0.038026721
+4	markets	0.031860226
+4	complexity	0.029804728
+4	tsallis	0.023638232
+4	multifractal	0.021582734
+4	majority	0.016443988
+4	social	0.016443988
+4	spreading	0.016443988
+4	markov	0.014388489
+4	multiscale	0.01336074
+4	detrended	0.012332991
+4	extensive	0.012332991
+4	heterogeneous	0.012332991
+4	kuramoto	0.012332991
+4	traffic	0.012332991
+4	wavelet	0.012332991
+4	crisis	0.011305242
+4	neurons	0.011305242
+4	package	0.011305242
+4	price	0.011305242
+4	connectivity	0.010277492
+4	conservative	0.010277492
+4	neuronal	0.010277492
+4	pitaevskii	0.010277492
+4	programs	0.010277492
+4	networks	0.134635149
+4	synchronization	0.038026721
+4	vote	0.015416238
+4	opinion	0.014388489
+4	organized	0.014388489
+4	game	0.012332991
+4	capel	0.011305242
+4	slow	0.011305242
+4	wind	0.011305242
+4	agents	0.010277492
+4	dcca	0.010277492
+4	maximum	0.010277492
+4	rough	0.010277492
+4	economic	0.009249743
+4	lorenz	0.009249743
+4	populations	0.009249743
+4	quantifying	0.009249743
+4	robustness	0.009249743
+4	truncated	0.009249743
+4	autocorrelation	0.008221994
+4	brain	0.008221994
+4	dilution	0.008221994
+4	diversity	0.008221994
+4	emerging	0.008221994
+4	equity	0.008221994
+4	heart	0.008221994
+4	implicit	0.008221994
+4	income	0.008221994
+4	infection	0.008221994
+4	metastability	0.008221994
+4	seismic	0.008221994
+4	barabasi	0.008221994
+4	descriptors	0.008221994
+4	grids	0.008221994
+4	periodicity	0.008221994
+4	permutation	0.008221994
+4	prices	0.008221994
+4	urban	0.008221994
+4	ashkin	0.008221994
+4	variability	0.008221994
+5	complex network	0.25
+5	phase transition	0.020408163
+5	ising model	0.25
+5	complex system	1
+5	phase transition	0.020408163
+5	finite size scaling	1
+5	anomalous diffusion	1
+5	cellular automata	1
+5	random graph	1
+5	phase transitions into absorbing state	1
+5	stochastic process	1
+5	nonlinear dynamic	1
+5	integrable spin chain	1
+5	exact result	1
+5	monte carlo simulation	1
+5	solvable lattice model	1
+5	quantum integrabilit	1
+5	critical exponents and amplitude	1
+5	critical exponent	1
+5	tsallis statistic	1
+5	monte carlo simulation	1
+5	phase diagram	0.111111111
+5	stochastic particle dynamic	1
+5	population dynamic	1
+5	brownian motion	1
+5	monte carlo	0.111111111
+5	time serie	1
+5	stationary state	1
+5	classical monte carlo simulation	1
+5	boltzmann equation	0.25
+5	information theor	1
+5	network dynamic	1
+5	nonextensive statistical mechanics	1
+5	self organized criticality	1
+5	critical phenomena of socio economic system	1
+5	large deviation	1
+5	tsallis entropy	1
+5	interacting agent model	1
+5	interacting particle system	1
+5	time series analysis	1
+5	algebraic structures of integrable model	1
+5	permutation entropy	1
+5	stock market	1
+5	symbolic computation	1
+5	rigorous results in statistical mechanic	1
+5	financial market	1
+5	neural network	1
+5	shannon entropy	1
+5	disordered system	1
+5	long range interaction	1
+5	stochastic process	1
+5	classical phase transition	1
+5	epidemic modelling	1
+5	fractal dimension	1
+5	hurst exponent	1
+5	hydrodynamic limit	1
+5	random walk	1
+5	detrended fluctuation analysis	1
+5	long range dependence	1
+5	quantum phase transition	0.111111111
+6	complex network	0.25
+6	phase transition	0.020408163
+6	ising model	0.25
+6	complex system	1
+6	phase transition	0.020408163
+6	finite size scaling	1
+6	anomalous diffusion	1
+6	cellular automata	1
+6	random graph	1
+6	phase transitions into absorbing state	1
+6	stochastic process	1
+6	nonlinear dynamic	1
+6	integrable spin chain	1
+6	exact result	1
+6	monte carlo simulation	1
+6	solvable lattice model	1
+6	quantum integrabilit	1
+6	critical exponents and amplitude	1
+6	critical exponent	1
+6	tsallis statistic	1
+6	monte carlo simulation	1
+6	phase diagram	0.111111111
+6	stochastic particle dynamic	1
+6	population dynamic	1
+6	brownian motion	1
+6	monte carlo	0.111111111
+6	time serie	1
+6	stationary state	1
+6	classical monte carlo simulation	1
+6	boltzmann equation	0.25
+6	information theor	1
+6	network dynamic	1
+6	nonextensive statistical mechanics	1
+6	self organized criticality	1
+6	critical phenomena of socio economic system	1
+6	large deviation	1
+6	tsallis entropy	1
+6	interacting agent model	1
+6	interacting particle system	1
+6	time series analysis	1
+6	algebraic structures of integrable model	1
+6	permutation entropy	1
+6	stock market	1
+6	symbolic computation	1
+6	rigorous results in statistical mechanic	1
+6	financial market	1
+6	neural network	1
+6	shannon entropy	1
+6	disordered system	1
+6	long range interaction	1
+6	stochastic process	1
+6	classical phase transition	1
+6	epidemic modelling	1
+6	fractal dimension	1
+6	hurst exponent	1
+6	hydrodynamic limit	1
+6	random walk	1
+6	detrended fluctuation analysis	1
+6	long range dependence	1
+6	quantum phase transition	0.111111111
+7	networks	0.12321307
+7	random	0.102110279
+7	entropy	0.089857046
+7	stochastic	0.083730429
+7	network	0.049693669
+7	market	0.033356025
+7	fractal	0.031313819
+7	tsallis	0.030633084
+7	absorbing	0.027229408
+7	econophysics	0.027229408
+7	markets	0.025867937
+7	population	0.025867937
+7	financial	0.023825732
+7	complexity	0.023144997
+7	nonextensive	0.023144997
+7	 agent	0.021102791
+7	detrended	0.021102791
+7	walk	0.020422056
+7	brownian	0.019741321
+7	exponent	0.019741321
+7	stock	0.019741321
+7	neural	0.019060585
+7	boltzmann	0.01837985
+7	computer	0.01837985
+7	exponential	0.017699115
+7	social	0.017699115
+7	epidemic	0.01701838
+7	memory	0.01701838
+7	lyapunov	0.016337645
+7	solvable	0.016337645
+8	ising model	0.111111111
+8	statistical mechanics	0.25
+8	time serie	0.25
+8	anomalous diffusion	0.25
+8	critical behavior	0.111111111
+8	phase transition	0.012345679
+8	complex network	0.25
+8	monte carlo	0.04
+8	phase transition	0.012345679
+8	renormalization group	0.25
+8	field theory	0.012345679
+8	detrended fluctuation analysis	1
+8	self organized criticality	1
+8	long range correlation	1
+8	stock market	1
+8	random walk	1
+8	cross correlation	1
+8	emerging market	1
+8	fokker planck equation	0.25
+8	ground state	0.111111111
+8	lyapunov exponent	0.25
+8	phase diagram	0.25
+8	monte carlo simulation	0.25
+8	initial condition	1
+8	ranking efficiency	1
+8	chaotic system	1
+8	hurst exponent	1
+8	kinetic theory	0.25
+8	tsallis statistics	1
+8	2 dimensions	0.25
+8	boundary condition	1
+8	cellular automata	1
+8	dynamical system	1
+8	parameter space	1
+8	phase separation	1
+8	scaling propert	1
+8	statistical complexity	1
+8	tricritical behavior	1
+8	bose einstein condensation	0.111111111
+8	chaotic attractor	1
+8	magnetic propert	0.25
+8	xy model	0.25
+8	coherent state	0.0625
+8	critical exponent	1
+8	irreversible process	1
+8	magnetic field	0.04
+8	multifractal analysis	1
+8	periodic orbit	1
+8	permutation entropy	1
+8	phase space	0.25
+8	potts model	1
+8	schrodinger equation	0.111111111
+8	small world	1
+8	statistical physics	1
+8	unstable periodic orbit	1
+8	contact process	1
+8	correlation coefficient	1
+8	directed percolation	0.25
+8	equity market	1
+8	foreign exchange	1
+9	markets	0.070402299
+9	synchronization	0.070402299
+9	market	0.061781609
+9	stochastic	0.061781609
+9	stock	0.050287356
+9	fluctuation	0.045977011
+9	complexity	0.04454023
+9	exponent	0.038793103
+9	volatility	0.03591954
+9	financial	0.034482759
+9	fractal	0.033045977
+9	orbits	0.033045977
+9	volume	0.033045977
+9	detrended	0.030172414
+9	organized	0.030172414
+9	price	0.030172414
+9	bifurcation	0.027298851
+9	tsallis	0.025862069
+9	variability	0.025862069
+9	risk	0.022988506
+9	markov	0.021551724
+9	implementation	0.020114943
+9	persistence	0.020114943
+9	populations	0.020114943
+9	tricritical	0.020114943
+9	levy	0.018678161
+9	returns	0.018678161
+9	schemes	0.018678161
+9	sequences	0.018678161
+9	bifurcations	0.017241379
+10	 nu 	1
+10	(nu)	1
+10	/nu	1
+10	 nu.	1
+10	 nu,	1
+10	 nu(	1
+10	(nu 	1
+11	(nu 	0

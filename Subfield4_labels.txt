@@ -1,0 +1,962 @@
+SOMA	Label	Weight
+1	magnetic field	0.00127551
+1	magnetic propert	0.111111111
+1	low temperature	0.0625
+1	electronic structure	0.04
+1	experimental data	0.015625
+1	electric field	0.020408163
+1	phase diagram	0.01
+1	quantum dot	0.111111111
+1	functional theor	0.027777778
+1	experimental result	0.020408163
+1	room temperature	0.25
+1	critical temperature	0.111111111
+1	electronic propert	0.25
+1	single crystal	0.25
+1	ground state	0.002770083
+1	temperature dependence	0.04
+1	ray diffraction	1
+1	critical point	0.04
+1	principles calculation	0.25
+1	phase transition	0.00147929
+1	quantum well	0.25
+1	binding energy	0.111111111
+1	transport propert	0.04
+1	square lattice	0.25
+1	temperature range	0.111111111
+1	critical exponent	0.25
+1	magnetic order	1
+1	quantum phase transition	0.25
+1	magnetization measurement	1
+1	heisenberg model	0.111111111
+1	initio calculation	0.111111111
+1	magnetocaloric effect	0.25
+1	exchange interaction	0.111111111
+1	magnetic behavior	1
+1	optical propert	0.111111111
+1	finite temperature	0.0625
+1	structural propert	0.111111111
+1	free energy	0.00591716
+1	critical field	0.25
+1	physical propert	0.04
+1	numerical result	0.04
+1	wide range	0.25
+1	theoretical result	0.04
+1	band gap	0.111111111
+1	magnetic measurement	1
+1	magnetic structure	1
+1	magnetic interaction	0.0625
+1	conduction electron	1
+1	lattice parameter	1
+1	theoretical model	0.020408163
+1	quantum wire	1
+1	dimensional system	0.04
+1	thermodynamic propert	0.04
+1	energy level	0.01
+1	critical behavior	0.111111111
+1	binding model	0.111111111
+1	metal insulator transition	1
+1	paramagnetic phase	0.25
+1	mean field theor	0.25
+1	external field	0.111111111
+1	order phase transition	0.027777778
+1	conduction band	1
+1	electrical resistivity	1
+1	local density	0.111111111
+1	energy gap	0.0625
+1	saturation magnetization	1
+1	excited state	0.001890359
+1	transition temperature	0.111111111
+1	molecular dynamic simulation	0.111111111
+1	electronic state	0.0625
+1	critical value	0.0625
+1	coulomb interaction	0.111111111
+1	x ray diffraction	1
+1	crystal structure	0.25
+1	experimental observation	0.04
+1	dipolar interaction	0.25
+1	electron spin resonance	1
+1	numerical calculation	0.111111111
+1	ferromagnetic resonance	1
+1	band structure	0.111111111
+1	simple model	0.027777778
+1	effective mass	0.0625
+1	coercive field	1
+1	superconducting state	0.25
+1	mean field approximation	0.0625
+1	single wall carbon nanotubes	1
+1	order parameter	0.111111111
+1	functional theor calculation	0.25
+1	structural phase transition	0.25
+1	energy spectrum	0.04
+1	short range	0.027777778
+1	magnetic state	0.25
+1	dimensional electron gas	1
+1	current density	0.027777778
+1	order transition	0.111111111
+1	ordering temperature	1
+1	magnetic phase	0.0625
+1	magnetic transition	1
+1	electronic structure calculation	0.25
+1	spin orbit coupling	0.25
+1	valence band	1
+1	hyperfine field	1
+1	analytical result	0.111111111
+1	curie temperature	1
+1	scanning electron microscopy	0.111111111
+1	model hamiltonian	1
+1	chemical potential	0.015625
+1	low energy	0.004444444
+1	formation energy	1
+1	transmission electron microscopy	0.111111111
+1	coupling strength	0.25
+1	experimental measurement	0.04
+1	antiferromagnetic order	1
+1	local density approximation	0.111111111
+1	quantum spin	0.111111111
+1	increasing temperature	0.25
+1	magnetic field dependence	0.25
+1	random phase approximation	0.25
+1	theoretical calculation	0.111111111
+1	total energy	0.0625
+1	experimental stud	0.04
+1	wave function	0.027777778
+1	attractive interaction	0.111111111
+1	magnetization curve	1
+1	insulating phase	1
+1	different temperature	0.0625
+1	different value	0.0625
+1	electronic transport	0.111111111
+1	ferromagnetic phase	0.25
+1	ising model	0.04
+1	disordered phase	0.111111111
+1	magnetocaloric propert	1
+1	quantum rings	1
+1	large value	0.25
+1	electron electron interaction	1
+1	electron phonon interaction	1
+1	magnetic phase diagram	1
+1	molecular dynamic	0.012345679
+1	effective hamiltonian	0.111111111
+1	antiferromagnetic phase	1
+1	confining potential	0.25
+1	present result	0.04
+1	correlation function	0.003460208
+1	recent experiment	0.111111111
+1	antiferromagnetic interaction	0.25
+1	honeycomb lattice	1
+1	range order	1
+1	crystalline structure	0.25
+1	maximum value	0.111111111
+1	experimental value	0.04
+1	local moment	1
+1	phenomenological model	0.04
+1	liquid phase	0.111111111
+1	quantum fluctuation	0.04
+1	spin glass	0.25
+1	superconducting films	1
+1	small value	0.111111111
+1	single ion anisotropy	1
+1	dynamic propert	0.04
+1	electrical conductivity	1
+1	localization length	1
+1	atomic structure	0.25
+1	disordered system	0.111111111
+1	effective mass approximation	1
+1	specific heat measurement	1
+1	strong dependence	0.25
+1	neighbor interaction	0.25
+1	x ray	0.012345679
+1	normal state	1
+1	effective field theor	0.0625
+1	ray diffraction pattern	1
+1	different behavior	1
+1	activation energy	0.0625
+1	function method	1
+1	susceptibility measurement	1
+1	continuum model	0.25
+1	previous result	0.04
+1	edge state	1
+1	magnetic system	0.25
+1	ray absorption spectroscopy	0.25
+1	superconducting transition temperature	1
+1	correlation length	0.111111111
+1	using density	0.25
+1	localized spins	1
+1	magnetization data	1
+1	crystalline phase	0.04
+1	spin wave	1
+1	landau theor	1
+1	optical transition	0.25
+1	transition metal	0.25
+1	total energy calculation	1
+1	dimensional electron system	1
+1	magnetic phase transition	1
+1	antiferromagnetic coupling	1
+1	exchange coupling	1
+1	electron density	0.027777778
+1	angular dependence	0.25
+1	function formalism	0.111111111
+1	microscopic model	0.0625
+1	geometric parameter	1
+1	exact result	0.0625
+1	superconducting transition	1
+1	decreasing temperature	1
+1	charge density wave	1
+1	adiabatic temperature change	1
+1	mean field	0.00591716
+1	range interaction	0.04
+1	ordered phase	0.0625
+1	superconducting phase	1
+1	spin current	1
+1	spin polarization	1
+1	insulating state	1
+1	annealing temperature	1
+1	magnetic hyperfine field	1
+1	superconducting order parameter	1
+1	ray powder diffraction	1
+1	strongly correlated	1
+1	pressure dependence	1
+1	dimensional model	0.027777778
+1	triangular lattice	0.25
+1	model parameter	0.027777778
+1	mechanical propert	0.111111111
+1	blocking temperature	1
+1	several value	0.25
+1	wave packet	0.0625
+1	crystal field	0.111111111
+1	electronic density	0.25
+1	linear dependence	0.111111111
+1	combined effect	0.04
+1	4f electron	1
+1	excitation energy	0.0625
+1	experimental finding	0.0625
+1	ferromagnetic order	1
+1	low field	0.25
+1	superconducting gap	1
+1	parameter space	0.015625
+1	double quantum	0.25
+1	spin transport	1
+1	excitonic state	1
+1	wave vector	1
+1	electronic transport propert	0.25
+1	ground state phase diagram	0.25
+1	liquid behavior	1
+1	functional calculation	0.25
+1	magnetic correlation	1
+1	spectral density	1
+1	spin dynamic	1
+1	effective potential	0.04
+1	electron phonon	0.25
+1	ferromagnetic films	1
+1	ferromagnetic state	1
+1	moriya interaction	1
+1	local environment	1
+1	magnetization reversal	1
+1	amorphous phase	0.25
+1	phase separation	0.25
+1	full potential	1
+1	spin conductivity	1
+1	liquid state	0.25
+1	valence state	1
+1	electronic band structure	0.25
+1	electric field gradient	1
+1	ground state energy	0.0625
+1	energy bands	1
+1	critical propert	0.25
+1	seebeck effect	1
+1	electron state	0.25
+1	structural parameter	1
+1	topological propert	0.0625
+1	ray scattering	1
+1	initial state	0.020408163
+1	structural transition	0.111111111
+1	band structure calculation	1
+1	anomalous behavior	0.25
+1	metallic behavior	1
+1	analytical calculation	1
+1	electronic correlation	0.25
+1	critical line	0.25
+1	dimensional anisotropic	0.111111111
+1	thermal effect	0.0625
+1	transverse field	0.25
+1	lattice model	0.04
+1	anisotropy parameter	1
+1	metallic phase	1
+1	single phase	0.111111111
+1	potential barrier	0.25
+1	superconducting propert	1
+1	thermal propert	0.25
+1	quantum number	0.111111111
+1	simulation result	0.111111111
+1	antiferromagnetic state	1
+1	extended state	0.25
+1	magnetic field perpendicular	1
+1	density matrix renormalization group	1
+1	dynamical behavior	0.111111111
+1	coupling constant	0.111111111
+1	strong coupling	0.111111111
+1	quantum criticality	1
+1	initio density	0.25
+1	effective interaction	0.25
+2	superconducting	0.031841843
+2	kondo	0.024310555
+2	phonon	0.023590652
+2	conduction	0.016225496
+2	paramagnetic	0.015616347
+2	conductance	0.014730313
+2	gaas	0.013733525
+2	alloys	0.013512017
+2	dots	0.013013623
+2	insulator	0.012958246
+2	gpa	0.011573818
+2	hubbard	0.011186178
+2	hysteresis	0.010466275
+2	 tight	0.010134013
+2	magnetoresistance	0.010078636
+2	hyperfine	0.00980175
+2	magnetocaloric	0.009746373
+2	superconductivity	0.009746373
+2	mossbauer	0.00941411
+2	superconductor	0.008583453
+2	amorphous	0.008528076
+2	superconductors	0.008417322
+2	 wells	0.008361945
+2	nanowires	0.008251191
+2	graphene	0.040203788
+2	ferromagnetic	0.043914055
+2	magnetization	0.061080961
+2	antiferromagnetic	0.033724665
+2	semiconductor	0.01517333
+2	 hall 	0.015616347
+2	ordering	0.016391627
+2	ordered	0.013235131
+2	 iron 	0.010244767
+2	grown	0.009967881
+2	alloy	0.00980175
+2	 grain 	0.008971093
+2	 wire 	0.008528076
+2	hopping	0.008361945
+2	reversal	0.008251191
+2	gaps	0.008085059
+2	hybridization	0.008085059
+2	vacancies	0.008029682
+2	bilayer	0.007974305
+2	 koe 	0.007863551
+2	edges	0.007697419
+2	hexagonal	0.007586665
+2	insulating	0.007531288
+2	filling	0.007475911
+2	curie	0.00730978
+2	pinning	0.00730978
+2	tetragonal	0.007254402
+2	anderson	0.007143648
+2	 esr 	0.007143648
+2	monolayer	0.006977517
+2	polycrystalline	0.006977517
+2	interplay	0.00692214
+2	magnon	0.00692214
+2	zigzag	0.00692214
+2	directions	0.006866763
+2	easy	0.006811386
+2	valley	0.006756008
+2	carriers	0.006645254
+2	carrier	0.006589877
+2	rashba	0.006589877
+2	orthorhombic	0.0065345
+2	phonons	0.006479123
+2	cooling	0.006423746
+2	antiferromagnet	0.006257614
+2	planes	0.006257614
+2	superlattices	0.006202237
+2	nanotube	0.00614686
+2	versus	0.00614686
+2	ferromagnetism	0.005925352
+2	nonmagnetic	0.005925352
+2	 gate 	0.005869975
+2	domains	0.005814597
+2	 wires 	0.00575922
+2	uniaxial	0.005648466
+2	 across 	0.005593089
+2	clearly	0.005593089
+2	grains	0.005593089
+2	separated	0.005593089
+2	isothermal	0.005482335
+2	coexistence	0.005426958
+2	interstitial	0.005426958
+2	substitutional	0.00537158
+2	zeeman	0.00537158
+2	interlayer	0.005260826
+2	annealed	0.005205449
+2	ferrimagnetic	0.005205449
+2	mott	0.005205449
+2	sublattice	0.005205449
+2	substrates	0.005205449
+2	afm	0.005094695
+2	induces	0.005039318
+2	loops	0.005039318
+2	coercivity	0.004983941
+2	diluted	0.004983941
+2	linewidth	0.004983941
+2	magnetism	0.004983941
+3	magnetic field	0.005102041
+3	magnetic propert	0.111111111
+3	phase transition	0.012345679
+3	quantum dot	0.111111111
+3	thin film	1
+3	magnetocaloric effect	1
+3	electronic structure	0.111111111
+3	electronic propert	0.25
+3	quantum well	0.25
+3	single crystal	0.111111111
+3	phase diagram	0.111111111
+3	carbon nanotube	1
+3	phase transition	0.012345679
+3	quantum wire	1
+3	electric field	0.04
+3	single wall carbon nanotube	1
+3	theoretical stud	0.25
+3	critical behavior	1
+3	principles stud	0.25
+3	heisenberg model	0.25
+3	quantum ring	0.25
+3	quantum phase transition	0.25
+3	magnetic structure	1
+3	low temperature	1
+3	magnetic behavior	1
+3	transport propert	0.25
+3	metal insulator transition	1
+3	structural propert	0.111111111
+3	graphene nanoribbons	1
+3	optical propert	0.111111111
+3	dimensional electron gas	1
+3	bilayer graphene	1
+3	initio stud	0.25
+3	honeycomb lattice	1
+3	dimensional antiferromagnet	1
+3	square lattice	1
+3	phase separation	1
+3	temperature dependence	0.25
+3	superconducting film	1
+3	magnetic interaction	1
+3	lattice model	0.111111111
+3	magnetocaloric propert	1
+3	critical temperature	1
+3	room temperature	1
+3	molecular dynamic simulation	0.25
+3	ising model	0.020408163
+3	magnetic phase	1
+3	thermodynamic propert	0.25
+3	quantum spin	0.25
+3	molecular dynamic stud	0.25
+3	electron spin resonance	1
+3	dynamical propert	0.111111111
+3	external field	0.0625
+3	magnetization reversal	1
+3	comparative stud	0.25
+3	cuprate superconductor	1
+3	magnetic field effect	1
+3	crystal structure	1
+3	dipolar interaction	1
+3	range interaction	1
+4	superconducting	0.045541523
+4	kondo	0.039418293
+4	alloys	0.035208573
+4	magnetocaloric	0.034060467
+4	 hall 	0.027171833
+4	insulator	0.026023728
+4	magnetism	0.025258324
+4	superlattices	0.02449292
+4	impurities	0.022579411
+4	superconductor	0.022196709
+4	superconductivity	0.021048603
+4	magnetoresistance	0.01836969
+4	bilayer	0.015690777
+4	conductance	0.014159969
+4	ferromagnetism	0.014159969
+4	multilayers	0.012629162
+4	hyperfine	0.011098354
+4	monolayer	0.011098354
+4	ultrathin	0.011098354
+4	ferromagnet	0.010715653
+4	insulators	0.010715653
+4	antiferromagnets	0.010332951
+4	pinning	0.010332951
+4	intermetallic	0.009950249
+4	graphene	0.098354382
+4	disordered	0.03061615
+4	antiferromagnet	0.029850746
+4	anderson	0.020665901
+4	semiconductor	0.035591274
+4	antiferromagnetic	0.028702641
+4	wires	0.015690777
+4	rings	0.011863758
+4	arrays	0.010715653
+4	substrate	0.010332951
+4	tight	0.009950249
+4	honeycomb	0.009567547
+4	mossbauer	0.009567547
+4	yba2cu3o7	0.009567547
+4	magnon	0.009184845
+4	phonons	0.009184845
+4	excitons	0.008802143
+4	ferrite	0.008802143
+4	ga1	0.008802143
+4	graphite	0.008802143
+4	heterostructures	0.008802143
+4	epitaxial	0.008802143
+4	valley	0.008802143
+4	alxga1	0.008419441
+4	magnets	0.008419441
+4	resistivity	0.008419441
+4	polycrystalline	0.008419441
+4	ferroelectric	0.008036739
+4	 inas 	0.008036739
+4	 inp 	0.008036739
+4	la0	0.008036739
+4	 mott 	0.008036739
+4	hysteresis	0.008036739
+4	shallow	0.008036739
+4	 xas 	0.008036739
+4	josephson	0.007654038
+5	magnetic propert	1
+5	magnetocaloric effect	1
+5	electronic structure	0.25
+5	density functional theory	1
+5	mossbauer spectroscopy	1
+5	exchange bias	1
+5	magnetic anisotropy	1
+5	x ray diffraction	0.25
+5	quantum phase transition	0.25
+5	raman spectroscopy	1
+5	ising model	0.25
+5	magnetic property	1
+5	magnetic susceptibility	1
+5	phase transition	0.015625
+5	specific heat	1
+5	ferromagnetic resonance	1
+5	heisenberg model	1
+5	ab initio calculation	0.25
+5	crystal structure	1
+5	magnetic moment	1
+5	magnetic structure	1
+5	magnetization dynamic	1
+5	kondo effect	1
+5	phase diagram	0.111111111
+5	spin glass	1
+5	thin film	0.25
+5	xy model	1
+5	rare earth compound	1
+5	antiferromagnetic material	1
+5	intermetallic compound	1
+5	dipolar interaction	1
+5	ginzburg landau	1
+5	heavy fermion	1
+5	hubbard model	1
+5	magnetic nanoparticle	1
+5	mechanical alloying	1
+5	nanostructured material	1
+5	quantum dot	0.25
+5	cobalt ferrite	1
+5	ground state	0.25
+5	neutron diffraction	1
+5	permanent magnet	1
+5	spin wave	1
+5	magnetic material	1
+5	magnetic refrigeration	1
+5	phase separation	1
+5	spin dynamic	1
+5	spin wave	1
+5	magnetic thin film	1
+5	quantum phase transition	0.25
+5	crystal field	1
+5	electrical conductivity	1
+5	electrical propert	1
+5	energy gap	1
+5	high pressure	1
+5	kondo lattice	1
+5	landau level	1
+5	magnetic transition	1
+5	magnetoimpedance effect	1
+5	phase transition	0.015625
+6	magnetic propert	1
+6	magnetocaloric effect	1
+6	electronic structure	0.25
+6	density functional theory	1
+6	mossbauer spectroscopy	1
+6	exchange bias	1
+6	magnetic anisotropy	1
+6	x ray diffraction	0.25
+6	quantum phase transition	0.25
+6	raman spectroscopy	1
+6	ising model	0.25
+6	magnetic property	1
+6	magnetic susceptibility	1
+6	phase transition	0.015625
+6	specific heat	1
+6	ferromagnetic resonance	1
+6	heisenberg model	1
+6	ab initio calculation	0.25
+6	crystal structure	1
+6	magnetic moment	1
+6	magnetic structure	1
+6	magnetization dynamic	1
+6	kondo effect	1
+6	phase diagram	0.111111111
+6	spin glass	1
+6	thin film	0.25
+6	xy model	1
+6	rare earth compound	1
+6	antiferromagnetic material	1
+6	intermetallic compound	1
+6	dipolar interaction	1
+6	ginzburg landau	1
+6	heavy fermion	1
+6	hubbard model	1
+6	magnetic nanoparticle	1
+6	mechanical alloying	1
+6	nanostructured material	1
+6	quantum dot	0.25
+6	cobalt ferrite	1
+6	ground state	0.25
+6	neutron diffraction	1
+6	permanent magnet	1
+6	spin wave	1
+6	magnetic material	1
+6	magnetic refrigeration	1
+6	phase separation	1
+6	spin dynamic	1
+6	spin wave	1
+6	magnetic thin film	1
+6	quantum phase transition	0.25
+6	crystal field	1
+6	electrical conductivity	1
+6	electrical propert	1
+6	energy gap	1
+6	high pressure	1
+6	kondo lattice	1
+6	landau level	1
+6	magnetic transition	1
+6	magnetoimpedance effect	1
+6	phase transition	0.015625
+7	alloys	0.089988751
+7	anisotropy	0.087739033
+7	magnetization	0.076490439
+7	magnetocaloric	0.07424072
+7	superconductors	0.046119235
+7	superconducting	0.043869516
+7	superconductivity	0.041619798
+7	mossbauer	0.039370079
+7	ferrite	0.03712036
+7	kondo	0.031496063
+7	antiferromagnetic	0.029246344
+7	ferromagnetism	0.026996625
+7	magnetoresistance	0.026996625
+7	magnets	0.025871766
+7	susceptibility	0.025871766
+7	cobalt	0.024746907
+7	multilayers	0.023622047
+7	nanoparticle 	0.023622047
+7	superconductor	0.023622047
+7	intermetallic	0.020247469
+7	nanowires	0.020247469
+7	ferrimagnetism	0.01912261
+7	magnetite	0.01912261
+7	paramagnetic	0.01912261
+7	antiferromagnet	0.01799775
+7	nickel	0.01799775
+7	alloy	0.016872891
+7	coercivity	0.016872891
+7	hubbard	0.016872891
+7	spintronics	0.016872891
+8	electronic structure	0.25
+8	magnetic propert	0.25
+8	thin film	0.111111111
+8	magnetic field	0.0625
+8	phase transition	0.012345679
+8	crystal structure	0.111111111
+8	optical propert	0.0625
+8	phase diagram	0.25
+8	electronic propert	0.25
+8	phase transition	0.012345679
+8	ground state	0.111111111
+8	critical behavior	0.0625
+8	giant magnetoresistance	1
+8	high temperature superconductor	1
+8	transport propert	1
+8	monte carlo	0.027777778
+8	ab initio	0.111111111
+8	raman scattering	1
+8	anderson model	1
+8	renormalization group	0.25
+8	single crystal	1
+8	molecular dynamic	0.0625
+8	total energy calculation	1
+8	carbon nanotube	1
+8	metal insulator transition	1
+8	hubbard model	1
+8	band structure	1
+8	neutron diffraction	0.25
+8	temperature dependence	0.111111111
+8	electron gas	0.25
+8	ising model	0.111111111
+8	neutron scattering	1
+8	room temperature	0.25
+8	ferromagnetic resonance	1
+8	ii superconductor	1
+8	quantum well	1
+8	spin glass	1
+8	field theory	0.015625
+8	quantum dot	1
+8	mean field theory	0.25
+8	intermetallic compound	1
+8	bose einstein condensation	0.111111111
+8	density functional theory	0.25
+8	2 dimension	0.111111111
+8	rare earth	0.25
+8	x ray	1
+8	xy model	0.25
+8	mobility edge	1
+8	scanning tunneling microscopy	1
+8	band gap	1
+8	magnetic anisotropy	1
+8	electron spin resonance	1
+8	fermi liquid behavior	1
+8	molecular beam epitaxy	1
+8	augmented wave method	1
+8	x ray absorption	1
+8	2 dimensional electron gas	1
+8	1st principle	1
+8	heisenberg model	1
+8	magnetic field	0.0625
+9	superconductors	0.077239488
+9	superconductivity	0.074954296
+9	magnetoresistance	0.071297989
+9	alloys	0.06809872
+9	semiconductors	0.064442413
+9	ferromagnetism	0.048903108
+9	gaas	0.047989031
+9	insulator	0.046160878
+9	superlattices	0.043418647
+9	magnetization	0.040219378
+9	conductance	0.036106033
+9	dots	0.031992687
+9	wells	0.031535649
+9	mossbauer	0.028793419
+9	heterostructures	0.024680073
+9	multilayers	0.023308958
+9	superconductor	0.022394881
+9	wires	0.019652651
+9	kondo	0.018738574
+9	spintronics	0.018738574
+9	ferromagnets	0.017824497
+9	tunneling	0.017824497
+9	pseudogap	0.017367459
+9	photoemission	0.01691042
+9	epitaxy	0.016453382
+9	antiferromagnetism	0.015996344
+9	excitons	0.015996344
+9	insulators	0.014625229
+9	transistors	0.014625229
+9	nickel	0.013711152
+10	 fe 	0.137886359
+10	 fe,	0.137886359
+10	 fe.	0.137886359
+10	 fe/	0.137886359
+10	/fe 	0.137886359
+10	 co 	0.116972053
+10	 co,	0.116972053
+10	 co.	0.116972053
+10	(co)	0.116972053
+10	co/	0.116972053
+10	/co	0.116972053
+10	 nm 	0.080880992
+10	 nm,	0.080880992
+10	 nm.	0.080880992
+10	 nm)	0.080880992
+10	 si 	0.08069591
+10	 si,	0.08069591
+10	 si.	0.08069591
+10	(si 	0.08069591
+10	 si)	0.08069591
+10	 si/	0.08069591
+10	 si(	0.08069591
+10	)si 	0.08069591
+10	(si)	0.08069591
+10	 mn 	0.077364427
+10	 mn,	0.077364427
+10	 mn.	0.077364427
+10	(mn 	0.077364427
+10	 mn)	0.077364427
+10	 mn/	0.077364427
+10	 mn(	0.077364427
+10	)mn 	0.077364427
+10	(mn)	0.077364427
+10	ab initio	0.056820285
+10	 cu 	0.054414214
+10	 cu,	0.054414214
+10	 cu.	0.054414214
+10	(cu 	0.054414214
+10	 cu)	0.054414214
+10	 cu/	0.054414214
+10	 cu(	0.054414214
+10	)cu 	0.054414214
+10	(cu)	0.054414214
+10	[cu	0.054414214
+10	 ni 	0.047566167
+10	 ni,	0.047566167
+10	 ni.	0.047566167
+10	(ni 	0.047566167
+10	 ni)	0.047566167
+10	 ni/	0.047566167
+10	 ni(	0.047566167
+10	)ni 	0.047566167
+10	(ni)	0.047566167
+10	[ni	0.047566167
+10	 mu 	0.044419767
+10	 mu(	0.044419767
+10	)mu(	0.044419767
+10	/mu	0.044419767
+10	(mu)	0.044419767
+10	 mu+	0.044419767
+10	al 55	0.018508236
+10	 al atom	0.018508236
+10	(al)	0.018508236
+10	, al)	0.018508236
+10	/al	0.018508236
+10	 ev 	0.038312049
+10	 ev.	0.038312049
+10	 ev,	0.038312049
+10	 ev)	0.038312049
+10	 ev/	0.038312049
+10	 cm(	0.034980566
+10	/cm(	0.034980566
+10	 ac 	0.031834166
+10	 pt 	0.028687766
+10	 pt,	0.028687766
+10	 pt.	0.028687766
+10	(pt 	0.028687766
+10	 pt)	0.028687766
+10	 pt/	0.028687766
+10	 pt(	0.028687766
+10	)pt 	0.028687766
+10	(pt)	0.028687766
+10	 gd 	0.026281695
+10	 gd,	0.026281695
+10	 gd.	0.026281695
+10	(gd 	0.026281695
+10	 gd)	0.026281695
+10	 gd/	0.026281695
+10	 gd(	0.026281695
+10	)gd 	0.026281695
+10	(gd)	0.026281695
+10	[gd	0.026281695
+10	r=gd,	0.026281695
+10	 dc 	0.025911531
+10	 cd 	0.025171201
+10	 cd,	0.025171201
+10	 cd.	0.025171201
+10	(cd 	0.025171201
+10	 cd)	0.025171201
+10	 cd/	0.025171201
+10	 cd(	0.025171201
+10	)cd 	0.025171201
+10	(cd)	0.025171201
+10	[cd	0.025171201
+10	 ga 	0.024986119
+10	 ga,	0.024986119
+10	 ga.	0.024986119
+10	(ga 	0.024986119
+10	 ga)	0.024986119
+10	 ga/	0.024986119
+10	 ga(	0.024986119
+10	)ga 	0.024986119
+10	(ga)	0.024986119
+10	[ga	0.024986119
+10	 ge 	0.024986119
+10	 ge,	0.024986119
+10	 ge.	0.024986119
+10	(ge 	0.024986119
+10	 ge)	0.024986119
+10	 ge/	0.024986119
+10	 ge(	0.024986119
+10	)ge 	0.024986119
+10	(ge)	0.024986119
+10	[ge	0.024986119
+10	 cr 	0.023320378
+10	 cr,	0.023320378
+10	 cr.	0.023320378
+10	(cr 	0.023320378
+10	 cr)	0.023320378
+10	 cr/	0.023320378
+10	 cr(	0.023320378
+10	)cr 	0.023320378
+10	(cr)	0.023320378
+10	[cr	0.023320378
+11	 fe 	0.195386703
+11	 fe,	0.195386703
+11	 fe.	0.195386703
+11	 fe/	0.195386703
+11	/fe 	0.195386703
+11	 co 	0.153324288
+11	 co,	0.153324288
+11	 co.	0.153324288
+11	(co)	0.153324288
+11	co/	0.153324288
+11	/co	0.153324288
+11	 si 	0.153324288
+11	 si,	0.153324288
+11	 si.	0.153324288
+11	(si 	0.153324288
+11	 si)	0.153324288
+11	 si/	0.153324288
+11	 si(	0.153324288
+11	)si 	0.153324288
+11	(si)	0.153324288
+11	ab initio	0.107191316
+11	 cu 	0.082767978
+11	 cu,	0.082767978
+11	 cu.	0.082767978
+11	(cu 	0.082767978
+11	 cu)	0.082767978
+11	 cu/	0.082767978
+11	 cu(	0.082767978
+11	)cu 	0.082767978
+11	(cu)	0.082767978
+11	[cu	0.082767978
+11	 ni 	0.071913161
+11	 ni,	0.071913161
+11	 ni.	0.071913161
+11	(ni 	0.071913161
+11	 ni)	0.071913161
+11	 ni/	0.071913161
+11	 ni(	0.071913161
+11	)ni 	0.071913161
+11	(ni)	0.071913161
+11	[ni	0.071913161
+11	 mn 	0.067842605
+11	 mn,	0.067842605
+11	 mn.	0.067842605
+11	(mn 	0.067842605
+11	 mn)	0.067842605
+11	 mn/	0.067842605
+11	 mn(	0.067842605
+11	)mn 	0.067842605
+11	(mn)	0.067842605
+11	 gd 	0.062415197
+11	 gd,	0.062415197
+11	 gd.	0.062415197
+11	(gd 	0.062415197
+11	 gd)	0.062415197
+11	 gd/	0.062415197
+11	 gd(	0.062415197
+11	)gd 	0.062415197
+11	(gd)	0.062415197
+11	[gd	0.062415197
+11	r=gd,	0.062415197
+11	xy model	0.054274084
+11	al 55	0.05156038
+11	 al atom	0.05156038
+11	(al)	0.05156038
+11	, al)	0.05156038
+11	/al	0.05156038

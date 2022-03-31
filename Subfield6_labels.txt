@@ -1,0 +1,858 @@
+SOMA	Label	Weight
+1	optical society	1
+1	optical propert	0.111111111
+1	experimental result	0.020408163
+1	optical fiber	1
+1	quantum efficiency	0.25
+1	optical instrumentation engineers	1
+1	infrared laser	1
+1	energy transfer	0.04
+1	optical trap	1
+1	experimental data	0.015625
+1	emission spectra	0.25
+1	light source	1
+1	optical device	1
+1	diode laser	1
+1	photonic crystal fiber	1
+1	laser beam	1
+1	excited state	0.00390625
+1	quantum dot	0.0625
+1	optical absorption	0.027777778
+1	optical amplifier	1
+1	low level laser therapy	1
+1	emission intensity	1
+1	coherent state	0.04
+1	optical beam	1
+1	spatial light modulator	1
+1	energy transfer process	0.25
+1	optical nonlinearity	1
+1	optical response	1
+1	bessel beam	1
+1	ground state	0.0016
+1	crystalline phase	0.0625
+1	energy level	0.015625
+1	optical system	1
+1	experimental observation	0.04
+1	level system	0.111111111
+1	fiber bragg grating	1
+1	single mode fiber	1
+1	energy transfer mechanism	0.25
+1	energy density	0.020408163
+1	optical pulse	1
+1	red emission	1
+1	light beam	1
+1	experimental setup	0.111111111
+1	optical parametric oscillator	1
+1	doped fiber amplifier	1
+1	excited state absorption	0.111111111
+1	optical element	1
+1	co2 laser	1
+1	laser irradiation	1
+1	laser power	1
+1	experimental condition	0.0625
+1	experimental group	1
+1	triplet state	0.111111111
+1	energy transfer efficiency	1
+1	optical cavity	1
+1	optical susceptibilit	1
+1	optical tweezer	1
+1	laser emission	1
+1	emission band	1
+1	beam splitter	1
+1	light laboratory	1
+1	quantum yield	1
+1	low level laser	1
+1	optical gain	1
+1	optical lattice	0.25
+1	optical switches	1
+1	stimulated emission	1
+1	upconversion emission	1
+1	experimental evidence	0.04
+1	energy dispersive	0.111111111
+1	low intensity laser	1
+1	light curing unit	1
+1	quantum information processing	1
+1	optical communication	1
+1	optical signal	1
+1	gaussian beam	1
+1	experimental realization	0.25
+1	steady state	0.015625
+1	quantum well	0.25
+1	optical axis	1
+1	optical power	1
+1	optical setup	1
+1	optical technique	1
+1	pulsed laser	1
+1	random laser	1
+1	green emission	1
+1	experimental parameter	0.111111111
+1	quantum turbulence	1
+1	optical parametric amplifier	1
+1	doped fiber laser	1
+1	optical field	1
+1	optical material	1
+1	optical vortice	1
+1	optical waveguide	1
+1	laser operation	1
+1	emission spectroscopy	1
+1	infrared emission	1
+1	atomic beam	1
+1	shifted fiber	1
+1	photon state	1
+1	quantum state	0.04
+1	quantum information	1
+1	quantum mechanic	0.00591716
+1	quantum system	0.04
+1	co2 laser irradiation	1
+1	femtosecond laser pulse	1
+1	broad emission band	1
+1	stimulated emission cross section	1
+1	optical characterization	1
+1	optical component	1
+1	optical feedback	1
+1	laser source	1
+1	red laser	1
+1	yag laser	1
+1	blue emission	1
+1	emission spectrum	1
+1	light emission	1
+1	photoluminescence emission	1
+1	pl emission	1
+1	spontaneous emission	1
+1	nondiffracting beam	1
+1	pump beam	1
+1	red light	1
+1	scattered light	1
+1	experimental study	1
+1	experimental technique	0.111111111
+1	entangled state	0.25
+1	solid state	0.0625
+1	phase shift	0.111111111
+1	optical communication system	1
+1	solid state laser	1
+1	beam shape coefficient	1
+1	polarizing beam splitter	1
+1	light emitting diode	1
+1	experimental intensity parameter	1
+1	self phase modulation	1
+1	optical network	1
+1	optical parameter	1
+1	optical sensor	1
+1	feedback laser	1
+1	femtosecond laser	1
+1	semiconductor laser	1
+1	emission wavelength	1
+1	fluorescence emission	1
+1	beam quality	1
+1	shaped beam	1
+1	fiber length	1
+1	nonlinear fiber	1
+1	blue light	1
+1	light intensit	1
+1	light irradiation	1
+1	light polarization	1
+1	uv light	1
+1	white light	1
+1	experimental measurement	0.04
+1	emitting state	1
+1	mixed state	0.0625
+1	quantum communication	1
+1	quantum interference	0.0625
+1	quantum propert	0.25
+1	geometrical phase	1
+1	phase distribution	1
+1	photon energy	0.0625
+1	optical frequency comb	1
+1	optical logic gate	1
+1	emission cross section	1
+1	period fiber grating	1
+1	different light source	1
+1	solid state reaction	0.25
+1	energy transfer rate	1
+1	optical carrier	1
+1	optical efficiency	1
+1	optical experiment	1
+1	optical fibre	1
+1	argon laser	1
+1	laser exposure	1
+1	laser system	1
+1	ne laser	1
+1	pump laser	1
+1	emission mode	1
+1	emission quantum	1
+1	nm emission	1
+1	incident beam	1
+1	probe beam	1
+1	green light	1
+1	light generation	1
+1	experimental approach	1
+1	experimental demonstration	1
+1	experimental investigation	0.0625
+1	atomic state	1
+1	initial state	0.020408163
+1	quantum correlation	0.25
+1	phase difference	1
+1	phase maps	1
+1	quasi phase	1
+1	adhesive system	1
+1	atomic system	1
+1	condensed system	1
+1	acousto optic modulator	1
+1	optical absorption measurement	0.25
+1	optical vortex beam	1
+1	thermo optic coefficient	1
+1	low power laser	1
+1	quantum cascade laser	1
+1	random laser emission	1
+1	ultrashort laser pulse	1
+1	spontaneous emission rate	1
+1	excited state lifetime	0.25
+1	excited state population	1
+1	energy transfer upconversion	1
+1	geometrical optic	1
+1	optical application	1
+1	optical coefficient	1
+1	optical emission	1
+1	optical excitation	1
+1	optical filter	1
+1	optical force	1
+1	optical glasses	1
+1	optical information	1
+1	optical limiter	1
+1	optical links	1
+1	optical losses	1
+1	optical microscopy	1
+1	optical modulator	1
+1	optical performance	1
+1	optical spectroscopy	1
+1	optical transmission	1
+1	cw laser	1
+1	laser excitation	1
+1	laser mode	1
+1	laser parameter	1
+1	laser therapy	1
+1	laser transition	1
+1	raman laser	1
+1	sapphire laser	1
+1	broad emission	1
+1	emission efficiency	1
+1	emission process	1
+1	peak emission	1
+1	rl emission	1
+1	airy beam	1
+1	beam power	0.25
+1	beam profile	1
+1	beam waist	1
+1	diffracted beam	1
+1	electron beam	0.027777778
+1	fundamental beam	1
+1	resistant beam	1
+1	doped fiber	1
+1	fiber core	1
+1	short fiber	1
+1	structured fiber	1
+1	light dose	1
+1	annealing experiment	1
+1	experimental configuration	1
+1	experimental generation	1
+1	experimental model	1
+1	experimental procedure	0.25
+1	future experiment	0.111111111
+1	principle experiment	1
+1	electronic state	0.0625
+1	fock state	1
+1	lmct state	1
+1	pure state	0.25
+1	quantum dynamic	0.0625
+1	quantum measurement	0.25
+1	quantum teleportation	1
+1	quantum theor	0.0625
+1	phase control	1
+1	relative phase	1
+1	spectral phase	1
+1	excitation energy	0.0625
+1	pulse energy	1
+1	biological system	0.111111111
+1	colloidal system	1
+1	detection system	1
+1	sensor system	1
+1	system performance	1
+1	optical coherence tomography	1
+1	argon ion laser	1
+1	dynamic laser speckle	1
+1	efficient laser emission	1
+1	fir laser line	1
+1	gaussian laser beam	1
+1	infrared laser exposure	1
+1	infrared laser radiation	1
+1	laser ablation technique	1
+1	pulsed laser excitation	1
+1	random lasing system	1
+1	thz laser line	1
+1	spontaneous emission noise	1
+1	white light emission	1
+1	ddf fiber setup	1
+1	fiber raman amplifier	1
+1	graded index fiber	1
+1	different light doses	1
+1	ground state geometries	0.25
+1	triplet state energ	1
+1	cross phase modulation	1
+1	spectral phase modulation	1
+2	fiber	0.04781
+2	luminescence	0.031185
+2	eu3	0.023905
+2	irradiation	0.019885
+2	er3	0.019559
+2	refractive	0.01945
+2	lasers	0.019016
+2	pump	0.017494
+2	yb3	0.017168
+2	sensor	0.01619
+2	fibers	0.015756
+2	photonic	0.015321
+2	glasses	0.015212
+2	irradiated	0.015104
+2	grating	0.013909
+2	 yag 	0.012931
+2	lens	0.011953
+2	diode	0.011518
+2	tb3	0.011518
+2	tm3	0.011518
+2	composite	0.011301
+2	conversion	0.010975
+2	luminescent	0.010975
+2	emitting	0.010866
+2	upconversion	0.010323
+2	enamel	0.009888
+2	interferometer	0.009671
+2	nd3	0.009671
+2	wavelength	0.028469
+2	cavity	0.016408
+2	 gain 	0.01543
+2	photo	0.013257
+2	 led 	0.011735
+2	 scan 	0.009888
+2	emissions	0.009019
+2	images	0.009019
+2	trap	0.009019
+2	waveguides	0.008801
+2	tissue	0.008693
+2	sensing	0.008584
+2	speckle	0.008584
+2	wavelengths	0.008584
+2	therapy	0.008475
+2	resin	0.008367
+2	waveguide	0.008367
+2	europium	0.00815
+2	parametric	0.00815
+2	bandwidth	0.008041
+2	silica	0.008041
+2	setup	0.007824
+2	bragg	0.007715
+2	femtosecond	0.007715
+2	dentin	0.007606
+2	gratings	0.007606
+2	pumped	0.007498
+2	instrumentation	0.007389
+2	reflection	0.007389
+2	centers	0.00728
+2	exposed	0.00728
+2	nonlinearity	0.00728
+2	engineers	0.007172
+2	pdt	0.007172
+2	silver	0.007063
+2	digital	0.006954
+2	trapping	0.006846
+2	photodynamic	0.006737
+2	stress	0.006737
+2	teeth	0.006737
+2	photorefractive	0.006628
+2	sensors	0.006628
+2	exposure	0.00652
+2	imaging	0.00652
+2	optics	0.00652
+2	powders	0.00652
+2	broadband	0.006411
+2	tunable	0.006411
+2	phosphor	0.006302
+2	optic	0.006085
+2	 gel 	0.005976
+2	measuring	0.005976
+2	 white 	0.005976
+2	amplifiers	0.005868
+2	bessel	0.005868
+2	pumping	0.005868
+2	access	0.005759
+2	fabrication	0.005759
+2	ghz	0.005759
+2	monitoring	0.005759
+2	osl	0.005759
+2	 min 	0.00565
+2	photosensitizer	0.00565
+2	tissues	0.00565
+2	designed	0.005542
+2	evaluation	0.005542
+2	 caries 	0.005324
+2	cavities	0.005324
+2	 days 	0.005324
+2	dispersive	0.005324
+2	feedback	0.005324
+2	 micro 	0.005324
+3	optical fiber	1
+3	optical propert	0.111111111
+3	photonic crystal fiber	1
+3	quantum dot	0.111111111
+3	tellurite glass	1
+3	optical trap	1
+3	spectroscopic propert	0.25
+3	yag laser	1
+3	luminescence propert	0.25
+3	optical amplifier	1
+3	random laser	1
+3	quantum efficiency	0.25
+3	low level laser therapy	1
+3	photonic crystal	0.25
+3	optical beam	1
+3	diode laser	1
+3	infrared laser	1
+3	luminescent propert	1
+3	optical tweezer	1
+3	phosphate glass	1
+3	low level laser	1
+3	femtosecond laser	1
+3	glass ceramic	1
+3	photon absorption	1
+3	bessel beam	1
+3	optical logic gate	1
+3	optical parametric amplifier	1
+3	optical parametric oscillator	1
+3	femtosecond laser pulse	1
+3	calcium aluminosilicate glass	1
+3	optical characterization	1
+3	optical fibre	1
+3	optical lattice	0.25
+3	optical response	1
+3	optical vortice	1
+3	co2 laser	1
+3	laser emission	1
+3	semiconductor laser	1
+3	germanate glass	1
+3	photoluminescence propert	1
+3	photophysical propert	0.25
+3	structural propert	0.111111111
+3	single crystal	0.25
+3	random laser emission	1
+3	doped fiber amplifier	1
+3	single photon detector	1
+3	low level laser irradiation	1
+3	optical absorption	0.25
+3	optical force	1
+3	optical network	1
+3	optical resonator	1
+3	optical susceptibilit	1
+3	optical switch	1
+3	laser line	1
+3	raman laser	1
+3	sapphire laser	1
+3	fiber bragg	1
+3	oxide glass	1
+3	bi12tio20 crystal	1
+3	quantum well	0.25
+4	fibers	0.026252983
+4	upconversion	0.025059666
+4	sensor	0.022076372
+4	grating	0.020286396
+4	lens	0.017899761
+4	refractive	0.017899761
+4	pumped	0.017303103
+4	yag 	0.017303103
+4	interferometer	0.016706444
+4	photorefractive	0.016109785
+4	therapy	0.015513126
+4	gratings	0.014916468
+4	amplifiers	0.014319809
+4	wavelength	0.014319809
+4	speckle	0.01372315
+4	tm3	0.01372315
+4	sensing	0.013126492
+4	tellurite	0.013126492
+4	waveguides	0.013126492
+4	erbium	0.012529833
+4	optically	0.011933174
+4	photodynamic	0.011336516
+4	sensors	0.011336516
+4	laser	0.159307876
+4	luminescent	0.024463007
+4	femtosecond	0.02326969
+4	lasers	0.026252983
+4	eu3	0.022673031
+4	cavity	0.020883055
+4	fiber	0.088902148
+4	optic	0.016109785
+4	dental	0.011336516
+4	enamel	0.010739857
+4	phosphor	0.010739857
+4	tb3	0.010739857
+4	codoped	0.010143198
+4	dentin	0.010143198
+4	scan	0.010143198
+4	aluminosilicate	0.009546539
+4	monitoring	0.009546539
+4	route	0.009546539
+4	terahertz	0.008949881
+4	bessel	0.008353222
+4	emitting	0.008353222
+4	resonator	0.008353222
+4	stimulated	0.008353222
+4	thermoluminescence	0.008353222
+4	ablation	0.007756563
+4	 led 	0.007756563
+4	optics	0.007756563
+4	phosphors	0.007756563
+4	 resin 	0.007756563
+4	division	0.007159905
+4	 nir 	0.007159905
+4	pbo	0.007159905
+4	 repair 	0.007159905
+4	ultrashort	0.007159905
+4	waveguide	0.007159905
+4	compensation	0.006563246
+4	multiplexing	0.006563246
+5	energy transfer	1
+5	rare earth	0.25
+5	optical propert	0.25
+5	rare earth	0.25
+5	cold atom	1
+5	photodynamic therapy	1
+5	sol gel	1
+5	fiber optics	1
+5	nonlinear optics	1
+5	up conversion	1
+5	integrated optics	1
+5	optical material	1
+5	bose einstein condensate	0.25
+5	optically stimulated luminescence	1
+5	polymer optical fiber	1
+5	thermal lens	1
+5	white light	1
+5	wistar rat	1
+5	judd ofelt theory	1
+5	x ray diffraction	0.25
+5	low level laser therapy	1
+5	digital holography	1
+5	dna repair	1
+5	gene expression	1
+5	optical communications	1
+5	silver nanoparticle	1
+5	tellurite glass	1
+5	bose einstein condensation	1
+5	four wave mixing	1
+5	optical communication system	1
+5	optical fiber sensor	1
+5	second harmonic generation	1
+5	wavelength division multiplexing	1
+5	cavity qed	1
+5	concentration quenching	1
+5	directional coupler	1
+5	escherichia coli	1
+5	first hyperpolarizability	1
+5	lanthanide complex	1
+5	optical vortex	1
+5	photoluminescence spectroscopy	1
+5	photonic crystal	1
+5	photophysical propert	1
+5	quantum dot	0.25
+5	quantum optics	1
+5	random laser	1
+5	tellurite glass	1
+5	thin film	0.111111111
+5	upconversion luminescence	1
+5	wave mixing	1
+5	photonic crystal fiber	1
+5	all optical signal processing	1
+5	yag laser	1
+5	long period fiber grating	1
+5	broadband emission	1
+5	charge transfer	1
+5	combustion synthesis	1
+5	cooperative scattering	1
+5	cross relaxation	1
+5	diode laser	1
+6	energy transfer	1
+6	rare earth	0.25
+6	optical propert	0.25
+6	rare earth	0.25
+6	cold atom	1
+6	photodynamic therapy	1
+6	sol gel	1
+6	fiber optics	1
+6	nonlinear optics	1
+6	up conversion	1
+6	integrated optics	1
+6	optical material	1
+6	bose einstein condensate	0.25
+6	optically stimulated luminescence	1
+6	polymer optical fiber	1
+6	thermal lens	1
+6	white light	1
+6	wistar rat	1
+6	judd ofelt theory	1
+6	x ray diffraction	0.25
+6	low level laser therapy	1
+6	digital holography	1
+6	dna repair	1
+6	gene expression	1
+6	optical communications	1
+6	silver nanoparticle	1
+6	tellurite glass	1
+6	bose einstein condensation	1
+6	four wave mixing	1
+6	optical communication system	1
+6	optical fiber sensor	1
+6	second harmonic generation	1
+6	wavelength division multiplexing	1
+6	cavity qed	1
+6	concentration quenching	1
+6	directional coupler	1
+6	escherichia coli	1
+6	first hyperpolarizability	1
+6	lanthanide complex	1
+6	optical vortex	1
+6	photoluminescence spectroscopy	1
+6	photonic crystal	1
+6	photophysical propert	1
+6	quantum dot	0.25
+6	quantum optics	1
+6	random laser	1
+6	tellurite glass	1
+6	thin film	0.111111111
+6	upconversion luminescence	1
+6	wave mixing	1
+6	photonic crystal fiber	1
+6	all optical signal processing	1
+6	yag laser	1
+6	long period fiber grating	1
+6	broadband emission	1
+6	charge transfer	1
+6	combustion synthesis	1
+6	cooperative scattering	1
+6	cross relaxation	1
+6	diode laser	1
+7	optical	0.175803403
+7	luminescence	0.117202268
+7	laser	0.095463138
+7	photoluminescence	0.075614367
+7	fiber	0.065217391
+7	optics	0.047258979
+7	europium	0.030245747
+7	lasers	0.026465028
+7	therapy	0.024574669
+7	thermoluminescence	0.024574669
+7	lanthanide	0.02268431
+7	upconversion	0.02173913
+7	holography	0.017958412
+7	modulation	0.017958412
+7	digital	0.017013233
+7	eu3	0.017013233
+7	optic	0.017013233
+7	speckle	0.017013233
+7	photonic	0.016068053
+7	sensor	0.016068053
+7	tellurite	0.016068053
+7	grating	0.014177694
+7	multiplexing	0.014177694
+7	amplifiers	0.013232514
+7	earths	0.013232514
+7	judd	0.013232514
+7	lens	0.013232514
+7	luminescent	0.013232514
+7	ofelt	0.013232514
+7	photorefractive	0.013232514
+8	optical propert	0.0625
+8	energy transfer	0.25
+8	spectroscopic propert	0.25
+8	up conversion	1
+8	rare earth ion	1
+8	refractive index	1
+8	in vitro	1
+8	photodynamic therapy	1
+8	wave guide	1
+8	orbital angular momentum	1
+8	bond strength	1
+8	single beam	1
+8	er yag laser	1
+8	bose einstein condensation	0.111111111
+8	luminescence propert	1
+8	thin film	0.111111111
+8	crystal structure	0.111111111
+8	luminescent propert	1
+8	optical fiber	1
+8	intermediate neglect	0.25
+8	mu m	1
+8	optical nonlinearit	1
+8	differential overlap	1
+8	frozen wave	1
+8	2nd harmonic generation	1
+8	optical absorption	1
+8	photoluminescence propert	1
+8	room temperature	0.25
+8	light scattering	1
+8	silver nanoparticle	1
+8	thermal len	1
+8	conjugated polymer	0.25
+8	lanthanide complex	1
+8	phosphate glass	1
+8	supercontinuum generation	1
+8	tellurite glass	1
+8	temperature dependence	0.111111111
+8	he ne laser	1
+8	lorenz mie theory	1
+8	photonic crystal fiber	1
+8	diode laser	1
+8	light beam	1
+8	light emitting diode	1
+8	broad band	1
+8	coherent state	0.0625
+8	gold nanoparticle	1
+8	mechanical propert	1
+8	nondiffracting beam	1
+8	singlet oxygen	1
+8	spontaneous emission	1
+8	stimulated emission	1
+8	intramolecular energy transfer	1
+8	nd yag laser	1
+8	up conversion luminescence	1
+8	femtosecond laser	1
+8	light beam	1
+8	metal complex	1
+8	nd yag	1
+8	optical fiber	1
+8	photophysical propert	1
+9	beams	0.08992416
+9	fiber	0.082340195
+9	yag	0.058504875
+9	fibers	0.056338028
+9	pulses	0.046587216
+9	refractive	0.044420368
+9	gratings	0.041170098
+9	enamel	0.040086674
+9	guides	0.03900325
+9	lens	0.035752979
+9	vitro	0.032502709
+9	fabrication	0.031419285
+9	wavelength	0.031419285
+9	eu3	0.030335861
+9	phosphor	0.02708559
+9	europium	0.026002167
+9	amplification	0.024918743
+9	luminescent	0.024918743
+9	phosphate	0.022751896
+9	photonic	0.022751896
+9	sensors	0.022751896
+9	er3	0.021668472
+9	stimulated	0.021668472
+9	phosphors	0.020585049
+9	proliferation	0.020585049
+9	optics	0.017334778
+9	tellurite	0.017334778
+9	thermoluminescence	0.017334778
+9	diodes	0.016251354
+9	femtosecond	0.016251354
+10	 nm 	0.293600563
+10	 nm,	0.293600563
+10	 nm.	0.293600563
+10	cm(2)	0.122362869
+10	cm( 1)	0.122362869
+10	 mu m 	0.091420534
+10	eu(iii)	0.063291139
+10	[eu	0.063291139
+10	eu doped	0.063291139
+10	eu iii	0.063291139
+10	eu and tb	0.063291139
+10	eu opda	0.063291139
+10	eu eda	0.063291139
+10	eu dap	0.063291139
+10	 eu, tb	0.063291139
+10	eu(dbm)	0.063291139
+10	eu 2+	0.063291139
+10	eu 3+	0.063291139
+10	(tl)	0.055203938
+10	 tl 	0.055203938
+10	db/	0.052390999
+10	 db 	0.052390999
+10	 db.	0.052390999
+10	 db,	0.052390999
+10	(pl)	0.050632911
+10	 pl 	0.050632911
+10	 co 	0.043248945
+10	 co.	0.043248945
+10	 co,	0.043248945
+10	 mw 	0.040787623
+10	/mw	0.040787623
+10	mw/	0.040787623
+10	 uv 	0.036919831
+10	 uv.	0.036919831
+10	 uv,	0.036919831
+10	nd:y	0.035161744
+10	nd: y	0.035161744
+10	 ps 	0.034458509
+10	(ps)	0.034458509
+10	 ps.	0.034458509
+10	 ps,	0.034458509
+10	ps/	0.034458509
+10	ps)	0.034458509
+10	er:y	0.029887482
+10	er: y	0.029887482
+10	ln(iii)	0.026722925
+10	[ln	0.026722925
+10	ln(3+	0.026722925
+10	ln(dpm	0.026722925
+10	ln(2+	0.026722925
+10	(ln=	0.026722925
+10	tb(iii)	0.023909986
+10	tb iii	0.023909986
+10	/tb	0.023909986
+10	tb(iv)	0.023909986
+10	tb iv	0.023909986
+10	[tb	0.023909986
+10	ln=tb	0.023909986
+11	 nm 	0.175115207
+11	 nm,	0.175115207
+11	 nm.	0.175115207
+11	nd:y	0.161290323
+11	nd: y	0.161290323
+11	 co 	0.147465438
+11	 co.	0.147465438
+11	 co,	0.147465438
+11	eu(iii)	0.142857143
+11	[eu	0.142857143
+11	eu doped	0.142857143
+11	eu iii	0.142857143
+11	eu and tb	0.142857143
+11	eu opda	0.142857143
+11	eu eda	0.142857143
+11	eu dap	0.142857143
+11	 eu, tb	0.142857143
+11	eu(dbm)	0.142857143
+11	eu 2+	0.142857143
+11	eu 3+	0.142857143
+11	er:y	0.101382488
+11	er: y	0.101382488
+11	 mu m 	0.073732719
+11	cr:y	0.055299539
+11	cr: y	0.055299539
+11	cr :	0.055299539
+11	cr(iii)	0.055299539
+11	 tl 	0.055299539
+11	tl in 	0.055299539
+11	tl, 	0.055299539
+11	tl and 	0.055299539
+11	tb(iii)	0.046082949
+11	tb nano	0.046082949
+11	tb doped	0.046082949
+11	[tb	0.046082949
+11	tb iii	0.046082949
+11	 uv 	0.041474654
+11	 uv.	0.041474654
+11	 uv,	0.041474654

@@ -1,0 +1,806 @@
+SOMA	Label	Weight
+1	magnetic field	0.00147929
+1	electric field	0.020408163
+1	plasma edge	1
+1	experimental result	0.020408163
+1	jet ilw	1
+1	experimental data	0.015625
+1	radial profile	1
+1	plasma core	1
+1	acoustic mode	1
+1	plasma density	1
+1	current density	0.111111111
+1	electron density	0.111111111
+1	tearing mode	1
+1	experimental observation	0.04
+1	current drive efficiency	1
+1	plasma parameter	1
+1	electron temperature	1
+1	magnetic field line	0.25
+1	rotating plasma	1
+1	current drive	1
+1	ion temperature gradient	1
+1	dusty plasma	1
+1	fast ion	1
+1	alfven wave	1
+1	beam injection	1
+1	tokamak plasma	1
+1	ion temperature	0.015625
+1	radio frequency	1
+1	dust particle	1
+1	plasma column	1
+1	fluid model	0.25
+1	transport barrier	1
+1	energetic particle	1
+1	maxwellian distribution	0.111111111
+1	ion acoustic wave	1
+1	density profile	0.111111111
+1	particle transport	1
+1	turbulent transport	1
+1	jet iter	1
+1	scanning electron microscopy	0.111111111
+1	plasma immersion ion implantation	1
+1	plasma confinement	1
+1	plasma current	1
+1	analytical model	0.04
+1	theoretical model	0.020408163
+1	resonant mode	1
+1	jet experiment	1
+1	heat transport	1
+1	geodesic effect	1
+1	frequency range	0.25
+1	low frequency	1
+1	particle beam	1
+1	heating power	1
+1	pedestal temperature	1
+1	jet discharge	1
+1	monochromatic wave packet	1
+1	toroidal mode number	1
+1	burning plasma	1
+1	magnetized plasma	1
+1	plasma boundary	1
+1	plasma heating	1
+1	plasma operation	1
+1	energetic ion	1
+1	electron cyclotron	1
+1	wave propagation	1
+1	mode frequency	1
+1	pedestal density	1
+1	experimental measurement	0.04
+1	thermal effect	0.0625
+1	current ramp	1
+1	fusion power	1
+1	kappa distribution	1
+1	internal kink mode	1
+1	ion cyclotron resonance heating	1
+1	jet plasma	1
+1	plasma flows	1
+1	plasma particle	1
+1	electrostatic wave	1
+1	experimental campaign	1
+1	experimental condition	0.0625
+1	electromagnetic effect	1
+1	inertial effect	0.25
+1	trapped particle	1
+1	jet tokamak	1
+1	icrh power	1
+1	plasma edge turbulence	1
+1	current density profile	1
+1	internal transport barrier	1
+1	low frequency band	1
+1	background plasma	1
+1	hydrogen plasma	1
+1	plasma dynamic	1
+1	plasma electron	1
+1	plasma performance	1
+1	plasma physics	1
+1	plasma resistivity	1
+1	plasma turbulence	1
+1	unmagnetized plasma	1
+1	electron mode	1
+1	magnetosonic wave	1
+1	kinetic model	0.111111111
+1	linear model	0.111111111
+1	numerical modeling	1
+1	predictive model	1
+1	mode amplitude	1
+1	unstable mode	1
+1	joint experiment	1
+1	recent experiment	0.111111111
+1	neoclassical transport	1
+1	perpendicular transport	1
+1	radial transport	1
+1	current effect	1
+1	effective charge	0.04
+1	quantum effect	0.020408163
+1	relativistic effect	0.111111111
+1	stabilizing effect	1
+1	velikhov effect	1
+1	bootstrap current	1
+1	current profile	1
+1	electric current	1
+1	turbulent jet	1
+1	velocity distribution	0.25
+1	toroidal plasma device	1
+1	energetic ion tail	1
+1	ion larmor radius	1
+1	free electron laser	1
+1	radio frequency wave	1
+1	wave kinetic equation	1
+1	low field side	1
+1	harmonic langmuir mode	1
+1	peeling ballooning mode	1
+1	poloidal mode number	1
+1	inelastic collision frequency	1
+1	velocity distribution function	1
+1	conducting plasma	1
+1	d plasma	1
+1	plasma ion	1
+1	plasma potential	1
+1	plasma pressure	1
+1	plasma triangularity	1
+1	plasma wave	1
+1	total plasma	1
+1	ion source	1
+1	electron beam	0.25
+1	electron distribution	1
+1	electron flow	1
+1	electromagnetic wave	1
+1	wave instability	1
+1	wave turbulence	1
+1	electromagnetic field	0.020408163
+1	collisional model	1
+1	present model	0.04
+1	simple model	0.027777778
+1	localised mode	1
+1	primary mode	1
+1	averaged density	1
+1	core density	1
+1	experimental stud	0.04
+1	experimental uncertainty	1
+1	experimental value	0.04
+1	numerical experiment	0.111111111
+1	parallel transport	1
+1	combined effect	0.04
+1	curvature effect	1
+1	drift effect	1
+1	isotope effect	1
+1	frequency oscillation	1
+1	rotation frequency	1
+1	current contribution	1
+1	temperature profile	1
+1	temperature anisotropy	1
+1	jet operation	1
+1	low power	0.25
+1	power scans	1
+1	radiated power	1
+1	rf power	1
+1	neutral beam	1
+1	beam plasma interaction	1
+1	electron plasma wave	1
+1	jet ilw plasma	1
+1	plasma core rotation	1
+1	plasma edge region	1
+1	plasma pressure gradient	1
+1	turbulent plasma background	1
+1	ion sound wave	1
+1	electron distribution function	1
+1	electron mode turbulence	1
+1	runaway electron beam	1
+1	trapped electron mode	1
+1	low frequency wave	1
+1	wave particle interaction	1
+1	chaotic field line	1
+1	parallel heat flux	1
+1	injection beam energy	1
+1	anisotropic kappa distribution	1
+1	atmospheric pressure plasma jet	1
+1	astrophysical plasma	1
+1	collisionality plasma	1
+1	deuterium plasma	1
+1	fusion plasma	1
+1	magnetoactive plasma	1
+1	plasma beta	1
+1	plasma center	1
+1	plasma condition	1
+1	plasma discharge	1
+1	plasma emission	1
+1	plasma environment	1
+1	plasma laboratory	1
+1	plasma periphery	1
+1	plasma plume	1
+1	plasma stream	1
+1	plasma treatments	1
+1	quantum plasma	1
+1	beam ion	1
+1	gas ionization	1
+1	positive ion	1
+1	electron heating	1
+1	energetic electron	1
+1	massless electron	1
+1	runaway electron	1
+1	drift wave	1
+1	hybrid wave	1
+1	langmuir wave	1
+1	wave dissipation	1
+1	wave envelope	1
+1	wave interaction	1
+1	wave packet	0.0625
+1	radiation field	1
+1	modelling simulation	1
+1	pedestal model	1
+1	principle modelling	1
+1	transport model	0.111111111
+1	validating model	1
+1	electromagnetic mode	1
+1	resolvent mode	1
+1	density gradient	1
+1	dust density	1
+1	edge density	1
+1	low density	0.04
+1	mass density	1
+1	number density	1
+1	experimental evidence	0.04
+1	experimental programmes	1
+1	experimental validation	1
+1	tokamak experiment	1
+1	collisional transport	1
+1	impurity transport	1
+1	momentum transport	1
+1	transport reduction	1
+1	tungsten transport	1
+1	w transport	1
+1	collisional effect	1
+1	destabilizing effect	1
+1	radius effect	1
+1	elm frequency	1
+1	gam frequency	1
+1	resonant frequency	1
+1	alpha particle	0.111111111
+1	particle acceleration	1
+1	particle source	1
+1	heat flux	1
+1	asymmetric current	1
+1	current diffusion	1
+1	current fluctuation	1
+1	spatial profile	1
+1	burst temperature	1
+1	low temperature	0.012345679
+1	jet data	1
+1	beam power	0.25
+1	input power	1
+1	power supply	1
+1	deuterium beam	1
+1	symmetric beam	1
+1	poloidal distribution	1
+1	electron plasma density	1
+1	low density plasma	1
+1	low plasma temperature	1
+1	plasma rotation velocity	1
+1	plasma wall interaction	1
+1	fast ion confinement	1
+1	fast ion distribution	1
+1	fast ion stabilization	1
+1	ion distribution function	1
+1	ion heat transport	1
+1	nitrogen ion implantation	1
+1	cold electron beam	1
+1	electron cyclotron emission	1
+1	electron density profile	1
+1	electron heat fluxe	1
+1	electron inertia regime	1
+1	electron landau damping	1
+1	electron pressure anisotropy	1
+1	electron temperature gradient	1
+1	alfven wave continuum	1
+1	global alfven wave	1
+1	kinetic alfven wave	1
+1	propagating electromagnetic wave	1
+1	wave number space	1
+1	field line transport	1
+1	magnetic field perturbation	1
+2	plasmas	0.05045
+2	tokamak	0.034024
+2	divertor	0.029722
+2	turbulence	0.027376
+2	elm	0.026398
+2	discharges	0.026203
+2	toroidal	0.02542
+2	pedestal	0.024247
+2	ilw	0.021705
+2	drift	0.018968
+2	alfven	0.018772
+2	poloidal	0.018576
+2	injection	0.01799
+2	tokamaks	0.017208
+2	discharge	0.016425
+2	langmuir	0.015643
+2	mhd	0.014079
+2	deuterium	0.013101
+2	instabilities	0.012906
+2	cyclotron	0.012124
+2	erosion	0.011928
+2	elms	0.011732
+2	islands	0.011732
+2	 dust 	0.01095
+2	icrh	0.00919
+2	tungsten	0.00919
+2	geodesic	0.008995
+2	gyrokinetic	0.008799
+2	neoclassical	0.008799
+2	heating	0.022878
+2	 iter 	0.036371
+2	 arc 	0.012906
+2	 drive 	0.011732
+2	modelling	0.01095
+2	island	0.010364
+2	aspect	0.007822
+2	disruption	0.007822
+2	pellet	0.007626
+2	ballooning	0.007431
+2	maxwellian	0.007431
+2	collisional	0.007235
+2	implantation	0.007235
+2	bootstrap	0.007039
+2	outer	0.007039
+2	collisionality	0.006844
+2	limiter	0.006844
+2	 tube 	0.006844
+2	diagnostic	0.006648
+2	eigenmodes	0.006648
+2	fluxes	0.006648
+2	magnetohydrodynamic	0.006648
+2	nbi	0.006648
+2	runaway	0.006648
+2	sound	0.006648
+2	 gam 	0.006453
+2	peaking	0.006257
+2	zonal	0.006257
+2	resistive	0.006062
+2	axisymmetric	0.005866
+2	 radio 	0.005866
+2	towards	0.005866
+2	tritium	0.005866
+2	bursts	0.005671
+2	codes	0.005671
+2	cylindrical	0.005671
+2	envelope	0.005671
+2	tcabr	0.005671
+2	joint	0.005475
+2	normalized	0.005475
+2	sawtooth	0.00528
+2	nucl	0.005084
+2	ohmic	0.005084
+2	reversed	0.005084
+2	calibration	0.004889
+2	magnetized	0.004889
+2	nltls	0.004889
+2	branch	0.004693
+2	chamber	0.004693
+2	equilibria	0.004693
+2	vessel	0.004693
+2	antenna	0.004497
+2	disruptions	0.004497
+2	larmor	0.004497
+2	location	0.004497
+2	perturbed	0.004497
+2	piii	0.004497
+2	predictive	0.004497
+2	separatrix	0.004497
+2	triggered	0.004497
+2	accumulation	0.004302
+2	convection	0.004302
+2	machine	0.004302
+2	penetration	0.004302
+2	safety	0.004302
+2	analysed	0.004106
+2	campaign	0.004106
+2	helical	0.004106
+2	improvement	0.004106
+2	probes	0.004106
+2	tearing	0.004106
+3	current drive	1
+3	tokamak plasma	1
+3	dusty plasma	1
+3	jet ilw	1
+3	jet iter	1
+3	magnetic field	0.00591716
+3	tearing mode	1
+3	electric field	0.027777778
+3	fast ion	1
+3	tcabr tokamak	1
+3	free electron laser	1
+3	magnetized plasma	1
+3	acoustic mode	1
+3	alfven wave	1
+3	alfven mode	1
+3	energetic ions	1
+3	fusion plasma	1
+3	hybrid wave	1
+3	jet plasma	1
+3	magnetohydrodynamic model	1
+3	plasma edge	1
+3	thermal effect	0.25
+3	turbulent plasma	1
+3	atmospheric pressure plasma jet	1
+3	current relaxation	1
+3	electron cyclotron wave	1
+3	field device	1
+3	geodesic mode	1
+3	harmonic langmuir wave	1
+3	hybrid plasma	1
+3	ion acoustic wave	1
+3	ion temperature	1
+3	jet tokamak	1
+3	mode coupling	1
+3	plasma immersion ion implantation	1
+3	plasma particle	1
+3	plasma turbulence	1
+3	plasma wave	1
+3	rotating plasma	1
+3	tokamak chauffage alfven bresilien	1
+3	tokamak edge	1
+3	tokamak equilibria	1
+3	turbulent jet	1
+3	beam plasma instabilit	1
+3	cold electron beam	1
+3	current density	1
+3	current drive efficienc	1
+3	cylindrical plasma	1
+3	effective charge	0.25
+3	electron atom	1
+3	electron landau	1
+3	electron mode	1
+3	electron plasma wave	1
+3	electron transport	0.25
+3	electrostatic wave	1
+3	geodesic effect	1
+3	geodesic mode instabilit	1
+3	gyrokinetic modeling	1
+3	heat transport	1
+3	internal kink mode	1
+4	tokamak	0.098404255
+4	alfven	0.03856383
+4	ilw	0.027925532
+4	divertor	0.02393617
+4	 drive 	0.02393617
+4	discharges	0.021276596
+4	tcabr	0.021276596
+4	cyclotron	0.018617021
+4	dusty	0.017287234
+4	implantation	0.017287234
+4	islands	0.017287234
+4	mhd	0.017287234
+4	neoclassical	0.017287234
+4	gyrokinetic	0.01462766
+4	toroidal	0.01462766
+4	immersion	0.013297872
+4	magnetohydrodynamic	0.013297872
+4	tearing	0.011968085
+4	tungsten	0.011968085
+4	disruption	0.010638298
+4	eigenmodes	0.010638298
+4	 elm 	0.010638298
+4	equilibria	0.010638298
+4	erosion	0.010638298
+4	reversed	0.010638298
+4	chauffage	0.009308511
+4	deuterium	0.009308511
+4	 drift 	0.027925532
+4	plasmas	0.126329787
+4	 kappa 	0.013297872
+4	 iter 	0.055851064
+4	tokamaks	0.04787234
+4	 arc 	0.015957447
+4	discharge	0.009308511
+4	 dust 	0.009308511
+4	electrode	0.009308511
+4	joint	0.009308511
+4	torus	0.009308511
+4	zonal	0.009308511
+4	helimak	0.007978723
+4	magnetorotational	0.007978723
+4	runaway	0.007978723
+4	texas	0.007978723
+4	aspect	0.006648936
+4	bresilien	0.006648936
+4	diagnostic	0.006648936
+4	disruptions	0.006648936
+4	elms	0.006648936
+4	envelope	0.006648936
+4	maxwellian	0.006648936
+4	nstx	0.006648936
+4	validation	0.006648936
+4	beryllium	0.005319149
+4	biasing	0.005319149
+4	bootstrap	0.005319149
+4	described	0.005319149
+4	eigenmode	0.005319149
+4	fingering	0.005319149
+4	fluxes	0.005319149
+4	fuel	0.005319149
+5	jet ilw	1
+5	h mode	1
+5	fast ion	1
+5	integrated modelling	1
+5	surface treatment	1
+5	ion implantation	1
+5	plasma turbulence	1
+5	iter like wall	1
+5	jet tokamak	1
+5	tokamak device	1
+5	turbulent transport	1
+5	l h transition	1
+5	magnetic confinement fusion	1
+5	plasma toroidal confinement	1
+5	energetic particle	1
+5	gyrokinetic simulation	1
+5	particle transport	1
+5	plasma device	1
+5	plasma diagnostic	1
+5	plasma instability	1
+5	plasma magnetohydrodynamic	1
+5	plasma physics	1
+5	plasma wave	1
+5	plasma transport process	1
+5	plasma immersion ion implantation	1
+5	alpha particle	1
+5	current drive	1
+5	disruption mitigation	1
+5	edge2d eirene	1
+5	elm control	1
+5	elm pacing	1
+5	fusion product	1
+5	impurity transport	1
+5	integrated modeling	1
+5	magnetic confinement	1
+5	mhd instabilit	1
+5	pedestal stability	1
+5	plasma application	1
+5	plasma instabilit	1
+5	plasma measurement	1
+5	quantum plasma	1
+5	runaway electron	1
+5	transfer entropy	1
+5	geodesic acoustic mode	1
+5	massive gas injection	1
+5	plasma wall interaction	1
+5	real time control	1
+5	scrape off layer	1
+5	alfven eigenmode	1
+5	alfven wave	1
+5	alpha heating	1
+5	asdex upgrade	1
+5	astrophysical plasma	1
+5	density limit	1
+5	discharges (electric)	1
+5	doppler backscattering	1
+5	edge plasma	1
+5	edge turbulence	1
+5	energetic ion	1
+5	equilibrium reconstruction	1
+6	jet ilw	1
+6	h mode	1
+6	fast ion	1
+6	integrated modelling	1
+6	surface treatment	1
+6	ion implantation	1
+6	plasma turbulence	1
+6	iter like wall	1
+6	jet tokamak	1
+6	tokamak device	1
+6	turbulent transport	1
+6	l h transition	1
+6	magnetic confinement fusion	1
+6	plasma toroidal confinement	1
+6	energetic particle	1
+6	gyrokinetic simulation	1
+6	particle transport	1
+6	plasma device	1
+6	plasma diagnostic	1
+6	plasma instability	1
+6	plasma magnetohydrodynamic	1
+6	plasma physics	1
+6	plasma wave	1
+6	plasma transport process	1
+6	plasma immersion ion implantation	1
+6	alpha particle	1
+6	current drive	1
+6	disruption mitigation	1
+6	edge2d eirene	1
+6	elm control	1
+6	elm pacing	1
+6	fusion product	1
+6	impurity transport	1
+6	integrated modeling	1
+6	magnetic confinement	1
+6	mhd instabilit	1
+6	pedestal stability	1
+6	plasma application	1
+6	plasma instabilit	1
+6	plasma measurement	1
+6	quantum plasma	1
+6	runaway electron	1
+6	transfer entropy	1
+6	geodesic acoustic mode	1
+6	massive gas injection	1
+6	plasma wall interaction	1
+6	real time control	1
+6	scrape off layer	1
+6	alfven eigenmode	1
+6	alfven wave	1
+6	alpha heating	1
+6	asdex upgrade	1
+6	astrophysical plasma	1
+6	density limit	1
+6	discharges (electric)	1
+6	doppler backscattering	1
+6	edge plasma	1
+6	edge turbulence	1
+6	energetic ion	1
+6	equilibrium reconstruction	1
+7	tokamak	0.191082803
+7	divertor	0.079617834
+7	pedestal	0.060509554
+7	mhd	0.057324841
+7	elm	0.047770701
+7	ilw	0.044585987
+7	instabilities	0.038216561
+7	gyrokinetic	0.035031847
+7	alfven	0.031847134
+7	heating	0.031847134
+7	icrh	0.031847134
+7	tungsten	0.031847134
+7	disruption	0.02866242
+7	magnetohydrodynamics	0.02866242
+7	beryllium	0.022292994
+7	toroidal	0.022292994
+7	erosion	0.01910828
+7	injection	0.01910828
+7	isotope	0.01910828
+7	discharge	0.015923567
+7	elms	0.015923567
+7	immersion	0.015923567
+7	pellet	0.015923567
+7	reflectometry	0.015923567
+7	spectrometry	0.015923567
+7	ballooning	0.012738854
+7	cyclotron	0.012738854
+7	detachment	0.012738854
+7	eigenmodes	0.012738854
+7	monotron	0.012738854
+8	asdex upgrade	1
+8	current drive	1
+8	solar wind	1
+8	zonal flow	1
+8	dispersion function	1
+8	magnetic field	0.04
+8	space plasma	1
+8	scrape off layer	1
+8	diii d	1
+8	edge localized mode	1
+8	tokamak plasma	1
+8	drift wave	1
+8	edge turbulence	1
+8	h mode	1
+8	halo formation	1
+8	space charge	1
+8	tearing mode	1
+8	acoustic wave	1
+8	alfven wave	1
+8	dusty plasma	1
+8	field line	1
+8	homoclinic tangle	1
+8	langmuir wave	1
+8	neoclassical transport	1
+8	particle transport	1
+8	solitary wave	1
+8	toroidal plasma	1
+8	dielectric barrier discharge	1
+8	alfven eigenmode	1
+8	arbitrary collisionality	1
+8	bootstrap current	1
+8	dielectric tensor	1
+8	electric field	1
+8	electron foreshock	1
+8	ergodic divertor	1
+8	glow discharge	1
+8	impurity transport	1
+8	kinetic theory	0.25
+8	long pulse	1
+8	magnetic island	1
+8	temperature anisotropy	1
+8	time serie	0.25
+8	toroidal plasma	1
+8	transport equation	1
+8	velocity shear	1
+8	anomalous perpendicular viscosity	1
+8	iter like wall	1
+8	neoclassical tearing mode	1
+8	regularized magnetic island	1
+8	small cold beam	1
+8	compass d	1
+8	dense plasma	1
+8	density peaking	1
+8	edge plasma	1
+8	electron beam	1
+8	electron beam	1
+8	electron gas	0.111111111
+8	energy confinement	1
+8	heat transport	1
+8	i elms	1
+9	plasmas	0.15258216
+9	tokamak	0.138497653
+9	discharge	0.046948357
+9	drive	0.046948357
+9	divertor	0.042253521
+9	asdex	0.035211268
+9	tokamaks	0.035211268
+9	toroidal	0.035211268
+9	alfven	0.03286385
+9	tearing	0.030516432
+9	wind	0.030516432
+9	drift	0.025821596
+9	zonal	0.025821596
+9	cyclotron	0.023474178
+9	diii	0.023474178
+9	eigenmodes	0.023474178
+9	islands	0.023474178
+9	neoclassical	0.021126761
+9	pedestal	0.021126761
+9	poloidal	0.021126761
+9	scrape	0.021126761
+9	collisionality	0.018779343
+9	reconnection	0.018779343
+9	langmuir	0.016431925
+9	mhd	0.016431925
+9	peaking	0.016431925
+9	elms	0.014084507
+9	ergodic	0.014084507
+9	magnetohydrodynamic	0.014084507
+9	tcabr	0.014084507
+10	 rf 	0.303738318
+10	 dt 	0.191588785
+10	 mw 	0.112149533
+10	 mw,	0.112149533
+10	 mw.	0.112149533
+10	 ae 	0.088785047
+10	(ae)	0.088785047
+10	ae/	0.088785047
+10	 ec 	0.079439252
+10	cf2	0.074766355
+10	cf3	0.074766355
+10	cf4	0.074766355
+10	cf+	0.074766355
+10	cf surface 	0.074766355
+10	cf adhesion	0.074766355
+10	dc electric	0.074766355
+10	dc plasma	0.074766355
+10	dc magnetic	0.074766355
+10	 mu 	0.074766355
+10	 rf 	0.303738318
+10	 dt 	0.191588785
+10	 mw 	0.112149533
+10	 mw,	0.112149533
+10	 mw.	0.112149533
+10	 ae 	0.088785047
+10	(ae)	0.088785047
+10	ae/	0.088785047
+10	 ec 	0.079439252
+10	cf2	0.074766355
+10	cf3	0.074766355
+10	cf4	0.074766355
+10	cf+	0.074766355
+10	cf surface 	0.074766355
+10	cf adhesion	0.074766355
+10	dc electric	0.074766355
+10	dc plasma	0.074766355
+10	dc magnetic	0.074766355
+10	 mu 	0.074766355
+11	 rf 	0.363636364
+11	 dt 	0.227272727
+11	dc electric	0.136363636
+11	dc plasma	0.136363636
+11	dc magnetic	0.136363636
+11	 ec 	0.136363636
+11	 kv 	0.136363636

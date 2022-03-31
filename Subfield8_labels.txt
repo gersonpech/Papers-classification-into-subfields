@@ -1,0 +1,858 @@
+SOMA	Label	Weight
+1	cross section	0.00047259
+1	standard model	0.0625
+1	abelian model	1
+1	null geodesic	1
+1	integrated luminosity	1
+1	proton proton	0.111111111
+1	mass energy	0.25
+1	final state	0.027777778
+1	proton proton collision	0.25
+1	upper limit	1
+1	pp collision	0.111111111
+1	large hadron collider	1
+1	data sample	0.111111111
+1	general relativity	0.25
+1	cms detector	1
+1	scalar field	0.04
+1	standard model prediction	1
+1	differential cross section	0.25
+1	cms experiment	1
+1	higgs boson	1
+1	leading order	1
+1	standard model expectation	1
+1	dark matter	1
+1	transverse momentum	0.006944444
+1	missing transverse momentum	1
+1	using data	0.111111111
+1	proton proton collision data	1
+1	magnetic field	0.000657462
+1	parameter space	0.027777778
+1	w boson	1
+1	extra dimension	0.25
+1	top quark	1
+1	lhcb detector	1
+1	effective action	0.111111111
+1	lhcb experiment	1
+1	production cross section	0.111111111
+1	dark energy	0.25
+1	invariant mass	0.111111111
+1	cosmological model	0.111111111
+1	quantum field theor	0.111111111
+1	effective potential	0.04
+1	exclusion limit	1
+1	standard deviation	1
+1	pair production	0.25
+1	energy density	0.04
+1	gravitational field	0.0625
+1	point function	0.111111111
+1	pp collision data	1
+1	total cross section	0.25
+1	cosmic microwave background	1
+1	exact solution	0.25
+1	energy momentum tensor	0.25
+1	free parameter	0.04
+1	supersymmetric particle	1
+1	d0 detector	1
+1	experimental data	0.015625
+1	hadron decay	0.25
+1	mass range	0.25
+1	standard model background	1
+1	electromagnetic field	0.027777778
+1	field equation	0.0625
+1	bar collision	0.25
+1	landau gauge	1
+1	spherically symmetric	1
+1	gauge field	0.111111111
+1	low energy	0.003460208
+1	bottom quark	0.25
+1	angular momentum	0.111111111
+1	distribution function	0.005102041
+1	space time	0.015625
+1	dimensional spacetime	0.25
+1	mass energy root	1
+1	lorentz symmetry	1
+1	electric field	0.012345679
+1	scale factor	1
+1	decay mode	0.111111111
+1	lambda cdm model	1
+1	dark matter particle	1
+1	dirac equation	1
+1	lhc energ	1
+1	phase space	0.020408163
+1	standard model process	1
+1	top quark decay	1
+1	gauge theor	0.111111111
+1	perturbation theor	0.027777778
+1	top quark pair	1
+1	event horizon	1
+1	loop order	0.25
+1	yang mills theor	1
+1	observational data	0.25
+1	alice detector	1
+1	heavy ion collision	0.25
+1	dimensional space time	0.25
+1	supersymmetric model	1
+1	dark sector	1
+1	standard model higgs boson	1
+1	top quark mass	1
+1	doublet model	1
+1	boson decay	1
+1	quantum correction	0.111111111
+1	event generator	1
+1	invariant mass distribution	1
+1	massless scalar field	0.25
+1	detector effect	1
+1	particle multiplicity	0.25
+1	transverse momenta	0.0625
+1	using event	1
+1	fermionic field	0.25
+1	boson coupling	1
+1	dimensional reduction	0.25
+1	dark energy model	1
+1	black hole solution	1
+1	gluino mass	1
+1	neutrino mass	1
+1	matter field	0.25
+1	decay channel	0.04
+1	stringent limit	1
+1	standard model extension	1
+1	effective field theor	0.111111111
+1	real scalar field	1
+1	dark matter candidate	1
+1	effective theor	0.0625
+1	gravity theor	1
+1	energy scale	0.25
+1	boson production	0.25
+1	massive particle	0.25
+1	gauge symmetry	1
+1	quantum gravity	0.25
+1	missing transverse energy	1
+1	late time	1
+1	data set	0.0625
+1	lived particle	1
+1	spatial dimension	0.0625
+1	sterile neutrino	1
+1	quantum number	0.111111111
+1	theoretical model	0.020408163
+1	beta function	1
+1	effective lagrangian	0.25
+1	heavy quark	0.0625
+1	bar event	1
+1	dual model	1
+1	boson mass	1
+1	quark jet	0.25
+1	cosmological parameter	1
+1	numerical solution	0.111111111
+1	quark pair production	1
+1	free energy	0.005102041
+1	quantum effect	0.020408163
+1	psi production	0.25
+1	scalar sum	1
+1	expected background	1
+1	analytical solution	0.25
+1	dark matter model	1
+1	fiducial cross section	1
+1	quantum field	0.0625
+1	massive scalar field	0.25
+1	central collision	0.0625
+1	d0 experiment	1
+1	delphi detector	1
+1	schwinger dyson equation	1
+1	inflationary model	1
+1	neutralino mass	1
+1	gauge boson	1
+1	green function	1
+1	wave function	0.027777778
+1	background expectation	1
+1	decaying tau lepton	1
+1	production cross section time	1
+1	mass limit	1
+1	scalar perturbation	1
+1	radius jet	1
+1	dark energy equation	1
+1	higgs boson mass	1
+1	inclusive cross section	0.25
+1	standard model background expectation	1
+1	auxiliary field	0.25
+1	external field	0.111111111
+1	particle production	0.25
+1	decay width	0.111111111
+1	matter content	1
+1	quantum electrodynamic	0.111111111
+1	hadronic jet	1
+1	w boson decay	1
+1	effective model	0.111111111
+1	resonance mass	1
+1	available data	0.0625
+1	bar production	0.25
+1	quark matter	0.0625
+1	neutral particle	0.25
+1	vector boson	1
+1	handed neutrino	1
+1	quantum chromodynamic	0.0625
+1	large scale	0.0625
+1	squark pair production	1
+1	neutral higgs boson	1
+1	jet transverse momentum	1
+1	perturbative quantum chromodynamic	1
+1	large scale structure	1
+1	energy spectrum	0.04
+1	mass difference	1
+1	string theor	0.25
+1	light quark	0.111111111
+1	correlation function	0.00308642
+1	gauge group	1
+1	gauge invariance	1
+1	chiral symmetry	0.25
+1	conformal field theor	0.0625
+1	cross section time	1
+1	total energy	0.027777778
+1	general case	0.25
+1	quantum dynamic	0.0625
+1	time evolution	0.111111111
+1	leading jet	1
+1	tagged jet	1
+1	tev scale	1
+1	scalar field theor	1
+1	different model	0.020408163
+1	binding energy	0.111111111
+1	collision energ	0.04
+1	energy condition	1
+1	energy dependence	0.111111111
+1	quark mass	0.25
+1	decay product	0.25
+1	electroweak production	1
+1	scalar potential	0.111111111
+1	experimental result	0.020408163
+1	neutrino oscillation	1
+1	b jet	1
+1	transverse momentum range	0.25
+1	nambu jona lasinio model	1
+1	generalized model	1
+1	model parameter	0.027777778
+1	energy level	0.01
+1	energy neutrino	1
+1	vacuum energy	1
+1	field theor	0.005102041
+1	spatial section	1
+1	particle level	1
+1	dimensional space	0.027777778
+1	integral equation	0.111111111
+1	partition function	0.0625
+1	spectral function	0.111111111
+1	symmetric solution	1
+1	quantum cosmology	1
+1	quantum level	0.111111111
+1	circle time	0.25
+1	small scale	0.25
+1	top squark mass	1
+1	specific model	0.111111111
+1	casimir energy	0.25
+1	higgs field	1
+1	systematic effect	1
+1	subsequent decay	1
+1	nonrelativistic limit	0.25
+1	triple gauge	1
+1	future experiment	0.111111111
+1	energetic jet	1
+1	quark gluon plasma	0.111111111
+1	spontaneous symmetry breaking	1
+1	super yang mills theor	1
+1	transverse energy	0.25
+1	mass spectrum	0.25
+1	mass term	1
+1	decay rate	0.111111111
+1	differential equation	0.008264463
+1	delphi experiment	1
+1	quantum mechanic	0.008264463
+1	cosmological solution	1
+1	electroweak scale	1
+1	invariant mass spectrum	0.25
+1	single top quark	1
+1	dark matter particle mass	1
+1	gravity model	1
+1	energy range	0.04
+1	spinor field	0.0625
+1	associated production	1
+1	symmetry breaking	0.25
+1	general result	0.0625
+1	early time	1
+1	dijet event	1
+1	leading order calculation	1
+1	benchmark model	1
+1	bouncing model	1
+1	toy model	0.25
+1	self energy	0.111111111
+1	ultrahigh energy	1
+1	alternative theor	1
+1	gravitational theor	1
+1	current data	1
+1	production rate	0.25
+1	pbpb collision	0.25
+1	charm quark	0.25
+1	state parameter	1
+1	test particle	0.111111111
+1	limiting case	0.25
+1	functional form	0.04
+1	experimental analysis	0.0625
+1	conformal symmetry	1
+1	general expression	0.25
+1	arbitrary dimension	1
+1	far detector	1
+1	qcd model	1
+1	abelian gauge theor	1
+2	higgs	0.04115322
+2	luminosity	0.040488923
+2	boson	0.050420168
+2	integrated	0.043013253
+2	gravitational	0.033248082
+2	jets	0.035639552
+2	cosmological	0.029063009
+2	cms	0.019696416
+2	dark	0.048194772
+2	universe	0.024678646
+2	cosmic	0.023350051
+2	branching	0.020327499
+2	lepton	0.019629986
+2	confidence	0.019164978
+2	muon	0.015909921
+2	decaying	0.015710632
+2	leptons	0.014282393
+2	violation	0.012787724
+2	excluded	0.012090212
+2	violating	0.01119341
+2	searches	0.010794832
+2	lhcb	0.010462683
+2	horizon	0.009632311
+2	missing	0.009433022
+2	electroweak	0.009366592
+2	tilde	0.009366592
+2	propagator	0.009134088
+2	cmb	0.009067659
+2	supersymmetry	0.008868369
+2	neutralino	0.008237287
+2	deviations	0.008037998
+2	lightest	0.008037998
+2	beyond	0.008004783
+2	ghost	0.007772279
+2	inflation	0.007772279
+2	muons	0.007539775
+2	simons	0.007473345
+2	chern	0.007307271
+2	cosmology	0.007274056
+2	cdm	0.007141196
+2	redshift	0.007141196
+2	schwarzschild	0.007074767
+2	bottom	0.006742618
+2	electrodynamics	0.006742618
+2	galaxy	0.006576544
+2	quasinormal	0.00627761
+2	observational	0.006177965
+2	qed	0.005945461
+2	squark	0.005879031
+2	candidate	0.005646527
+2	tevatron	0.005646527
+2	newtonian	0.005613313
+2	consequences	0.005546883
+2	brst	0.005480453
+2	hubble	0.005480453
+2	nonperturbative	0.005480453
+2	gluino	0.005447238
+2	singularity	0.005314379
+2	association	0.005281164
+2	handed	0.005181519
+2	 run 	0.005181519
+2	backgrounds	0.005081875
+2	fermilab	0.00498223
+2	fiducial	0.00498223
+2	primordial	0.00498223
+2	significance	0.00498223
+2	spacetimes	0.004949015
+2	objects	0.0049158
+2	deviation	0.004882585
+2	dilepton	0.004849371
+2	dijet	0.004749726
+2	inflationary	0.004749726
+2	stringent	0.004749726
+2	gribov	0.004716511
+2	friedmann	0.004683296
+2	axial	0.004616867
+2	candidates	0.004616867
+2	broken	0.004583652
+2	collapse	0.004550437
+2	lived	0.004484007
+2	perfect	0.004450792
+2	cpt	0.004417577
+2	precise	0.004384362
+2	flavour	0.004351148
+2	galaxies	0.004351148
+2	superstring	0.004351148
+2	branes	0.004317933
+2	spherically	0.004317933
+2	squarks	0.004317933
+2	kerr	0.004251503
+2	lensing	0.004251503
+2	signatures	0.004218288
+2	yukawa	0.004118644
+2	nonzero	0.004085429
+2	examine	0.004052214
+2	sky	0.004052214
+2	 late 	0.004018999
+2	sterile	0.004018999
+2	curved	0.003985784
+2	opposite	0.003952569
+3	pp collision	0.25
+3	proton proton	0.25
+3	black hole	1
+3	proton proton collision	0.25
+3	final state	0.25
+3	cross section	0.0625
+3	dark matter	1
+3	higgs boson	1
+3	dark energy	1
+3	bar collision	1
+3	top quark	1
+3	magnetic field	0.004444444
+3	scalar field	0.04
+3	differential cross section	1
+3	w boson	1
+3	effective action	1
+3	standard model	1
+3	bar production	1
+3	pair production	1
+3	top quark mass	1
+3	yang mills theory	1
+3	effective potential	1
+3	bar production cross section	1
+3	cosmological model	1
+3	boson production	1
+3	casimir effect	0.25
+3	quantum field theory	0.111111111
+3	quantum gravity	0.25
+3	psi production	0.25
+3	jet event	1
+3	standard model extension	1
+3	gauge theor	0.25
+3	dark sector	1
+3	production cross section	1
+3	electroweak production	1
+3	quark pair production	1
+3	tev proton proton collision	1
+3	standard model higgs boson	1
+3	jet channel	1
+3	pp collision data	1
+3	dark energy model	1
+3	boson pair production	1
+3	top quark pair	1
+3	bottom quark	1
+3	sterile neutrino	1
+3	landau gauge	1
+3	ppb collision	1
+3	doublet model	0.25
+3	hadronically decay	1
+3	top quark production	1
+3	missing transverse energ	1
+3	jet production	1
+3	gravitational field	0.25
+3	low energ	0.04
+3	mass energ	1
+3	abelian gauge	1
+3	cosmological perturbation	1
+3	heavy ion collision	0.01
+3	faddeev jackiw	1
+3	euclidean yang mills theor	1
+3	ultrahigh energ	1
+4	decay	0.036484245
+4	gravity	0.060622812
+4	 jets	0.042196425
+4	higgs	0.056753271
+4	decays	0.044039064
+4	cosmic	0.030403538
+4	cosmology	0.019163442
+4	dark	0.062833978
+4	holes	0.035194398
+4	violating	0.020821817
+4	violation	0.01861065
+4	boson	0.062281187
+4	gluon	0.014741109
+4	 top 	0.042012161
+4	lepton	0.030403538
+4	cosmological	0.028745163
+4	 tau 	0.021006081
+4	missing	0.020821817
+4	quarks	0.017505067
+4	supersymmetry	0.01713654
+4	neutrinos	0.016399484
+4	leptons	0.016030956
+4	universe	0.016030956
+4	chern	0.014741109
+4	simons	0.014741109
+4	association	0.011792887
+4	quasinormal	0.01142436
+4	searches	0.010871568
+4	inflation	0.01050304
+4	sector	0.009028929
+4	cmb	0.008476138
+4	galaxy	0.00810761
+4	 extra 	0.007923346
+4	amplitudes	0.007739082
+4	ghost	0.007739082
+4	strings	0.007739082
+4	 lived 	0.007554819
+4	flavour	0.007002027
+4	 sign 	0.006817763
+4	perturbative	0.006633499
+4	 run 	0.006449235
+4	teleparallel	0.006449235
+4	cosmologies	0.006264971
+4	masses	0.006264971
+4	 ligo 	0.006080708
+4	observatory	0.006080708
+4	lensing	0.005896444
+4	fraction	0.00571218
+4	 lep 	0.00571218
+4	primordial	0.00571218
+4	pierre	0.005527916
+4	horava	0.005343652
+4	reissner	0.005159388
+4	bonnet	0.004975124
+4	braneworld	0.004975124
+4	horizon	0.004975124
+4	newtonian	0.004975124
+4	oscillation	0.004975124
+4	fractions	0.004790861
+4	qcd	0.02
+4	diphoton	0.004606597
+5	hadron hadron scattering	1
+5	beyond standard model	1
+5	higgs physics	1
+5	b physics	1
+5	ads cft correspondence	1
+5	dark energy theory	1
+5	dark matter theory	1
+5	superstrings and heterotic string	1
+5	integrable field theor	1
+5	flavor physics	1
+5	top physics	1
+5	cp violation	1
+5	modified gravity	1
+5	solitons monopoles and instanton	1
+5	neutrino physics	1
+5	black hole	0.25
+5	cosmology of theories beyond the sm	1
+5	cosmological perturbation theory	1
+5	gauge gravity correspondence	1
+5	field theories in higher dimension	1
+5	branching fraction	1
+5	physics of the early universe	1
+5	field theories in lower dimension	1
+5	supernova type ia	1
+5	dark matter	1
+5	extended supersymmetry	1
+5	integrable hierarch	0.25
+5	nonperturbative effect	1
+5	non commutative geometry	1
+5	classical theories of gravity	1
+5	particle and resonance production	1
+5	charm physics	1
+5	heavy ion experiment	1
+5	brst symmetry	1
+5	supersymmetric gauge theory	1
+5	ultra high energy cosmic ray	1
+5	gauge symmetry	1
+5	cosmological parameters from cmbr	1
+5	cosmological parameters from lss	1
+5	models of quantum gravity	1
+5	cmbr theory	1
+5	d branes	1
+5	brst quantization	1
+5	rare decay	1
+5	chern simons theor	1
+5	space time symmetr	1
+5	integrable equations in physics	1
+5	forward physics	1
+5	galaxy cluster	1
+5	power spectrum	1
+5	scattering amplitude	1
+5	string field theory	1
+5	particle physics	1
+5	electroweak interaction	1
+5	topological string	1
+5	quark gluon plasma	0.25
+5	dark matter experiment	1
+5	heavy quark production	1
+5	heavy ion	0.04
+5	phenomenological model	1
+6	hadron hadron scattering	1
+6	beyond standard model	1
+6	higgs physics	1
+6	b physics	1
+6	ads cft correspondence	1
+6	dark energy theory	1
+6	dark matter theory	1
+6	superstrings and heterotic string	1
+6	integrable field theor	1
+6	flavor physics	1
+6	top physics	1
+6	cp violation	1
+6	modified gravity	1
+6	solitons monopoles and instanton	1
+6	neutrino physics	1
+6	black hole	0.25
+6	cosmology of theories beyond the sm	1
+6	cosmological perturbation theory	1
+6	gauge gravity correspondence	1
+6	field theories in higher dimension	1
+6	branching fraction	1
+6	physics of the early universe	1
+6	field theories in lower dimension	1
+6	supernova type ia	1
+6	dark matter	1
+6	extended supersymmetry	1
+6	integrable hierarch	0.25
+6	nonperturbative effect	1
+6	non commutative geometry	1
+6	classical theories of gravity	1
+6	particle and resonance production	1
+6	charm physics	1
+6	heavy ion experiment	1
+6	brst symmetry	1
+6	supersymmetric gauge theory	1
+6	ultra high energy cosmic ray	1
+6	gauge symmetry	1
+6	cosmological parameters from cmbr	1
+6	cosmological parameters from lss	1
+6	models of quantum gravity	1
+6	cmbr theory	1
+6	d branes	1
+6	brst quantization	1
+6	rare decay	1
+6	chern simons theor	1
+6	space time symmetr	1
+6	integrable equations in physics	1
+6	forward physics	1
+6	galaxy cluster	1
+6	power spectrum	1
+6	scattering amplitude	1
+6	string field theory	1
+6	particle physics	1
+6	electroweak interaction	1
+6	topological string	1
+6	quark gluon plasma	0.25
+6	dark matter experiment	1
+6	heavy quark production	1
+6	heavy ion	0.04
+6	phenomenological model	1
+7	dark	0.112705783
+7	standard	0.105951878
+7	beyond	0.102574926
+7	cosmology	0.059096665
+7	cosmological	0.058252427
+7	dimensions	0.056563951
+7	strings	0.054031237
+7	supersymmetry	0.053186999
+7	neutrino	0.046010975
+7	heterotic	0.034191642
+7	superstrings	0.034191642
+7	cmbr	0.033347404
+7	flavor	0.029548333
+7	universe	0.025327142
+7	monopoles	0.024905023
+7	brst	0.024482904
+7	inflation	0.024060785
+7	galaxy	0.020683833
+7	supernova	0.019417476
+7	electroweak	0.012241452
+7	superspaces	0.010130857
+7	curved	0.0088645
+7	anomalies	0.007598143
+7	solar	0.007598143
+7	tachyon	0.006753905
+7	lensing	0.006331786
+7	galaxies	0.005909667
+7	quarkonium	0.005909667
+7	primordial	0.005065428
+7	supergravity	0.005065428
+8	parton distribution	1
+8	dark energy	1
+8	symmetry breaking	1
+8	black hole	0.111111111
+8	cosmological constant	0.25
+8	general relativity	0.25
+8	pair production	1
+8	pp collision	1
+8	field theory	0.015625
+8	p(p)over bar collision	1
+8	cpt violation	1
+8	cross section	0.0625
+8	gauge theor	0.25
+8	dark matter	1
+8	plus plus	1
+8	broken symmetr	1
+8	finite temperature	0.111111111
+8	monte carlo	0.027777778
+8	hadron collider	1
+8	standard model	1
+8	equation of state	0.25
+8	quark gluon plasma	0.25
+8	quantum field theory	0.25
+8	gauge theory	1
+8	radiatively induced lorentz	1
+8	probe wmap observation	1
+8	infrared behavior	1
+8	e(+)e( ) collision	1
+8	gravitational field	1
+8	baryon acoustic oscillation	1
+8	cp violation	1
+8	cross section	0.0625
+8	quantum mechanics	0.111111111
+8	deep inelastic scattering	0.25
+8	quasi normal mode	1
+8	black hole	0.111111111
+8	quantum chromodynamics	1
+8	hubble space telescope	1
+8	quantum gravity	0.25
+8	radiative correction	1
+8	field theor	0.012345679
+8	transverse momentum	0.111111111
+8	scalar field	1
+8	landau gauge	1
+8	proton proton collision	0.25
+8	gauge invariance	1
+8	string theory	1
+8	color glass condensate	0.25
+8	gluino production	1
+8	ia supernovae	1
+8	heavy ion collision	0.25
+8	gravitational wave	1
+8	phase transition	0.01
+8	quantum electrodynamics	1
+8	small x	0.25
+8	gravitational collapse	1
+8	chiral symmetry breaking	1
+8	cosmic string	1
+8	measuring mass	1
+8	yang mills theory	1
+9	constraints	0.098375728
+9	dark	0.083665339
+9	cosmological	0.070487282
+9	boson	0.054857493
+9	higgs	0.045969966
+9	cosmology	0.045357033
+9	lhc	0.040760037
+9	supernovae	0.040760037
+9	inflation	0.034937174
+9	cpt	0.034017775
+9	cosmic	0.033711309
+9	neutrino	0.030953111
+9	squark	0.029114312
+9	neutrinos	0.027275513
+9	supergravity	0.02666258
+9	galaxies	0.026356114
+9	broken	0.025743181
+9	standard	0.025436715
+9	observations	0.022678517
+9	redshift	0.022065584
+9	galaxy	0.021452651
+9	electroweak	0.021146184
+9	wmap	0.020226785
+9	telescope	0.01808152
+9	radiatively	0.017775054
+9	survey	0.017775054
+9	hubble	0.016855654
+9	lepton	0.016549188
+9	simons	0.016242721
+9	background	0.014710389
+10	 mu 	0.192905963
+10	mu(	0.192905963
+10	(mu)	0.192905963
+10	 mu,	0.192905963
+10	 mu.	0.192905963
+10	(fb)	0.170398303
+10	fb(	0.170398303
+10	 fb 	0.170398303
+10	 pi 	0.154018383
+10	/pi	0.154018383
+10	)pi	0.154018383
+10	(pi)	0.154018383
+10	pi)	0.154018383
+10	pi(	0.154018383
+10	 pp 	0.100872025
+10	(pp)	0.100872025
+10	pp/	0.100872025
+10	 nu 	0.086495404
+10	nu)	0.086495404
+10	(nu)	0.086495404
+10	(nu 	0.086495404
+10	nu(	0.086495404
+10	cp asymmet	0.058684893
+10	cp symmet	0.058684893
+10	cp violat	0.058684893
+10	break cp	0.058684893
+10	cp odd	0.058684893
+10	cp problem	0.058684893
+10	cp conservation	0.058684893
+10	cp propert	0.058684893
+10	cp phase	0.058684893
+10	cp invarian	0.058684893
+10	charge parity	0.058684893
+10	(cp)	0.058684893
+10	de sitter	0.045722366
+10	dark energy	0.045722366
+10	de broglie	0.045722366
+10	 su(	0.044779637
+10	 xi(	0.026278576
+10	 xi,	0.026278576
+10	 xi)	0.026278576
+10	(xi)	0.026278576
+10	)xi	0.026278576
+10	 xi 	0.026278576
+10	 z' 	0.020386519
+10	(z')	0.020386519
+10	sne ia	0.019915154
+10	sn ia	0.019915154
+10	type ia	0.019915154
+10	 d0 	0.017676173
+10	 pt 	0.017676173
+10	 pt=	0.017676173
+10	 pt(	0.017676173
+10	 zz 	0.015555032
+10	zz*	0.015555032
+10	 zz,	0.015555032
+10	/zz	0.015555032
+10	 ev 	0.015083667
+10	(ev)	0.015083667
+10	ev(2)	0.015083667
+10	/ev	0.015083667
+10	 ev.	0.015083667
+10	 sm 	0.013551732
+11	 pp 	0.427016645
+11	p(p)overbar	0.427016645
+11	p(p)overbar	0.427016645
+11	 pi(	0.145326504
+11	)pi	0.145326504
+11	+pi(	0.145326504
+11	 mu(	0.105633803
+11	)mu	0.105633803
+11	+mu(	0.105633803
+11	cp asymmet	0.07106274
+11	cp violat	0.07106274
+11	cp violat	0.07106274
+11	break cp	0.07106274
+11	cp odd	0.07106274
+11	s(nn)	0.052496799
+11	 nu 	0.04865557
+11	 nu)	0.04865557
+11	 nu)	0.04865557
+11	de sitter	0.042253521
+11	su(	0.039692702
+11	 fb(	0.024327785
+11	 ww 	0.02240717
+11	 ww/	0.02240717
+11	ww(*)	0.02240717
+11	 ww,	0.02240717
+11	 zz 	0.021126761
+11	 zz/	0.021126761
+11	zz(*)	0.021126761
+11	 zz,	0.021126761

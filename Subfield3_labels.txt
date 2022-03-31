@@ -1,0 +1,809 @@
+SOMA	Label	Weight
+1	magnetic field	0.000625
+1	schrodinger equation	0.111111111
+1	differential equation	0.015625
+1	particular case	1
+1	sufficient condition	0.25
+1	quantum mechanic	0.015625
+1	quantum system	0.04
+1	coherent state	0.027777778
+1	hilbert space	0.111111111
+1	main result	0.04
+1	scalar field	0.00591716
+1	phase space	0.012345679
+1	exact solution	0.25
+1	superconformal mechanic	1
+1	euclidean space	0.111111111
+1	boundary condition	0.111111111
+1	electromagnetic field	0.027777778
+1	quantum state	0.04
+1	dynamical system	0.0625
+1	inverse problem	1
+1	double hamiltonian	1
+1	quantum particle	0.25
+1	time evolution	0.111111111
+1	special case	1
+1	field equation	0.04
+1	space time	0.015625
+1	partition function	0.0625
+1	initial condition	0.111111111
+1	recent result	0.111111111
+1	invariant potential system	1
+1	numerical result	0.04
+1	phase transition	0.001111111
+1	lagrange equation	1
+1	exponential function	0.111111111
+1	spatial dimension	0.0625
+1	body problem	1
+1	free energy	0.005102041
+1	irreducible representation	1
+1	large class	1
+1	classical field theor	1
+1	electric field	0.012345679
+1	hamiltonian formulation	1
+1	vector field	0.111111111
+1	quantum dynamic	0.0625
+1	generating function	0.111111111
+1	thermodynamic limit	1
+1	physical measures	1
+1	quantum number	0.111111111
+1	point function	0.111111111
+1	vertex model	0.25
+1	integrable system	1
+1	physical system	0.0625
+1	periodic solution	1
+1	soliton solution	0.25
+1	variational method	0.111111111
+1	deformation parameter	0.111111111
+1	spectral representation	1
+1	fixed point	0.25
+1	quantum field	0.0625
+1	moduli space	1
+1	continuous function	0.25
+1	integrable model	1
+1	entangled state	0.25
+1	initial state	0.020408163
+1	state problem	1
+1	state solution	0.0625
+1	stationary state	0.0625
+1	circle time	0.25
+1	eigenvalue problem	1
+1	energy spectrum	0.04
+1	normal form	1
+1	algebraic structure	1
+1	critical point	0.04
+1	partial differential equation	0.25
+1	ansatz equation	1
+1	langevin equation	0.25
+1	dimensional space	0.027777778
+1	spectral function	0.111111111
+1	dimensional model	0.027777778
+1	analytical solution	0.25
+1	imaginary time	0.04
+1	dimensional case	0.0625
+1	implicit function theorem	1
+1	spectral propert	0.25
+1	free particle	0.111111111
+1	differential form	1
+1	explicit form	1
+1	fundamental form	1
+1	lie algebra	1
+1	critical value	0.0625
+1	spectral measure	1
+1	monopole space time	1
+1	fractional schrodinger equation	1
+1	inverse source problem	1
+1	central limit theorem	1
+1	quantum correlation	0.111111111
+1	quantum dot	0.0625
+1	symmetric space	0.25
+1	wightman function	1
+1	hamiltonian system	0.25
+1	continuous time	0.25
+1	finite time	0.0625
+1	differential operator	1
+1	cauchy problem	1
+1	general case	0.25
+1	similar result	0.04
+1	numerical method	0.25
+1	infinite serie solution	1
+1	phase diagram	0.00390625
+1	closed form	1
+1	heisenberg algebra	1
+1	superconformal algebra	1
+1	geometrical structure	0.25
+1	current densit	0.020408163
+1	universality class	1
+1	dimensional space time	0.25
+1	initial value problem	1
+1	quantum effect	0.020408163
+1	quantum level	0.111111111
+1	correlation function	0.00308642
+1	function approach	0.25
+1	equilibrium state	0.04
+1	excited state	0.001890359
+1	ground state	0.001371742
+1	stationary solution	1
+1	discrete time	0.25
+1	lax operator	1
+1	dimensional manifold	0.25
+1	potential barrier	0.25
+1	generalized formalism	1
+1	local symmetr	0.25
+1	exact result	0.0625
+1	previous result	0.04
+1	geometric propert	1
+1	spinning particle	0.25
+1	classical dynamic	1
+1	control parameter	0.111111111
+1	lax representation	1
+1	module representation	1
+1	mean value	0.0625
+1	relative entropy	0.25
+1	casimir effect	0.111111111
+1	particular class	1
+1	conformal field theor	0.0625
+1	integrable hamiltonian system	1
+1	scaling dimension lambda	1
+1	periodic boundary condition	0.25
+1	uhlenbeck process	1
+1	gauge field	0.0625
+1	matter field	0.25
+1	quantum correction	0.111111111
+1	quantum formalism	1
+1	quantum operation	0.25
+1	quantum ring	0.25
+1	quantum symmetr	1
+1	quantum theor	0.0625
+1	euler equation	1
+1	integral equation	0.111111111
+1	master equation	0.25
+1	parameter space	0.015625
+1	projective space	1
+1	sitter space	0.111111111
+1	zeta function	1
+1	different model	0.020408163
+1	dimensional system	0.04
+1	absorbing state	0.0625
+1	explicit solution	0.25
+1	positive solution	1
+1	regular solution	1
+1	weak solution	1
+1	invariant operator	1
+1	ladder operator	1
+1	local operation	1
+1	dimensional lattice	0.111111111
+1	dimensional semi	1
+1	dimensional spacetime	0.25
+1	geometrical theor	1
+1	ordering problem	1
+1	confining potential	0.25
+1	delta potential	1
+1	electrical potential	1
+1	linear potential	1
+1	magnetic potential	1
+1	general method	0.25
+1	energy level	0.01
+1	limiting case	0.25
+1	linear case	1
+1	specific case	1
+1	certain condition	0.25
+1	necessary condition	0.25
+1	symmetry propert	0.0625
+1	existence result	1
+1	statistical propert	0.111111111
+1	massive particle	0.25
+1	neutral particle	0.25
+1	dynamical localization	1
+1	special limit	1
+1	classical communication	1
+1	classical trajector	1
+1	non equilibrium	0.25
+1	binomial distribution	1
+1	gaussian distribution	0.25
+1	probability distribution	0.0625
+1	algebraic approach	1
+1	surface effect	0.25
+1	probability densit	0.111111111
+1	certain class	1
+1	special class	1
+1	nonlinear schrodinger equation	1
+1	order differential equation	0.111111111
+1	classical phase space	1
+1	energy momentum tensor	0.25
+1	dirichlet boundary condition	1
+1	non self adjoint hamiltonian	1
+1	auxiliary field	0.25
+1	field configuration	0.25
+1	several field	1
+1	spinor field	0.111111111
+1	equivalence classe	1
+1	quantum group	1
+1	quantum walk	0.25
+1	semiclassical approach	1
+1	eigenvalue equation	1
+1	heat equation	1
+1	type equation	0.25
+1	affine space	1
+1	flat space	0.111111111
+1	noncommutative space	0.111111111
+1	periodic function	0.25
+1	special function	1
+1	ising model	0.020408163
+1	lattice model	0.027777778
+1	sigma model	0.027777778
+1	chaotic system	0.111111111
+1	invariant system	1
+1	level system	0.111111111
+1	mechanical system	0.25
+1	particle system	0.111111111
+1	mixed state	0.0625
+1	pure state	0.25
+1	separable state	0.25
+1	thermal state	1
+1	entropy solution	1
+1	general solution	0.25
+1	operator solution	1
+1	similar solution	1
+1	unique solution	1
+1	time delay	0.111111111
+1	time dependence	0.0625
+1	time reversal	1
+1	laplace operator	1
+1	dimensional pseudo	1
+1	dimensional reduction	0.25
+1	dimensional theor	0.25
+1	scaling dimension	1
+1	averaging theor	1
+1	electromagnetic theor	1
+1	perturbation theor	0.020408163
+1	representation theor	1
+1	scattering theor	1
+1	open problem	1
+1	vortex problem	1
+1	harmonic potential	1
+1	solvable potential	1
+1	general class	0.25
+1	general version	1
+1	nonlinear generalization	1
+1	casimir energy	0.25
+1	critical energ	0.25
+1	energy density	0.020408163
+1	energy eigenvalue	1
+1	latter case	1
+1	stability result	1
+1	theoretical result	0.04
+1	uniqueness result	1
+1	alternative method	0.25
+1	invariant method	1
+1	important propert	0.25
+1	mathematical propert	1
+1	stability propert	0.25
+1	transport propert	0.027777778
+1	classical particle	0.25
+1	dynamical variable	0.25
+1	quadratic form	1
+1	vertex algebra	1
+1	asymptotic limit	1
+1	nonrelativistic limit	0.25
+1	semiclassical limit	1
+1	parameter family	0.111111111
+1	spectral parameter	1
+1	invariant surface	1
+1	invariant tori	1
+1	scaling invariant	0.25
+1	fundamental representation	1
+1	weight representation	1
+1	conformal structure	1
+1	different value	0.0625
+1	small value	0.111111111
+1	stationary measure	1
+1	stationary distribution	0.25
+2	schrodinger	0.029328
+2	integrable	0.026992
+2	 lie 	0.026992
+2	algebraic	0.024916
+2	representations	0.023099
+2	manifold	0.022839
+2	spaces	0.020244
+2	algebras	0.019465
+2	geometric	0.017649
+2	euclidean	0.013236
+2	riemannian	0.013236
+2	manifolds	0.012977
+2	adjoint	0.012717
+2	singular	0.012717
+2	hilbert	0.012198
+2	hamiltonians	0.011939
+2	hyperbolic	0.010901
+2	poisson	0.010901
+2	hierarchy	0.010641
+2	integrability	0.010641
+2	proved	0.010641
+2	wigner	0.010641
+2	bounded	0.010382
+2	proof	0.010382
+2	euler	0.010122
+2	partition	0.010122
+2	bundle	0.009862
+2	eigenvalue	0.009862
+2	quaternionic	0.009862
+2	pseudo	0.009603
+2	 cap 	0.021542
+2	 math 	0.015053
+2	establish	0.01116
+2	equivalence	0.009603
+2	sufficient	0.009603
+2	 org 	0.009343
+2	riemann	0.009343
+2	clifford	0.009084
+2	expressed	0.009084
+2	polynomial	0.009084
+2	affine	0.008824
+2	ansatz	0.008824
+2	 exist 	0.008824
+2	 norm 	0.008824
+2	actions	0.008565
+2	notion	0.008565
+2	ricci	0.008565
+2	setting	0.008565
+2	generalize	0.008305
+2	geometrical	0.008305
+2	hopf	0.008305
+2	sphere	0.008305
+2	 bethe 	0.008046
+2	conjecture	0.008046
+2	exists	0.008046
+2	feynman	0.008046
+2	locally	0.008046
+2	quadratic	0.008046
+2	satisfy	0.008046
+2	trivial	0.008046
+2	generating	0.007786
+2	smooth	0.007786
+2	symplectic	0.007786
+2	unitary	0.007786
+2	admit	0.007527
+2	bundles	0.007527
+2	conserved	0.007527
+2	degeneracy	0.007527
+2	families	0.007527
+2	nonlocal	0.007527
+2	identity	0.007267
+2	invariants	0.007267
+2	 lax 	0.007267
+2	polynomials	0.007267
+2	posed	0.007267
+2	rigorous	0.007267
+2	jacobi	0.007008
+2	neumann	0.007008
+2	solitons	0.007008
+2	unique	0.007008
+2	commutative	0.006748
+2	identities	0.006748
+2	spacelike	0.006748
+2	cohomology	0.006488
+2	maximal	0.006488
+2	module	0.006488
+2	monopole	0.006488
+2	theorems	0.006488
+2	bell	0.006229
+2	deformations	0.006229
+2	dirichlet	0.006229
+2	hermitian	0.006229
+2	metrics	0.006229
+2	modules	0.006229
+2	morse	0.006229
+2	satisfying	0.006229
+2	subset	0.006229
+2	tikhonov	0.006229
+2	confluent	0.005969
+2	contains	0.005969
+3	coherent state	1
+3	scalar field	0.027777778
+3	body problem	1
+3	magnetic field	0.005102041
+3	periodic solution	1
+3	quantum mechanic	0.027777778
+3	schrodinger equation	1
+3	space time	1
+3	inverse problem	1
+3	moduli space	1
+3	quantum dynamic	0.25
+3	arbitrary dimension	1
+3	casimir effect	0.111111111
+3	chaotic system	0.25
+3	deformed system	1
+3	delta potential	1
+3	electric field	0.027777778
+3	exact solution	1
+3	fractional schrodinger equation	1
+3	integrable model	1
+3	massive particle	1
+3	bjorling problem	1
+3	coherent state propagator	1
+3	regularization method	1
+3	conformal mechanic	1
+3	time delay	1
+3	vertex model	0.111111111
+3	cauchy problem	1
+3	classical field theory	1
+3	confluent heun equation	1
+3	continuous time	0.111111111
+3	correlation function	1
+3	discrete time	0.25
+3	dynamical system	0.25
+3	electromagnetic field	0.0625
+3	finite size effect	0.111111111
+3	dependent schrodinger equation	1
+3	global dynamic	0.25
+3	hamiltonian system	0.25
+3	invariant surface	1
+3	ising model	0.020408163
+3	lattice quantum chromodynamic	1
+3	novikov equation	1
+3	positive solution	1
+3	pure spinor	1
+3	quantum symmetr	1
+3	quantum system	0.25
+3	quantum transport	1
+3	riemannian space form	1
+3	scalar field theory	0.25
+3	schrodinger system	1
+3	semiclassical state	1
+3	soliton solution	1
+3	solvable model	0.25
+3	dimensional manifold	1
+3	spin model	0.25
+3	spinor field	1
+3	superconformal algebra	1
+3	superconformal mechanic	1
+3	algebraic approach	1
+4	algebras	0.066239316
+4	 lie 	0.047008547
+4	hypersurfaces	0.023504274
+4	bundles	0.021367521
+4	quaternionic	0.021367521
+4	hamiltonians	0.019230769
+4	jacobi	0.019230769
+4	spacelike	0.019230769
+4	duffin	0.017094017
+4	feynman	0.017094017
+4	 forms	0.017094017
+4	kemmer	0.017094017
+4	petiau	0.017094017
+4	 posed	0.017094017
+4	ricci	0.017094017
+4	submanifolds	0.017094017
+4	uniqueness	0.017094017
+4	bell	0.014957265
+4	moduli	0.014957265
+4	polynomials	0.014957265
+4	sphere	0.014957265
+4	transformations	0.014957265
+4	confluent	0.012820513
+4	eigenvalues	0.012820513
+4	ensembles	0.012820513
+4	hermitian	0.012820513
+4	regularity	0.012820513
+4	riemann	0.012820513
+4	schrodinger	0.076923077
+4	algebra	0.040598291
+4	existence	0.02991453
+4	 heun 	0.012820513
+4	husimi	0.012820513
+4	 ill 	0.012820513
+4	kirchhoff	0.012820513
+4	binomial	0.010683761
+4	clifford	0.010683761
+4	conformally	0.010683761
+4	eigenvalue	0.010683761
+4	euler	0.010683761
+4	galilei	0.010683761
+4	 hopf 	0.010683761
+4	instantons	0.010683761
+4	laplacian	0.010683761
+4	lorentzian	0.010683761
+4	mkdv	0.010683761
+4	modular	0.010683761
+4	modules	0.010683761
+4	painleve	0.010683761
+4	restricted	0.010683761
+4	theorems	0.010683761
+4	twist	0.010683761
+4	unitary	0.010683761
+4	values	0.010683761
+4	virasoro	0.010683761
+4	witten	0.010683761
+4	boundaries	0.008547009
+4	diffeomorphisms	0.008547009
+4	dirichlet	0.008547009
+4	 dym 	0.008547009
+5	quasi integrability	1
+5	quiver varieties	1
+5	rabi hamiltonian	1
+5	riemannian geometry	1
+5	special holonomy	1
+5	bethe ansatz	1
+5	dirac equation	1
+5	integrable model	0.25
+5	minimal surface	1
+5	scalar curvature	1
+5	random matrix theor	1
+5	gauge theor	0.25
+5	mean curvature	1
+5	dynamical casimir effect	1
+5	complete submanifold	1
+5	conformal metric	1
+5	differential geometry	1
+5	harmonic map	1
+5	hopf algebra	1
+5	lie algebroid	1
+5	lie groupoid	1
+5	moduli space	1
+5	schrodinger equation	1
+5	spacelike hypersurface	1
+5	spacelike submanifold	1
+5	bose einstein condensate	0.25
+5	quantisation (quantum theory)	1
+5	adhm construction	1
+5	backlund transformation	1
+5	boltzmann equation	0.25
+5	boson system	1
+5	brane world	1
+5	circuit qed	1
+5	clifford algebra	1
+5	complex network	0.25
+5	conformal map	1
+5	correlation function	1
+5	differential equation	1
+5	exact solution	1
+5	feynman amplitude	1
+5	finite temperature	1
+5	fourier transform	1
+5	framed shea	1
+5	quantum symmetr	1
+5	riemannian geometry	1
+5	harmonic oscillator	1
+5	integrable hierarch	0.25
+5	laplace transform	1
+5	local symmetr	1
+5	magnetic field	1
+5	magnetic flux	1
+5	mathematical operator	1
+5	mellin representation	1
+5	noncommutative geometry	1
+5	painleve equation	1
+5	phase transition	0.008264463
+5	pt symmetry	1
+5	pure spinor	1
+5	quantum chaos	1
+5	quantum group	1
+6	quasi integrability	1
+6	quiver varieties	1
+6	rabi hamiltonian	1
+6	riemannian geometry	1
+6	special holonomy	1
+6	bethe ansatz	1
+6	dirac equation	1
+6	integrable model	0.25
+6	minimal surface	1
+6	scalar curvature	1
+6	random matrix theor	1
+6	gauge theor	0.25
+6	mean curvature	1
+6	dynamical casimir effect	1
+6	complete submanifold	1
+6	conformal metric	1
+6	differential geometry	1
+6	harmonic map	1
+6	hopf algebra	1
+6	lie algebroid	1
+6	lie groupoid	1
+6	moduli space	1
+6	schrodinger equation	1
+6	spacelike hypersurface	1
+6	spacelike submanifold	1
+6	bose einstein condensate	0.25
+6	quantisation (quantum theory)	1
+6	adhm construction	1
+6	backlund transformation	1
+6	boltzmann equation	0.25
+6	boson system	1
+6	brane world	1
+6	circuit qed	1
+6	clifford algebra	1
+6	complex network	0.25
+6	conformal map	1
+6	correlation function	1
+6	differential equation	1
+6	exact solution	1
+6	feynman amplitude	1
+6	finite temperature	1
+6	fourier transform	1
+6	framed shea	1
+6	quantum symmetr	1
+6	riemannian geometry	1
+6	harmonic oscillator	1
+6	integrable hierarch	0.25
+6	laplace transform	1
+6	local symmetr	1
+6	magnetic field	1
+6	magnetic flux	1
+6	mathematical operator	1
+6	mellin representation	1
+6	noncommutative geometry	1
+6	painleve equation	1
+6	phase transition	0.008264463
+6	pt symmetry	1
+6	pure spinor	1
+6	quantum chaos	1
+6	quantum group	1
+7	algebras	0.104
+7	 lie 	0.084
+7	bundles	0.048
+7	manifolds	0.048
+7	riemannian	0.048
+7	spacelike	0.048
+7	submanifolds	0.044
+7	symplectic	0.04
+7	forms	0.032
+7	groupoids	0.032
+7	ricci	0.032
+7	clifford	0.028
+7	feynman	0.028
+7	hopf	0.028
+7	lorentzian	0.028
+7	manifold	0.028
+7	moduli	0.028
+7	fundamental	0.024
+7	minkowski	0.024
+7	polynomials	0.024
+7	algebroids	0.02
+7	averaging	0.02
+7	connections	0.02
+7	counting	0.02
+7	darboux	0.02
+7	formula	0.02
+7	matrices	0.02
+7	quantisation	0.02
+7	representations	0.02
+7	symmetric	0.02
+8	darboux transformation	1
+8	image reconstruction	1
+8	landau level	1
+8	large deviation	1
+8	lattice model	1
+8	poisson structure	1
+8	singular system	1
+8	solitary wave	0.25
+8	squeezed state	1
+8	campbell magaard theorem	1
+8	dependent harmonic oscillator	1
+8	ill posed problems	1
+8	algebraic approach	1
+8	boundary conditions	1
+8	coherent state	0.111111111
+8	anomalous diffusion	0.25
+8	schrodinger equation	0.25
+8	phase space	0.25
+8	gauge theor	0.111111111
+8	phase transition	0.012345679
+8	jaynes cummings model	1
+8	finite temperature	0.111111111
+8	harmonic oscillator	1
+8	euler equations	1
+8	elliptic equation	1
+8	wave function	0.25
+8	fokker planck equation	0.25
+8	positive solution	1
+8	riemannian manifold	1
+8	well posedness	1
+8	algebraic bethe ansatz	1
+8	self similar potential	1
+8	bethe ansatz	1
+8	cauchy problem	1
+8	charged particle	1
+8	magnetic field	0.04
+8	q analog	1
+8	quantum theory	1
+8	schrodinger operator	1
+8	constant mean curvature	1
+8	exactly solvable potential	1
+8	ordinary differential equation	1
+8	classical mechanics	1
+8	differential equation	1
+8	directed percolation	0.25
+8	lyapunov exponent	0.25
+8	minkowski space	1
+8	particle creation	1
+8	shape invariant	1
+8	ferromagnetic spin system	1
+8	generalized coherent state	1
+8	nonlinear schrodinger equation	1
+8	random matrix theory	1
+8	singular continuous spectrum	1
+8	2 dimensions	0.25
+8	5 dimensions	1
+8	absorbing state	1
+8	complex network	0.25
+8	conservation law	1
+8	critical behavior	0.0625
+9	schrodinger	0.091981132
+9	operators	0.080188679
+9	manifolds	0.058962264
+9	representations	0.056603774
+9	 lie 	0.049528302
+9	spaces	0.04245283
+9	algebraic	0.037735849
+9	hamiltonians	0.037735849
+9	invariants	0.035377358
+9	inverse	0.035377358
+9	integrability	0.033018868
+9	singular	0.030660377
+9	solvable	0.030660377
+9	variables	0.030660377
+9	construction	0.023584906
+9	cummings	0.023584906
+9	hypersurfaces	0.023584906
+9	integral	0.023584906
+9	jaynes	0.023584906
+9	kernel	0.023584906
+9	posedness	0.023584906
+9	positive	0.023584906
+9	riemannian	0.023584906
+9	theorems	0.023584906
+9	cauchy	0.021226415
+9	poisson	0.021226415
+9	minkowski	0.018867925
+9	wigner	0.018867925
+9	asymptotic	0.016509434
+9	euler	0.016509434
+10	 mu 	0.260726073
+10	(mu)	0.260726073
+10	 mu(	0.260726073
+10	 mu)	0.260726073
+10	(mu 	0.260726073
+10	 mu.	0.260726073
+10	 mu,	0.260726073
+10	(mu(	0.260726073
+10	su(2)	0.194719472
+10	su(3)	0.194719472
+10	su(1,1)	0.194719472
+10	su(2,	0.194719472
+10	 nu 	0.178217822
+10	(nu)	0.178217822
+10	 nu(	0.178217822
+10	 nu)	0.178217822
+10	(nu 	0.178217822
+10	 nu.	0.178217822
+10	 nu,	0.178217822
+10	(nu(	0.178217822
+10	cl 3,	0.115511551
+10	cl 0,	0.115511551
+10	cl 1,	0.115511551
+10	cl 4,	0.115511551
+10	cl(m,g)	0.115511551
+10	 pi 	0.089108911
+10	pi(n)	0.089108911
+10	pi( )	0.089108911
+10	pi(+)	0.089108911
+10	 pi/	0.089108911
+10	(pi/	0.089108911
+10	 sl(2	0.085808581
+10	 sl(3	0.085808581
+10	 sl(n	0.085808581
+10	 ln kappa	0.075907591
+10	ln+1	0.075907591
+10	ln+2	0.075907591
+11	de sitter	0.405405405
+11	su(2)	0.378378378
+11	su(3)	0.378378378
+11	su(1,1)	0.378378378
+11	su(2,2)	0.378378378
+11	 su(n)	0.378378378
+11	 sl(2	0.135135135
+11	 sl(3	0.135135135
+11	 sl(n	0.135135135
+11	pt symmetry	0.081081081
+11	pt invariant	0.081081081

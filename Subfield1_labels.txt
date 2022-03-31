@@ -1,0 +1,888 @@
+SOMA	Label	Weight
+1	functional theor	0.0625
+1	experimental data	0.015625
+1	experimental result	0.020408163
+1	electronic state	0.111111111
+1	excited state	0.005102041
+1	molecular dynamic	0.04
+1	electronic propert	0.25
+1	molecular dynamic simulation	0.111111111
+1	free energy	0.015625
+1	initio calculation	0.111111111
+1	electronic structure	0.111111111
+1	gas phase	0.25
+1	hydrogen bond	1
+1	experimental value	0.04
+1	potential energy surface	1
+1	ionic liquid	1
+1	binding energ	0.04
+1	theoretical calculation	0.111111111
+1	water molecule	1
+1	room temperature	0.111111111
+1	solvent effect	1
+1	ground state	0.00147929
+1	theoretical result	0.04
+1	potential energy curve	1
+1	optical propert	0.111111111
+1	low temperature	0.012345679
+1	continuum model	0.25
+1	molecular structure	1
+1	electronic transition	0.25
+1	dft calculation	1
+1	functional theor calculation	0.25
+1	principles calculation	0.25
+1	solvent molecule	1
+1	using density	0.25
+1	electronic structure calculation	0.25
+1	charge transfer	0.25
+1	multichannel method	1
+1	quantum chemical calculation	1
+1	basis set	1
+1	transition state	1
+1	structural propert	0.111111111
+1	temperature dependence	0.027777778
+1	dissociation energ	1
+1	different temperature	0.0625
+1	quantum theor	0.0625
+1	dependent density	1
+1	electrostatic interaction	1
+1	raman spectra	1
+1	activation energy	0.0625
+1	phase transition	0.001371742
+1	oxygen atom	1
+1	chemical bond	1
+1	present result	0.04
+1	thermodynamic propert	0.04
+1	mechanical calculation	0.25
+1	magnetic propert	0.111111111
+1	photon energy	0.111111111
+1	triplet state	0.04
+1	experimental measurement	0.04
+1	theoretical model	0.020408163
+1	phase diagram	0.004444444
+1	temperature range	0.111111111
+1	solvent polarity	1
+1	optical absorption	0.04
+1	excitation energ	0.027777778
+1	electrical propert	0.25
+1	experimental observation	0.04
+1	polarization effect	0.111111111
+1	liquid phase	0.25
+1	molecular system	0.25
+1	liquid water	1
+1	radial distribution function	1
+1	organic molecule	1
+1	ionization potential	0.25
+1	atomic charge	1
+1	solid state	0.008264463
+1	experimental stud	0.04
+1	relativistic effect	0.111111111
+1	dynamical propert	0.111111111
+1	adsorption process	1
+1	adsorption energy	0.25
+1	interaction energy	1
+1	intermolecular interaction	1
+1	absorption spectra	0.25
+1	energy barrier	0.111111111
+1	functional group	0.25
+1	wave function	0.027777778
+1	electron affinit	0.25
+1	initio method	1
+1	md simulation	1
+1	b3lyp level	1
+1	scanning electron microscopy	0.111111111
+1	electronic density	0.25
+1	bond length	1
+1	transmission electron microscopy	0.111111111
+1	gas phase value	1
+1	experimental condition	0.0625
+1	model system	0.111111111
+1	crystal structure	0.25
+1	polarization function	1
+1	photophysical propert	1
+1	spectroscopic propert	1
+1	electron density	0.027777778
+1	valence electron	1
+1	solvent interaction	1
+1	transition probabilit	0.25
+1	theoretical method	1
+1	chemical reaction	1
+1	reaction mechanism	0.25
+1	energy range	0.04
+1	experimental finding	0.0625
+1	previous result	0.04
+1	liquid crystal	0.25
+1	momentum transfer	0.0625
+1	hydrogen bond formation	1
+1	natural bond orbital	1
+1	singlet state	0.111111111
+1	functional calculation	0.25
+1	molecular modeling	1
+1	electron scattering	0.111111111
+1	double bond	1
+1	hydrogen atom	1
+1	complete basis	1
+1	electron correlation effect	1
+1	multireference configuration interaction	1
+1	monte carlo simulation	0.0625
+1	energy difference	0.0625
+1	energy gap	0.111111111
+1	transition energ	0.111111111
+1	anion state	1
+1	pi state	1
+1	vibrational state	0.25
+1	c bond	1
+1	ion pair	1
+1	dynamic simulation	0.0625
+1	point charge	0.25
+1	molecular level	1
+1	emission spectra	0.0625
+1	order perturbation theor	1
+1	gaussian basis set	1
+1	electronic energ	1
+1	potential energy	0.111111111
+1	total energy	0.027777778
+1	experimental evidence	0.04
+1	lattice model	0.027777778
+1	equilibrium structure	1
+1	stable structure	0.25
+1	thermal effect	0.0625
+1	vibrational propert	0.25
+1	electron transfer	1
+1	simulation result	0.111111111
+1	simulation data	1
+1	current density	0.027777778
+1	binary system	0.25
+1	vibrational spectra	1
+1	photon absorption	1
+1	glass transition temperature	0.25
+1	consistent basis set	1
+1	variational transition state theor	1
+1	energy region	0.0625
+1	relative energ	0.25
+1	stabilization energ	1
+1	steady state	0.01
+1	experimental investigation	0.0625
+1	cluster calculation	1
+1	polarizable model	1
+1	simple model	0.027777778
+1	crystalline structure	0.25
+1	electronic contribution	0.25
+1	mechanical propert	0.111111111
+1	electron impact	1
+1	intramolecular interaction	1
+1	transition metal	0.111111111
+1	charge transport	1
+1	increasing temperature	0.25
+1	theoretical data	1
+1	different level	1
+1	mp2 level	1
+1	vibrational level	1
+1	carbon atom	1
+1	dipole moment function	1
+1	electron impact excitation	1
+1	hydrogen bond interaction	1
+1	intramolecular hydrogen bond	1
+1	vertical ionization potential	1
+1	charge charge flux	1
+1	ionized state	1
+1	calculated result	0.25
+1	electronic effect	1
+1	electronic excitation	0.25
+1	electronic spectra	1
+1	molecular propert	1
+1	physical propert	0.0625
+1	transport propert	0.04
+1	electron acceptor	1
+1	electron donor	1
+1	covalent bond	1
+1	solid phase	0.25
+1	electrostatic potential	0.25
+1	charge distribution	0.25
+1	dft method	1
+1	reaction paths	1
+1	electrode surface	1
+1	chlorine atom	1
+1	cluster size	1
+1	free energy barrier	1
+1	incident electron energ	1
+1	low energy electron	0.111111111
+1	calculated cross section	0.25
+1	independent atom model	1
+1	time correlation function	1
+1	solvent hydrogen bond	1
+1	energy transfer	0.0025
+1	kinetic energy	0.020408163
+1	rydberg state	1
+1	state model	0.25
+1	calculated value	1
+1	binding model	0.111111111
+1	effective charge	0.04
+1	electron attachment	1
+1	electron correlation	0.25
+1	configuration interaction	1
+1	interaction potential	0.111111111
+1	aqueous phase	1
+1	potential candidate	0.25
+1	low density	0.020408163
+1	water solution	1
+1	computer simulation	0.25
+1	hydrogen abstraction	1
+1	nitrogen atom	1
+1	proton transfer	1
+1	energy transfer process	0.04
+1	minimum energy path	1
+1	quantum mechanic calculation	1
+1	explicit water molecule	1
+1	quantum chemical method	0.25
+1	local density approximation	0.111111111
+1	protic ionic liquid	1
+1	complete basis set	1
+1	different basis set	1
+1	energy level	0.012345679
+1	impact energ	1
+1	ionization energ	1
+1	qm calculation	1
+1	kinetic model	0.111111111
+1	model parameter	0.027777778
+1	potential model	0.111111111
+1	solvent model	1
+1	edge structure	1
+1	vibrational structure	1
+1	electronic coupling	1
+1	electronic spectrum	0.25
+1	diffuse function	1
+1	functional method	0.111111111
+1	quantum effect	0.020408163
+1	temperature effect	0.0625
+1	hydrophobic interaction	1
+1	orbital interaction	1
+1	strong interaction	0.111111111
+1	phase behavior	1
+1	potential application	0.111111111
+1	surface potential	1
+1	dynamical behavior	0.111111111
+1	charge density	0.0625
+1	continuum method	1
+1	variational method	0.111111111
+1	cluster theor	1
+1	solvent system	1
+1	positive value	1
+1	pure liquid	1
+1	fermi level	1
+1	organic solvent	1
+1	mass spectra	0.0625
+1	energy level diagram	0.25
+1	static structure factor	1
+1	functional theor level	1
+1	electron basis set	1
+1	partial ion yield	1
+1	molecular dynamic stud	1
+1	polymeric precursor method	1
+1	x ray absorption	0.04
+1	low energy	0.003460208
+1	reaction energy	1
+1	vibrational energy	1
+1	lying state	0.25
+1	experimental estimate	1
+1	experimental technique	0.111111111
+1	cis calculation	1
+1	atom model	1
+1	band structure	0.04
+1	local structure	0.25
+1	transition structure	1
+1	electronic polarization	1
+1	effective mass	0.027777778
+1	tunneling effect	1
+1	adsorption propert	1
+1	physicochemical propert	1
+1	attractive interaction	0.111111111
+1	coulomb interaction	0.111111111
+1	dipole interaction	0.25
+2	solvent	0.045187398
+2	 ionic	0.039310145
+2	kcal	0.029097216
+2	solvation	0.025628673
+2	b3lyp	0.021774737
+2	nmr	0.02042586
+2	mp2	0.020040466
+2	liquids	0.017920802
+2	 anion 	0.016668272
+2	 cation	0.016282879
+2	bonding	0.015223047
+2	solvents	0.014548608
+2	 solute	0.014259563
+2	mixtures	0.013970517
+2	ccsd	0.012910685
+2	oxidation	0.01262164
+2	singlet	0.01262164
+2	activation	0.012332595
+2	methyl	0.012332595
+2	dmso	0.012139898
+2	photoelectron	0.011947201
+2	conformational	0.010501975
+2	functionals	0.009923885
+2	methanol	0.009827536
+2	intramolecular	0.009153098
+2	hydrophobic	0.009056749
+2	ethanol	0.008960401
+2	benzene	0.008767704
+2	intermolecular	0.008767704
+2	stretching	0.008767704
+2	organic	0.017535408
+2	 polar	0.012139898
+2	 cations	0.011561807
+2	geometries	0.010983717
+2	 aug	0.01079102
+2	 cis	0.010309278
+2	optimized	0.009538491
+2	31g	0.009153098
+2	 trans 	0.008960401
+2	 anions 	0.008864052
+2	bonded	0.008767704
+2	 chem 	0.008767704
+2	electrochemical	0.008767704
+2	 dimer 	0.008575007
+2	tio2	0.008575007
+2	kinetics	0.00838231
+2	radical	0.008285962
+2	 amino 	0.007996917
+2	acetonitrile	0.007900568
+2	hartree	0.00780422
+2	fock	0.007611523
+2	catalytic	0.007515175
+2	nh3	0.007418826
+2	 base 	0.007322478
+2	chemistry	0.00722613
+2	 drug 	0.00722613
+2	alkyl	0.007033433
+2	isomers	0.007033433
+2	polarizable	0.007033433
+2	reactivity	0.007033433
+2	acceptor	0.006937084
+2	aggregates	0.006937084
+2	aggregation	0.006937084
+2	 salt 	0.006937084
+2	 waals	0.006937084
+2	conformers	0.006840736
+2	hyperpolarizability	0.006840736
+2	polarizability	0.006840736
+2	 ils 	0.006744388
+2	ch3	0.006648039
+2	distances	0.006648039
+2	dyes	0.006648039
+2	supported	0.006648039
+2	understand	0.006648039
+2	dimers	0.006455343
+2	hydration	0.006455343
+2	located	0.006455343
+2	monomers	0.006455343
+2	qtaim	0.006455343
+2	 bis 	0.006262646
+2	covalent	0.006262646
+2	enthalpy	0.006262646
+2	forming	0.006262646
+2	pcm	0.006262646
+2	favorable	0.006166297
+2	 ice 	0.006166297
+2	alcohol	0.006069949
+2	polaron	0.006069949
+2	pvdz	0.006069949
+2	acids	0.005973601
+2	nucleation	0.005973601
+2	pathways	0.005973601
+2	radicals	0.005877252
+2	 rings	0.005877252
+2	aromatic	0.005684555
+2	butyl	0.005684555
+2	chloride	0.005684555
+2	sodium	0.005684555
+2	conformer	0.005588207
+2	nematic	0.005588207
+3	theoretical stud	0.25
+3	ionic liquid	1
+3	electronic state	0.25
+3	theoretical investigation	1
+3	potential energy surface	1
+3	aqueous solution	1
+3	electronic propert	0.25
+3	molecular dynamic simulation	0.25
+3	optical propert	0.111111111
+3	molecular dynamic	0.04
+3	solvent effect	1
+3	electronic structure	0.111111111
+3	experimental stud	0.111111111
+3	excited state	0.111111111
+3	initio stud	0.25
+3	initio calculation	1
+3	gas phase	1
+3	theoretical calculation	1
+3	functional theory	1
+3	molecular dynamic stud	0.25
+3	structural propert	0.111111111
+3	electric propert	0.111111111
+3	liquid water	1
+3	dft stud	1
+3	magnetic propert	0.111111111
+3	free energy	0.25
+3	electron impact	1
+3	comparative stud	0.25
+3	phase transition	0.005102041
+3	computational stud	0.25
+3	functional stud	1
+3	electron scattering	1
+3	dft calculation	1
+3	experimental investigation	1
+3	quantum monte	1
+3	solid solution	1
+3	functional theory stud	1
+3	spectroscopic propert	0.25
+3	energy transfer	0.25
+3	temperature effect	0.111111111
+3	principles calculation	1
+3	organic molecule	1
+3	electronic transition	1
+3	mechanical stud	1
+3	principles stud	0.25
+3	photophysical propert	0.25
+3	thermodynamic propert	0.25
+3	ground state	0.25
+3	binding energ	0.111111111
+3	initio investigation	1
+3	molecular structure	1
+3	low energy electron collision	1
+3	spectroscopic stud	1
+3	molecular propert	1
+3	liquid crystal	0.25
+3	molecular modeling	1
+3	electron collision	1
+3	quantum theory	1
+3	supercritical water	1
+3	quantum chemical stud	1
+4	solvent	0.054529464
+4	solvation	0.038698329
+4	conformational	0.036939314
+4	insights	0.028144239
+4	oxidation	0.025505717
+4	bonding	0.023746702
+4	 bonds	0.023746702
+4	radical	0.021987687
+4	photoionization	0.021108179
+4	methanol	0.020228672
+4	benzene	0.018469657
+4	intramolecular	0.018469657
+4	electrochemical	0.01759015
+4	hyperpolarizability	0.015831135
+4	lowest	0.015831135
+4	alcohol	0.014951627
+4	 anions	0.014951627
+4	cyclodextrin	0.014951627
+4	dimethyl	0.014951627
+4	acetonitrile	0.01407212
+4	 acids	0.01407212
+4	hcn	0.01407212
+4	intermolecular	0.01407212
+4	singlet	0.01407212
+4	aromatic	0.013192612
+4	ethanol	0.013192612
+4	phenol	0.013192612
+4	 zeta 	0.013192612
+4	adsorption	0.056288478
+4	methyl	0.026385224
+4	substituted	0.016710642
+4	 anion 	0.015831135
+4	 salt 	0.014951627
+4	inclusion	0.01407212
+4	intensities	0.01407212
+4	reactivity	0.013192612
+4	solvents	0.013192612
+4	 trans 	0.013192612
+4	catalytic	0.012313105
+4	imidazolium	0.012313105
+4	nh3	0.012313105
+4	bonded	0.011433597
+4	chemistry	0.011433597
+4	chitosan	0.011433597
+4	chlorine	0.011433597
+4	dioxide	0.011433597
+4	hydration	0.011433597
+4	sulfoxide	0.011433597
+4	 alkyl 	0.01055409
+4	ammonium	0.01055409
+4	 cations 	0.01055409
+4	 cis 	0.01055409
+4	dissociative	0.01055409
+4	glycine	0.01055409
+4	alcohols	0.009674582
+4	alkali	0.009674582
+4	 azo 	0.009674582
+4	formic	0.009674582
+4	 host 	0.009674582
+4	hydrated	0.009674582
+5	molecular dynamic	1
+5	ionic liquid	1
+5	organic compound	1
+5	density functional theor	0.25
+5	molecular dynamics method	1
+5	ab initio calculation	0.25
+5	dft calculation	1
+5	excited state	1
+5	theoretical calculation	1
+5	molecular configuration	1
+5	monte carlo method	1
+5	ab initio	0.25
+5	ground state	0.25
+5	hydrogen bond	1
+5	hydrogen bonds	1
+5	ionic liquid	1
+5	liquid structure	1
+5	solvent effect	1
+5	excited electronic state	1
+5	activated carbon	1
+5	binding energy	1
+5	calamitic nematic	1
+5	conformational analysis	1
+5	electronic propert	1
+5	glass transition	1
+5	hydrogen bonding	1
+5	molecular docking	1
+5	phase transition	0.008264463
+5	solvent effect	1
+5	spectroscopic constant	1
+5	statistical physics	1
+5	coupled cluster calculation	1
+5	multireference configuration interaction	1
+5	reaction kinetics theory	1
+5	amino acid	1
+5	beta cyclodextrin	1
+5	bonds (chemical)	1
+5	charge exchange	1
+5	critical point	1
+5	discotic nematic	1
+5	electronic structure	0.25
+5	electronic transition	1
+5	impedance spectroscopy	1
+5	inclusion complex	1
+5	liquid crystal	1
+5	liquid theor	1
+5	lithium compound	1
+5	molecular biophysics	1
+5	molecular cluster	1
+5	molecular modeling	1
+5	molecular moment	1
+5	monte carlo	0.04
+5	optical propert	0.25
+5	perturbation theory	0.25
+5	phase diagram	0.111111111
+5	raman spectra	1
+5	self diffusion	1
+5	sulphur compound	1
+5	surface tension	1
+5	thermodynamic propert	1
+6	molecular dynamic	1
+6	ionic liquid	1
+6	organic compound	1
+6	density functional theor	0.25
+6	molecular dynamics method	1
+6	ab initio calculation	0.25
+6	dft calculation	1
+6	excited state	1
+6	theoretical calculation	1
+6	molecular configuration	1
+6	monte carlo method	1
+6	ab initio	0.25
+6	ground state	0.25
+6	hydrogen bond	1
+6	hydrogen bonds	1
+6	ionic liquid	1
+6	liquid structure	1
+6	solvent effect	1
+6	excited electronic state	1
+6	activated carbon	1
+6	binding energy	1
+6	calamitic nematic	1
+6	conformational analysis	1
+6	electronic propert	1
+6	glass transition	1
+6	hydrogen bonding	1
+6	molecular docking	1
+6	phase transition	0.008264463
+6	solvent effect	1
+6	spectroscopic constant	1
+6	statistical physics	1
+6	coupled cluster calculation	1
+6	multireference configuration interaction	1
+6	reaction kinetics theory	1
+6	amino acid	1
+6	beta cyclodextrin	1
+6	bonds (chemical)	1
+6	charge exchange	1
+6	critical point	1
+6	discotic nematic	1
+6	electronic structure	0.25
+6	electronic transition	1
+6	impedance spectroscopy	1
+6	inclusion complex	1
+6	liquid crystal	1
+6	liquid theor	1
+6	lithium compound	1
+6	molecular biophysics	1
+6	molecular cluster	1
+6	molecular modeling	1
+6	molecular moment	1
+6	monte carlo	0.04
+6	optical propert	0.25
+6	perturbation theory	0.25
+6	phase diagram	0.111111111
+6	raman spectra	1
+6	self diffusion	1
+6	sulphur compound	1
+6	surface tension	1
+6	thermodynamic propert	1
+7	ionic	0.113553114
+7	adsorption	0.091575092
+7	hydrogen	0.073260073
+7	solvation	0.051282051
+7	solvent	0.051282051
+7	biaxial	0.043956044
+7	bonds	0.043956044
+7	vibrational	0.043956044
+7	chitosan	0.029304029
+7	molecules	0.029304029
+7	solubility	0.029304029
+7	basis	0.025641026
+7	conformational	0.025641026
+7	enthalpy	0.025641026
+7	activated	0.021978022
+7	chemistry	0.021978022
+7	drug	0.021978022
+7	photoionization	0.021978022
+7	positive	0.021978022
+7	solvents	0.021978022
+7	surfactants	0.021978022
+7	suspensions	0.021978022
+7	aqueous	0.018315018
+7	b3lyp	0.018315018
+7	cyclodextrins	0.018315018
+7	discotic	0.018315018
+7	elements	0.018315018
+7	impedance	0.018315018
+7	porphyrins	0.018315018
+7	surfactant	0.018315018
+8	ab initio	0.25
+8	density functional theory	0.25
+8	molecular dynamic	0.25
+8	gaussian basis set	1
+8	basis set	1
+8	electronic structure	0.25
+8	wave function	0.25
+8	correlated molecular calculation	1
+8	monte carlo	0.04
+8	gas phase	0.25
+8	force field	1
+8	cross section	0.04
+8	crystal structure	0.111111111
+8	excited state	1
+8	liquid water	1
+8	aqueous solution	1
+8	nonlinear optical propert	1
+8	carlo quantum mechanics	1
+8	optical propert	0.111111111
+8	molecular dynamics simulation	1
+8	hydrogen bond	1
+8	ground state	0.111111111
+8	molecular calculation	1
+8	thin film	0.111111111
+8	aqueous solution	1
+8	hydrogen bond	1
+8	potential energy surface	1
+8	configuration interaction	1
+8	molecular orbital method	1
+8	energy transfer	0.111111111
+8	molecular structure	1
+8	molecular dynamics simulation	1
+8	computer simulation	1
+8	photoelectron spectroscopy	1
+8	hartree fock	1
+8	generalized gradient approximation	1
+8	rate constant	1
+8	temperature dependence	0.111111111
+8	basis set	1
+8	density functional	0.25
+8	perturbation theory	0.25
+8	phase transition	0.01
+8	spectroscopic propert	0.25
+8	organic molecule	1
+8	nuclear magnetic resonance	1
+8	charge transfer	1
+8	mass spectrometry	1
+8	configuration interaction calculation	1
+8	conjugated polymer	0.25
+8	electronic propert	0.25
+8	intermediate neglect	0.25
+8	consistent basis set	1
+8	effective core potential	1
+8	electron correlation	1
+8	ab initio calculation	1
+8	monte carlo simulation	0.25
+8	potential energy surface	1
+8	binary mixture	1
+8	charge transport	1
+8	neutron diffraction	0.25
+9	chemistry	0.102154274
+9	nmr	0.066018068
+9	aqueous	0.065323141
+9	solvation	0.062543433
+9	solvent	0.047949965
+9	photoelectron	0.041000695
+9	acids	0.040305768
+9	ionic	0.038915914
+9	bonds	0.036136206
+9	photoionization	0.035441279
+9	fock	0.032661571
+9	polarizabilities	0.031271716
+9	dft	0.028492008
+9	hydration	0.027797081
+9	methanol	0.027102154
+9	thermochemistry	0.0257123
+9	radicals	0.025017373
+9	coincidence	0.022237665
+9	functionals	0.022237665
+9	intermolecular	0.022237665
+9	reactivity	0.022237665
+9	hyperpolarizability	0.021542738
+9	solvents	0.020847811
+9	attachment	0.020152884
+9	photoabsorption	0.020152884
+9	removal	0.020152884
+9	aromatic	0.019457957
+9	catalysts	0.019457957
+9	chloride	0.018068103
+9	hydrocarbons	0.017373176
+10	 ev.	0.129260288
+10	 ev 	0.129260288
+10	 ev)	0.129260288
+10	 ev,	0.129260288
+10	 pi 	0.113607675
+10	pi*	0.113607675
+10	pi(	0.113607675
+10	)pi	0.113607675
+10	pi(*)	0.113607675
+10	cm(	0.078515526
+10	ab initio	0.077000757
+10	 nm 	0.072961373
+10	cc pv	0.053016915
+10	cl+	0.050744761
+10	 cl,	0.050744761
+10	 cl 	0.050744761
+10	(cl	0.050744761
+10	cl)	0.050744761
+10	)cl	0.050744761
+10	cl(	0.050744761
+10	(oh)	0.049734915
+10	 oh 	0.049734915
+10	oh +	0.049734915
+10	oh+	0.049734915
+10	 co 	0.048977531
+10	 co,	0.048977531
+10	(co)	0.048977531
+10	(co 	0.048977531
+10	 co)	0.048977531
+10	)co 	0.048977531
+10	 co(	0.048977531
+10	 li 	0.041403686
+10	 li,	0.041403686
+10	li+	0.041403686
+10	 li(	0.041403686
+10	apmo/pt	0.036354456
+10	 pt 	0.036354456
+10	 pt,	0.036354456
+10	 pt(	0.036354456
+10	au(	0.03534461
+10	 au 	0.03534461
+10	 au,	0.03534461
+10	au3+	0.03534461
+10	 au)	0.03534461
+10	(au	0.03534461
+10	)au	0.03534461
+10	 hf 	0.031810149
+10	 hf,	0.031810149
+10	(hf)	0.031810149
+10	hf/	0.031810149
+10	ag(	0.030800303
+10	 ag 	0.030800303
+10	 ag,	0.030800303
+10	ag+	0.030800303
+10	 ag)	0.030800303
+10	(ag	0.030800303
+10	)ag	0.030800303
+10	/ag	0.030800303
+10	 ir 	0.027770765
+10	 ir,	0.027770765
+10	ir(	0.027770765
+10	 uv 	0.027518303
+10	 uv,	0.027518303
+10	(uv)	0.027518303
+10	uv vis	0.027518303
+10	 cu 	0.026255996
+10	 cu,	0.026255996
+10	(cu)	0.026255996
+10	(cu 	0.026255996
+10	 cu)	0.026255996
+10	)cu 	0.026255996
+10	 cu(	0.026255996
+10	cu+	0.026255996
+10	 cd 	0.024236304
+10	 cd,	0.024236304
+10	(cd)	0.024236304
+10	(cd 	0.024236304
+10	 cd)	0.024236304
+10	)cd 	0.024236304
+10	 cd(	0.024236304
+10	 mu 	0.022469073
+10	 mu,	0.022469073
+10	(mu)	0.022469073
+10	(mu 	0.022469073
+10	 mu)	0.022469073
+10	)mu 	0.022469073
+10	 mu(	0.022469073
+10	 md 	0.022216612
+10	(md)	0.022216612
+11	ab initio	0.256329114
+11	 pi 	0.107594937
+11	pi*	0.107594937
+11	pi(	0.107594937
+11	)pi	0.107594937
+11	pi(*)	0.107594937
+11	 co 	0.10443038
+11	 co,	0.10443038
+11	(co)	0.10443038
+11	(co 	0.10443038
+11	 co)	0.10443038
+11	)co 	0.10443038
+11	 co(	0.10443038
+11	(ii)	0.091772152
+11	(oh)	0.091772152
+11	 oh 	0.091772152
+11	au(	0.079113924
+11	 au 	0.079113924
+11	 au,	0.079113924
+11	au+	0.079113924
+11	au3+	0.079113924
+11	 pt 	0.079113924
+11	 pt,	0.079113924
+11	pt(	0.079113924
+11	cl+	0.063291139
+11	 cl,	0.063291139
+11	 cl 	0.063291139
+11	(cl	0.063291139
+11	cl)	0.063291139
+11	)cl	0.063291139
+11	cl(	0.063291139
+11	 cu 	0.063291139
+11	 cu,	0.063291139
+11	 cu(	0.063291139
+11	cu+	0.063291139
+11	 li 	0.063291139
+11	 li,	0.063291139
+11	li+	0.063291139
