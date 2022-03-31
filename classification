@@ -1,0 +1,99 @@
+import pandas as pd
+import glob
+data = pd.read_csv("Papers.txt", sep = "\t")
+data = data.astype(str)
+cf = pd.read_csv("Coefficients.txt", sep = "\t")
+for i in range(len(data)):
+    abstract = data.loc[i, "AB"]
+    title = data.loc[i, "TI"]
+    keyword = data.loc[i, "KW"]
+    keywordplus = data.loc[i, "KP"]
+    SCF_Atomic = 0; SCF_Statistical = 0; SCF_Mathematical = 0; SCF_Condensed = 0; SCF_Nuclear = 0; SCF_Optics = 0; SCF_Plasma = 0; SCF_Particle = 0
+    for k in glob.glob('Subfield?_labels.txt'):
+        lw = pd.read_csv(k, sep = "\t")
+        S1 = 0; S2 = 0; S3 = 0; S4 = 0; S5 = 0; S6 = 0; S7 = 0; S8 = 0; S9 = 0; S10 = 0; S11 = 0
+        for l in range(len(lw)):
+            label = lw.loc[l, "Label"]
+            weight = lw.loc[l, "Weight"]
+            if lw.loc[l, "SOMA"] == 1:
+                N = abstract.count(label)
+                S1 = S1 + N*weight
+            elif lw.loc[l, "SOMA"] == 2:
+                N = abstract.count(label)
+                S2 = S2 + N*weight
+            elif lw.loc[l, "SOMA"] == 3:
+                N = title.count(label)
+                S3 = S3 + N*weight
+            elif lw.loc[l, "SOMA"] == 4:
+                N = title.count(label)
+                S4 = S4 + N*weight
+            elif lw.loc[l, "SOMA"] == 5:
+                N = keyword.count(label)
+                S5 = S5 + N*weight
+            elif lw.loc[l, "SOMA"] == 6:
+                N = abstract.count(label)
+                S6 = S6 + N*weight    
+            elif lw.loc[l, "SOMA"] == 7:
+                N = keyword.count(label)
+                S7 = S7 + N*weight
+            elif lw.loc[l, "SOMA"] == 8:
+                N = keywordplus.count(label)
+                S8 = S8 + N*weight
+            elif lw.loc[l, "SOMA"] == 9:
+                N = keywordplus.count(label)
+                S9 = S9 + N*weight    
+            elif lw.loc[l, "SOMA"] == 10:
+                N = abstract.count(label)
+                S10 = S10 + N*weight
+            elif lw.loc[l, "SOMA"] == 11:
+                N = title.count(label)
+                S11 = S11 + N*weight
+        somas = [S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11]
+        if k == "Subfield1_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Atomic = SCF_Atomic + somas[alpha]*cf.loc[alpha, "Atomic"]
+        elif k == "Subfield2_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Statistical = SCF_Statistical + somas[alpha]*cf.loc[alpha, "Statistical"]
+        elif k == "Subfield3_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Mathematical = SCF_Mathematical + somas[alpha]*cf.loc[alpha, "Mathematical"]
+        elif k == "Subfield4_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Condensed = SCF_Condensed + somas[alpha]*cf.loc[alpha, "Condensed"]
+        elif k == "Subfield5_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Nuclear = SCF_Nuclear + somas[alpha]*cf.loc[alpha, "Nuclear"]
+        elif k == "Subfield6_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Optics = SCF_Optics + somas[alpha]*cf.loc[alpha, "Optics"]
+        elif k == "Subfield7_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Plasma = SCF_Plasma + somas[alpha]*cf.loc[alpha, "Plasma"]      
+        elif k == "Subfield8_labels.txt":
+            for alpha in range (len(somas)):
+                SCF_Particle = SCF_Particle + somas[alpha]*cf.loc[alpha, "Particle"]       
+    Results = [SCF_Atomic, SCF_Statistical, SCF_Mathematical, SCF_Condensed, SCF_Nuclear, SCF_Optics, SCF_Plasma, SCF_Particle]
+    Percentual = [i*100/sum(Results) for i in Results]
+    Results = [round(num, 3) for num in Results]
+    Percentual = [round(num, 2) for num in Percentual]
+    maximum = max(Results)
+    best = Results.index(maximum)
+    if best == 0:
+        classification = 'Atomic'
+    elif best ==1:
+        classification = 'Statistical'
+    elif best ==2:
+        classification = 'Mathematical'
+    elif best ==3:
+        classification = 'Condensed'
+    elif best ==4:
+        classification = 'Nuclear'
+    elif best ==5:
+        classification = 'Optics'
+    elif best ==6:
+        classification = 'Plasma'
+    elif best ==7:
+        classification = 'Particle'
+    print(data.loc[i, "ID"], classification)
+#    print(*Percentual, classification, sep = '%; ')
