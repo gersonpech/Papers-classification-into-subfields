@@ -1,1 +1,2 @@
 # Papers-classification-into-subfields
+This script classify the Physics papers into the following subfields: Atomic and Molecular Physics (Atomic); Statistical and Computational Physics (Statistical); Mathematical Physics (Mathematical); Condensed Matter and Materials (Condensed); Nuclear Physics and Applications (Nuclear); Optics and Photonics (Optics); Plasma Physics (Plasma); Particle and Field Physics (Particle)
